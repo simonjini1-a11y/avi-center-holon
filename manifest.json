@@ -1,0 +1,44 @@
+{
+  "name": "אבי סנטר טמבוריה — חולון",
+  "short_name": "AVI CENTER",
+  "description": "חנות חומרי בניין, שכפול מפתחות ואינסטלציה בקריית שרת חולון",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d0d0d",
+  "theme_color": "#D5001C",
+  "lang": "he",
+  "dir": "rtl",
+  "orientation": "portrait-primary",
+  "categories": ["shopping", "business"],
+  "icons": [
+    {
+      "src": "images/Screenshot_20260514_142334_Gallery.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "images/Screenshot_20260514_142334_Gallery.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "התקשר עכשיו",
+      "url": "tel:054-424-7393",
+      "description": "התקשר לאבי סנטר"
+    },
+    {
+      "name": "וואטסאפ",
+      "url": "https://wa.me/972544247393",
+      "description": "שלח וואטסאפ"
+    },
+    {
+      "name": "נווט אלינו",
+      "url": "https://waze.com/ul?place_id=ChIJ3V1OVYa1AhURvBc4TkBRz50&navigate=yes",
+      "description": "נווט ב-Waze"
+    }
+  ]
+}
