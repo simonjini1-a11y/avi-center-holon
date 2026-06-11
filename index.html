@@ -36,7 +36,8 @@
 <link rel="apple-touch-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' fill='%230D0D0D'/><text y='.9em' font-size='60' x='50%' text-anchor='middle' fill='%23D5001C'>A</text></svg>">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;700;800;900&family=Bebas+Neue&display=swap">
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;700;800;900&family=Bebas+Neue&display=swap" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;700;800;900&family=Bebas+Neue&display=swap"></noscript>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1HXEDW1G"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-ME1HXEDW1G');</script>
 <script type="application/ld+json">
@@ -125,8 +126,8 @@
   --t1:#ffffff; --t2:#b0b0b0; --t3:#666;
   --waze:#00C4FF; --waze-dark:#0099cc;
   --wa:#25D366;
-  --ff:'Heebo',sans-serif;
-  --ffd:'Bebas Neue',sans-serif;
+  --ff:'Heebo',-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif;
+  --ffd:'Bebas Neue','Arial Black',Impact,sans-serif;
   --ease:.2s ease;
   --r:4px;
 }
@@ -213,7 +214,7 @@ nav{position:sticky;top:0;background:rgba(13,13,13,.97);backdrop-filter:blur(12p
 .prod-card{background:var(--black3);border:1px solid var(--g2);border-radius:6px;overflow:hidden;transition:border-color var(--ease),transform var(--ease),box-shadow var(--ease);display:flex;flex-direction:column}
 .prod-card:hover{border-color:var(--red);transform:translateY(-4px);box-shadow:0 8px 32px rgba(0,0,0,.4)}
 .prod-img{width:100%;height:220px!important;min-height:220px!important;max-height:220px!important;overflow:hidden;display:block;background:var(--g1);object-fit:cover;flex-shrink:0}
-.prod-body{padding:16px 18px 14px}
+.prod-body{padding:16px 18px 14px;flex:1}
 .prod-cat{font-size:9px;font-weight:700;letter-spacing:3px;color:var(--red);text-transform:uppercase;margin-bottom:4px}
 .prod-brand{font-size:11px;color:var(--t3);letter-spacing:1px;margin-bottom:4px}
 .prod-name{font-size:17px;font-weight:700;color:var(--t1);margin-bottom:8px;letter-spacing:-.3px}
@@ -667,7 +668,7 @@ footer{background:#050505;border-top:1px solid var(--g1);padding:0}
 
     <!-- KEYLINE -->
     <article class="prod-card">
-      <img src="https://raw.githubusercontent.com/simonjini1-a11y/avi-center-holon/main/images/Screenshot_20260514_142334_Gallery.jpg" alt="לוח ריקי KEYLINE — מעל 100 סוגי מפתחות לשכפול" class="prod-img" loading="lazy" style="width:100%;height:220px;object-fit:cover;display:block">
+      <img src="https://raw.githubusercontent.com/simonjini1-a11y/avi-center-holon/main/images/Screenshot_20260514_142334_Gallery.jpg" alt="לוח ריקי KEYLINE — מעל 100 סוגי מפתחות לשכפול" class="prod-img" loading="lazy" style="width:100%;height:220px;object-fit:cover;display:block" width="800" height="220">
       <div class="prod-body">
         <div class="prod-cat">מנעולנות ושכפול</div>
         <div class="prod-brand">KEYLINE מורשה</div>
@@ -683,7 +684,7 @@ footer{background:#050505;border-top:1px solid var(--g1);padding:0}
 
     <!-- SPADINI SHOWER -->
     <article class="prod-card">
-      <img src="https://raw.githubusercontent.com/simonjini1-a11y/avi-center-holon/main/images/Screenshot_20260514_142624_Gallery.jpg" alt="מזלפי מקלחת SPADINI Anti-Calc — פיות סיליקון נגד אבנית" class="prod-img" loading="lazy" style="width:100%;height:220px;object-fit:cover;display:block">
+      <img src="https://raw.githubusercontent.com/simonjini1-a11y/avi-center-holon/main/images/Screenshot_20260514_142624_Gallery.jpg" alt="מזלפי מקלחת SPADINI Anti-Calc — פיות סיליקון נגד אבנית" class="prod-img" loading="lazy" style="width:100%;height:220px;object-fit:cover;display:block" width="800" height="220">
       <div class="prod-body">
         <div class="prod-cat">אינסטלציה</div>
         <div class="prod-brand">SPADINI</div>
@@ -699,7 +700,7 @@ footer{background:#050505;border-top:1px solid var(--g1);padding:0}
 
     <!-- PAINT -->
     <article class="prod-card">
-      <img src="https://raw.githubusercontent.com/simonjini1-a11y/avi-center-holon/main/images/Screenshot_20260514_142640_Gallery.jpg" alt="מברשות צבע מקצועיות — DIY וסדרת CLEOCOL" class="prod-img" loading="lazy" style="width:100%;height:220px;object-fit:cover;display:block">
+      <img src="https://raw.githubusercontent.com/simonjini1-a11y/avi-center-holon/main/images/Screenshot_20260514_142640_Gallery.jpg" alt="מברשות צבע מקצועיות — DIY וסדרת CLEOCOL" class="prod-img" loading="lazy" style="width:100%;height:220px;object-fit:cover;display:block" width="800" height="220">
       <div class="prod-body">
         <div class="prod-cat">צביעה ותחזוקה</div>
         <div class="prod-brand">HERMAN</div>
@@ -716,7 +717,7 @@ footer{background:#050505;border-top:1px solid var(--g1);padding:0}
 
     <!-- ADHESIVES -->
     <article class="prod-card">
-      <img src="https://raw.githubusercontent.com/simonjini1-a11y/avi-center-holon/main/images/Screenshot_20260514_142741_Gallery.jpg" alt="סיליקון איטום, SILICONE Sanitary, חומרי ניקוי DURGOL" class="prod-img" loading="lazy" style="width:100%;height:220px;object-fit:cover;display:block">
+      <img src="https://raw.githubusercontent.com/simonjini1-a11y/avi-center-holon/main/images/Screenshot_20260514_142741_Gallery.jpg" alt="סיליקון איטום, SILICONE Sanitary, חומרי ניקוי DURGOL" class="prod-img" loading="lazy" style="width:100%;height:220px;object-fit:cover;display:block" width="800" height="220">
       <div class="prod-body">
         <div class="prod-cat">דבקים ואיטום</div>
         <div class="prod-brand">CEYS · BISON</div>
@@ -733,7 +734,7 @@ footer{background:#050505;border-top:1px solid var(--g1);padding:0}
 
     <!-- TOOLS -->
     <article class="prod-card">
-      <img src="https://raw.githubusercontent.com/simonjini1-a11y/avi-center-holon/main/images/Screenshot_20260514_142523_Gallery.jpg" alt="סט צבתות ORDERLY + מפשקות מקצועיות" class="prod-img" loading="lazy" style="width:100%;height:220px;object-fit:cover;display:block">
+      <img src="https://raw.githubusercontent.com/simonjini1-a11y/avi-center-holon/main/images/Screenshot_20260514_142523_Gallery.jpg" alt="סט צבתות ORDERLY + מפשקות מקצועיות" class="prod-img" loading="lazy" style="width:100%;height:220px;object-fit:cover;display:block" width="800" height="220">
       <div class="prod-body">
         <div class="prod-cat">כלי עבודה</div>
         <div class="prod-brand">ORDERLY · CONAN</div>
@@ -750,7 +751,7 @@ footer{background:#050505;border-top:1px solid var(--g1);padding:0}
 
     <!-- ELECTRICAL -->
     <article class="prod-card">
-      <img src="https://raw.githubusercontent.com/simonjini1-a11y/avi-center-holon/main/images/Screenshot_20260514_142839_Gallery.jpg" alt="נורות LED LUXTEN + שעוני זמן — חשמל ותאורה" class="prod-img" loading="lazy" style="width:100%;height:220px;object-fit:cover;display:block">
+      <img src="https://raw.githubusercontent.com/simonjini1-a11y/avi-center-holon/main/images/Screenshot_20260514_142839_Gallery.jpg" alt="נורות LED LUXTEN + שעוני זמן — חשמל ותאורה" class="prod-img" loading="lazy" style="width:100%;height:220px;object-fit:cover;display:block" width="800" height="220">
       <div class="prod-body">
         <div class="prod-cat">חשמל ותאורה</div>
         <div class="prod-brand">LUXTEN · Midea · DEKO</div>
@@ -767,7 +768,7 @@ footer{background:#050505;border-top:1px solid var(--g1);padding:0}
 
     <!-- LOCKS -->
     <article class="prod-card">
-      <img src="https://raw.githubusercontent.com/simonjini1-a11y/avi-center-holon/main/images/Screenshot_20260514_142314_Gallery.jpg" alt="מנעולים SALDA Anti-Snap וצילינדרים — מחלקת מנעולים אבי סנטר חולון" class="prod-img" loading="lazy" style="width:100%;height:220px;object-fit:cover;display:block">
+      <img src="https://raw.githubusercontent.com/simonjini1-a11y/avi-center-holon/main/images/Screenshot_20260514_142314_Gallery.jpg" alt="מנעולים SALDA Anti-Snap וצילינדרים — מחלקת מנעולים אבי סנטר חולון" class="prod-img" loading="lazy" style="width:100%;height:220px;object-fit:cover;display:block" width="800" height="220">
       <div class="prod-body">
         <div class="prod-cat">מנעולנות</div>
         <div class="prod-brand">SALDA · HERMAN</div>
@@ -784,7 +785,7 @@ footer{background:#050505;border-top:1px solid var(--g1);padding:0}
 
     <!-- SPRAY / TOOLS general -->
     <article class="prod-card">
-      <img src="https://raw.githubusercontent.com/simonjini1-a11y/avi-center-holon/main/images/Screenshot_20260514_142817_Gallery.jpg" alt="ספריי צבע יעקבי בכל הצבעים וסכיני גימור KLIPS — אבי סנטר חולון" class="prod-img" loading="lazy" style="width:100%;height:220px;object-fit:cover;display:block">
+      <img src="https://raw.githubusercontent.com/simonjini1-a11y/avi-center-holon/main/images/Screenshot_20260514_142817_Gallery.jpg" alt="ספריי צבע יעקבי בכל הצבעים וסכיני גימור KLIPS — אבי סנטר חולון" class="prod-img" loading="lazy" style="width:100%;height:220px;object-fit:cover;display:block" width="800" height="220">
       <div class="prod-body">
         <div class="prod-cat">ספריי וכלי גמר</div>
         <div class="prod-brand">יעקבי · KLIPS</div>
