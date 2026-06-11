@@ -254,7 +254,7 @@ nav{position:sticky;top:0;background:rgba(13,13,13,.97);backdrop-filter:blur(12p
 
 /* === CONTACT === */
 .contact-section{padding:72px 28px 64px;background:var(--black2)}
-.contact-inner{max-width:1100px;margin:0 auto}
+.contact-inner{max-width:800px;margin:0 auto;text-align:center}
 .contact-title{font-family:var(--ffd);font-size:clamp(36px,5vw,64px);color:var(--t1);letter-spacing:3px;line-height:1;margin-bottom:6px}
 .contact-title span{color:var(--red)}
 .contact-sub{font-size:13px;color:var(--t3);margin-bottom:36px;letter-spacing:.5px}
@@ -267,7 +267,7 @@ nav{position:sticky;top:0;background:rgba(13,13,13,.97);backdrop-filter:blur(12p
 .c-val a:hover{color:var(--red)}
 .map-frame{width:100%;height:280px;border:none;border-radius:6px;filter:grayscale(85%) contrast(1.1);transition:filter .4s}
 .map-frame:hover{filter:grayscale(20%)}
-.contact-ctas{display:flex;gap:10px;flex-wrap:wrap;margin-top:28px}
+.contact-ctas{display:flex;gap:10px;flex-wrap:wrap;margin-top:28px;justify-content:center}
 
 /* === FOOTER === */
 footer{background:#050505;border-top:1px solid var(--g1);padding:0}
@@ -686,8 +686,8 @@ footer{background:#050505;border-top:1px solid var(--g1);padding:0}
   <div style="max-width:1100px;margin:0 auto">
     <div class="section-header">
       <div class="section-label">מדריכים מקצועיים</div>
-      <h2 class="section-title" id="articles-title">שאלות <span>ותשובות</span></h2>
-      <p class="section-sub">מדריכים פרקטיים לפתרון בעיות — שכפול מפתחות, אינסטלציה, צבע, חשמל ועוד</p>
+      <h2 class="section-title" id="articles-title">מדריכים <span>ומאמרים</span></h2>
+      <p class="section-sub">חפש מדריך מקצועי לפי מחלקה, מוצר או תקלה — תוכן שעוזר לך לפתור בעיות בבית</p>
     </div>
     <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:20px">
 
@@ -781,12 +781,65 @@ footer{background:#050505;border-top:1px solid var(--g1);padding:0}
   </div>
 </section>
 
+<!-- ARTICLE SEARCH -->
+<section style="padding:40px 28px 0;background:var(--black)" id="search-articles">
+  <div style="max-width:820px;margin:0 auto">
+    <div style="position:relative">
+      <input
+        type="search"
+        id="article-search"
+        placeholder="🔍  חפש מדריך... (SPADINI, נזילה, צביעה, מפתח...)"
+        style="width:100%;padding:14px 20px;background:var(--black3);border:1px solid var(--g2);border-radius:6px;color:var(--t1);font-size:14px;font-family:var(--ff);direction:rtl;box-sizing:border-box;transition:border-color .2s"
+        oninput="searchArticles(this.value)"
+        onfocus="this.style.borderColor='var(--red)'"
+        onblur="this.style.borderColor='var(--g2)'"
+      >
+    </div>
+    <div id="search-results" style="margin-top:12px;display:none"></div>
+  </div>
+</section>
+
+<script>
+const ARTICLES = [
+  {id:'article-instalazia', title:'חומרי אינסטלציה בחולון', tags:'spadini אינסטלציה ברז צינור נזילה aisi שזירה מקלחת', emoji:'🔧'},
+  {id:'article-nizila', title:'נזילת מים בבית — מה עושים?', tags:'נזילה מים spadini סיליקון מזלף אבנית anti-calc', emoji:'💧'},
+  {id:'article-spadini', title:'SPADINI לעומת ברזים זולים', tags:'spadini ברז זול השוואה dzr קרמי כרום איכות', emoji:'⚖️'},
+  {id:'article-tzvia', title:'צביעת קירות — המדריך המלא', tags:'צבע גליל מברשת herman יעקבי klips סרט מסקינג', emoji:'🎨'},
+  {id:'article-shikpul', title:'שכפול מפתחות חולון', tags:'מפתח שכפול keyline ברלין אמריקאי רכב דירה', emoji:'🔑'},
+];
+
+function searchArticles(q) {
+  const res = document.getElementById('search-results');
+  if (!q || q.length < 2) { res.style.display='none'; return; }
+  const matches = ARTICLES.filter(a =>
+    a.title.includes(q) || a.tags.includes(q.toLowerCase())
+  );
+  if (!matches.length) {
+    res.innerHTML = '<p style="font-size:13px;color:var(--t3);padding:8px 0">לא נמצאו מדריכים — נסה מילה אחרת</p>';
+  } else {
+    res.innerHTML = matches.map(a =>
+      `<a href="#${a.id}" onclick="document.getElementById('article-search').value='';document.getElementById('search-results').style.display='none'"
+        style="display:flex;align-items:center;gap:12px;padding:12px 16px;background:var(--black3);border:1px solid var(--g2);border-radius:6px;margin-bottom:8px;color:var(--t1);text-decoration:none;font-size:14px;transition:border-color .2s"
+        onmouseover="this.style.borderColor='var(--red)'" onmouseout="this.style.borderColor='var(--g2)'">
+        <span style="font-size:20px">${a.emoji}</span>
+        <span>${a.title}</span>
+        <span style="margin-right:auto;color:var(--red);font-size:12px">קרא ←</span>
+      </a>`
+    ).join('');
+  }
+  res.style.display = 'block';
+}
+</script>
+
 <!-- SEO ARTICLE 5: אינסטלציה חולון -->
 <section style="padding:72px 28px;background:var(--black2)" id="article-instalazia" aria-labelledby="art5-title">
   <div style="max-width:820px;margin:0 auto">
     <div class="section-label">מדריך מקצועי · אינסטלציה ביתית</div>
     <h2 style="font-family:var(--ffd);font-size:clamp(32px,5vw,56px);letter-spacing:2px;color:var(--t1);margin-bottom:16px;line-height:1" id="art5-title">חומרי אינסטלציה בחולון — <span style="color:var(--red)">המדריך המלא</span></h2>
     <p style="font-size:15px;color:var(--t2);line-height:1.85;margin-bottom:24px">שיפוץ אמבטיה, החלפת ברז, תיקון נזילה — כל אחד מהם דורש את החומרים הנכונים. בחולון ובאזור המרכז, קשיות המים הגבוהה (280-320 mg/L) משנה לחלוטין את בחירת הציוד. מה שעובד באירופה — לא בהכרח מחזיק בישראל.</p>
+    <details>
+      <summary style="display:inline-flex;align-items:center;gap:8px;cursor:pointer;font-size:13px;font-weight:700;color:var(--red);letter-spacing:1px;margin:16px 0 0;list-style:none;padding:10px 20px;border:1px solid var(--red);border-radius:4px;transition:all .2s">קרא את המדריך המלא ↓</summary>
+      <div style="margin-top:16px">
 
     <h3 style="font-family:var(--ffd);font-size:24px;letter-spacing:1px;color:var(--t1);margin:32px 0 12px">צינורות שזירה — AISI 304 לעומת פלדה רגילה</h3>
     <p style="font-size:14px;color:var(--t2);line-height:1.85;margin-bottom:16px">הטעות הנפוצה ביותר בשיפוץ אמבטיה בישראל: רכישת צינור שזירה זול ממתכת לא מוגדרת. תוך שנה-שנתיים, הצינור מתחיל לחלוד מבפנים — ומזהם את המים.</p>
@@ -819,6 +872,8 @@ footer{background:#050505;border-top:1px solid var(--g1);padding:0}
     <p style="font-size:14px;color:var(--t2);line-height:1.85;margin-bottom:12px"><strong style="color:var(--t1)">אפשר לטפל לבד:</strong> החלפת מזלף, החלפת ברז שטח, תיקון ניפוח צינור שזירה, הוספת מסנן, החלפת מושב אסלה.</p>
     <p style="font-size:14px;color:var(--t2);line-height:1.85;margin-bottom:32px"><strong style="color:var(--t1)">חייבים אינסטלטור:</strong> נזילה בצנרת ראשית, פתיחת קיר, שינוי מיקום ברז, בעיה בדוד שמש.</p>
 
+    </div>
+    </details>
     <div style="background:var(--black3);border:1px solid var(--g2);border-radius:6px;padding:20px;display:flex;align-items:center;gap:16px;flex-wrap:wrap">
       <div style="flex:1;min-width:200px">
         <div style="font-size:11px;font-weight:700;letter-spacing:2px;color:var(--red);margin-bottom:6px">כל חומרי האינסטלציה — חולון</div>
@@ -835,6 +890,9 @@ footer{background:#050505;border-top:1px solid var(--g1);padding:0}
     <div class="section-label">מדריך מקצועי · אינסטלציה</div>
     <h2 style="font-family:var(--ffd);font-size:clamp(32px,5vw,56px);letter-spacing:2px;color:var(--t1);margin-bottom:16px;line-height:1" id="art1-title">נזילת מים בבית — <span style="color:var(--red)">מה עושים?</span></h2>
     <p style="font-size:15px;color:var(--t2);line-height:1.85;margin-bottom:24px">נזילת מים היא אחת התקלות הנפוצות ביותר בבתים ישראלים, במיוחד בגלל קשיות המים הגבוהה. ברוב המקרים אפשר לפתור את הבעיה בלי אינסטלטור, עם החומרים הנכונים.</p>
+    <details>
+      <summary style="display:inline-flex;align-items:center;gap:8px;cursor:pointer;font-size:13px;font-weight:700;color:var(--red);letter-spacing:1px;margin:16px 0 0;list-style:none;padding:10px 20px;border:1px solid var(--red);border-radius:4px;transition:all .2s">קרא את המדריך המלא ↓</summary>
+      <div style="margin-top:16px">
 
     <h3 style="font-family:var(--ffd);font-size:24px;letter-spacing:1px;color:var(--t1);margin:32px 0 12px">איך לאתר את מקור הנזילה</h3>
     <p style="font-size:14px;color:var(--t2);line-height:1.85;margin-bottom:16px">לפני שרצים לקנות חומרים, חשוב לאתר את המקור בדיוק. בדקו את כל נקודות החיבור בצנרת: חיבורי שזירה, ברזים, ומנגנוני הדחה. נזילה מחיבור שזירה מתגלה לרוב כטיפה עדינה שמתייבשת ומשאירה כתם לבן (סיד).</p>
@@ -858,6 +916,8 @@ footer{background:#050505;border-top:1px solid var(--g1);padding:0}
     <p style="font-size:14px;color:var(--t2);line-height:1.85;margin-bottom:16px">המים בחולון ובכל מרכז ישראל קשים במיוחד — קשיות של 280–320 mg/L. אבנית סותמת את פיות המזלף תוך שנה-שנתיים. הפתרון הטוב ביותר: מזלפי <strong style="color:var(--t1)">SPADINI Anti-Calc</strong> עם פיות סיליקון — פינוי אבנית בלחיצת אצבע, ללא השרייה בחומץ.</p>
     <p style="font-size:14px;color:var(--t2);line-height:1.85;margin-bottom:32px">אם כבר יש אבנית: השרו את ראש המזלף בחומץ לבן 5% למשך לילה שלם. בבוקר שטפו עם מים חמים ולחצו כל פיה בנפרד.</p>
 
+    </div>
+    </details>
     <div style="background:var(--black3);border:1px solid var(--g2);border-radius:6px;padding:20px;display:flex;align-items:center;gap:16px;flex-wrap:wrap">
       <div style="flex:1;min-width:200px">
         <div style="font-size:11px;font-weight:700;letter-spacing:2px;color:var(--red);margin-bottom:6px">יש שאלה? אנחנו כאן</div>
@@ -875,6 +935,9 @@ footer{background:#050505;border-top:1px solid var(--g1);padding:0}
     <div class="section-label">מדריך מקצועי · אינסטלציה</div>
     <h2 style="font-family:var(--ffd);font-size:clamp(32px,5vw,56px);letter-spacing:2px;color:var(--t1);margin-bottom:16px;line-height:1" id="art4-title">SPADINI לעומת ברזים זולים — <span style="color:var(--red)">מה ההבדל האמיתי?</span></h2>
     <p style="font-size:15px;color:var(--t2);line-height:1.85;margin-bottom:24px">שאלה שאנחנו שומעים כל יום בחנות: "למה לשלם יותר על SPADINI כשיש ברז ב-20 ש"ח?" התשובה נמצאת בתוך הקיר — ולא תראו אותה עד שיהיה מאוחר מדי.</p>
+    <details>
+      <summary style="display:inline-flex;align-items:center;gap:8px;cursor:pointer;font-size:13px;font-weight:700;color:var(--red);letter-spacing:1px;margin:16px 0 0;list-style:none;padding:10px 20px;border:1px solid var(--red);border-radius:4px;transition:all .2s">קרא את המדריך המלא ↓</summary>
+      <div style="margin-top:16px">
 
     <h3 style="font-family:var(--ffd);font-size:24px;letter-spacing:1px;color:var(--t1);margin:32px 0 12px">מה בתוך הברז הזול?</h3>
     <p style="font-size:14px;color:var(--t2);line-height:1.85;margin-bottom:16px">ברזים זולים עשויים מ<strong style="color:var(--t1)">פליז עם אחוז עופרת גבוה</strong> — מתכת רכה שמתאימה לייצור מהיר וזול. בתוך 12-18 חודשים, בעיקר במים הקשים של ישראל (280-320 mg/L סידן), הפגשי הגומי מתפוררים, הציר נשחק והברז מתחיל לטפטף.</p>
@@ -891,6 +954,8 @@ footer{background:#050505;border-top:1px solid var(--g1);padding:0}
     </ul>
 
     <h3 style="font-family:var(--ffd);font-size:24px;letter-spacing:1px;color:var(--t1);margin:32px 0 12px">חשבון כלכלי פשוט</h3>
+    </div>
+    </details>
     <div style="background:var(--black3);border:1px solid var(--g2);border-radius:6px;padding:20px;margin-bottom:20px">
       <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px">
         <div style="border-left:1px solid var(--g2);padding-left:16px">
@@ -924,6 +989,9 @@ footer{background:#050505;border-top:1px solid var(--g1);padding:0}
     <div class="section-label">מדריך מקצועי · צביעה ושיפוץ</div>
     <h2 style="font-family:var(--ffd);font-size:clamp(32px,5vw,56px);letter-spacing:2px;color:var(--t1);margin-bottom:16px;line-height:1" id="art3-title">צביעת קירות בבית — <span style="color:var(--red)">המדריך המלא</span></h2>
     <p style="font-size:15px;color:var(--t2);line-height:1.85;margin-bottom:24px">צביעה עצמאית של דירה נראית פשוטה — אבל הבדל בין תוצאה מקצועית לתוצאה מאכזבת הוא בבחירת הכלים הנכונים. 80% מהבעיות בצביעה ביתית נובעות מגליל לא מתאים.</p>
+    <details>
+      <summary style="display:inline-flex;align-items:center;gap:8px;cursor:pointer;font-size:13px;font-weight:700;color:var(--red);letter-spacing:1px;margin:16px 0 0;list-style:none;padding:10px 20px;border:1px solid var(--red);border-radius:4px;transition:all .2s">קרא את המדריך המלא ↓</summary>
+      <div style="margin-top:16px">
 
     <h3 style="font-family:var(--ffd);font-size:24px;letter-spacing:1px;color:var(--t1);margin:32px 0 12px">בחירת גליל — המדריך</h3>
     <p style="font-size:14px;color:var(--t2);line-height:1.85;margin-bottom:12px">לא כל גליל מתאים לכל קיר:</p>
@@ -949,6 +1017,8 @@ footer{background:#050505;border-top:1px solid var(--g1);padding:0}
     <h3 style="font-family:var(--ffd);font-size:24px;letter-spacing:1px;color:var(--t1);margin:32px 0 12px">ספריי צבע — מתי ולמה</h3>
     <p style="font-size:14px;color:var(--t2);line-height:1.85;margin-bottom:32px">ספריי יעקבי מתאים לגימורים, ריהוט, מתכת ופלסטיק. הכללים: מרחק <strong style="color:var(--t1)">25–30 ס"מ</strong> מהמשטח, תנועות רחבות ואחידות, שכבות דקות מרובות עדיפות על שכבה עבה אחת. יבוש מגע: 15–20 דקות. יבוש מלא: 24 שעות.</p>
 
+    </div>
+    </details>
     <div style="background:var(--black3);border:1px solid var(--g2);border-radius:6px;padding:20px;display:flex;align-items:center;gap:16px;flex-wrap:wrap">
       <div style="flex:1;min-width:200px">
         <div style="font-size:11px;font-weight:700;letter-spacing:2px;color:var(--red);margin-bottom:6px">כל הציוד לצביעה — במקום אחד</div>
@@ -961,7 +1031,7 @@ footer{background:#050505;border-top:1px solid var(--g1);padding:0}
 
 
 <!-- SHIKPUL DEDICATED -->
-<section class="shikpul-section reveal" id="shikpul" aria-labelledby="shikpul-title">
+<section class="shikpul-section reveal" id="article-shikpul" aria-labelledby="shikpul-title">
   <div class="shikpul-inner">
     <div>
       <div class="section-label">KEYLINE מורשה</div>
