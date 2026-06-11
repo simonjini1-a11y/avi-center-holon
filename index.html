@@ -468,6 +468,35 @@ footer{background:#050505;border-top:1px solid var(--g1);padding:0}
 }
 </script>
 
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "אבי סנטר טמבוריה",
+  "review": [
+    {
+      "@type": "Review",
+      "author": {"@type": "Person", "name": "Aya Gutwirt"},
+      "reviewRating": {"@type": "Rating", "ratingValue": 5, "bestRating": 5},
+      "reviewBody": "מעולה, יעיל וזריז. שירות מקצועי ואדיב."
+    },
+    {
+      "@type": "Review",
+      "author": {"@type": "Person", "name": "עומר זאבי"},
+      "reviewRating": {"@type": "Rating", "ratingValue": 5, "bestRating": 5},
+      "reviewBody": "בן אדם זהב! מומלץ לכולם להגיע לקנות דרכו."
+    },
+    {
+      "@type": "Review",
+      "author": {"@type": "Person", "name": "מורן איגליצקי"},
+      "reviewRating": {"@type": "Rating", "ratingValue": 5, "bestRating": 5},
+      "reviewBody": "שירותי אמין ומקצועיים. אין מילים לתאר. ממליצה בחום."
+    }
+  ]
+}
+</script>
+
 </head>
 <body>
 <a href="#main" class="skip">דלג לתוכן הראשי</a>
@@ -1254,7 +1283,7 @@ function searchArticles(q) {
     </a>
   </div>
   <div style="font-size:11px;color:#333;border-top:1px solid #1a1a1a;padding-top:16px">
-    © 2026 אבי סנטר טמבוריה · כל הזכויות שמורות
+    © 2026 אבי סנטר טמבוריה · כל הזכויות שמורות &nbsp;·&nbsp; <a href="mailto:avicenter@outlook.com" style="color:#444">avicenter@outlook.com</a>
   </div>
 </footer>
 
@@ -1281,5 +1310,16 @@ document.querySelectorAll('.prod-card details').forEach(d=>{
   });
 });
 </script>
+
+<script>
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('/sw.js')
+      .then(reg => console.log('SW registered'))
+      .catch(err => console.log('SW error:', err));
+  });
+}
+</script>
+
 </body>
 </html>
