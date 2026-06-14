@@ -1,8 +1,22 @@
 // AVI CENTER Service Worker v2.0
-const CACHE_NAME = 'avi-center-v2';
+const CACHE_NAME = 'avi-center-v3';
 const STATIC_ASSETS = [
   '/',
   '/index.html',
+  '/shikpul.html',
+  '/instalazia.html',
+  '/shchunot.html',
+  '/madrich-tzvia.html',
+  '/madrich-led.html',
+  '/madrich-manulin.html',
+  '/madrich-nizila.html',
+  '/madrich-hadabara.html',
+  '/madrich-spadini.html',
+  '/madrich-klim.html',
+  '/madrich-ritzuf.html',
+  '/madrich-bidud.html',
+  '/madrich-ginon.html',
+  '/madrich-instalazia.html',
   '/manifest.json',
   '/images/Screenshot_20260514_142314_Gallery.webp',
   '/images/Screenshot_20260514_142334_Gallery.webp',
