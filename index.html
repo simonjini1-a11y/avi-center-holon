@@ -368,6 +368,16 @@ footer{background:#050505;border-top:1px solid var(--g1);padding:0}
   footer address{text-align:center}
   footer > div:first-child > div{justify-content:center!important;flex-wrap:wrap}
 }
+
+  /* === ANIMATIONS 16/6/2026 === */
+  @keyframes waPulse{0%,100%{box-shadow:0 4px 20px rgba(37,211,102,.4),0 0 0 0 rgba(37,211,102,.3)}60%{box-shadow:0 6px 28px rgba(37,211,102,.6),0 0 0 16px rgba(37,211,102,0)}}
+  @keyframes bttBounce{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+  @keyframes navDown{from{transform:translateY(-100%);opacity:0}to{transform:translateY(0);opacity:1}}
+  @keyframes fadeUp{from{opacity:0;transform:translateY(22px)}to{opacity:1;transform:translateY(0)}}
+  @keyframes lineGrow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+  .sc-up{opacity:0;transform:translateY(26px);transition:opacity .8s cubic-bezier(.16,1,.3,1),transform .8s cubic-bezier(.16,1,.3,1)}
+  .sc-up.go{opacity:1;transform:translateY(0)}
+  .d1{transition-delay:.1s}.d2{transition-delay:.2s}.d3{transition-delay:.3s}.d4{transition-delay:.4s}.d5{transition-delay:.5s}
 </style>
 
 <script type="application/ld+json">
@@ -474,7 +484,7 @@ footer{background:#050505;border-top:1px solid var(--g1);padding:0}
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.9,
-    "reviewCount": 62,
+    "reviewCount": 80,
     "bestRating": 5
   },
   "priceRange": "₪₪",
@@ -591,13 +601,24 @@ footer{background:#050505;border-top:1px solid var(--g1);padding:0}
 </script>
 </head>
 <body>
+
+<!-- WA FLOAT BUTTON -->
+<a href="https://wa.me/972544247393?text=היי אבי, אשמח להתייעץ" 
+   style="position:fixed;bottom:24px;left:20px;width:56px;height:56px;background:#25D366;border-radius:50%;display:flex;align-items:center;justify-content:center;z-index:9999;animation:waPulse 2.5s ease-in-out infinite;box-shadow:0 4px 20px rgba(37,211,102,.4);text-decoration:none" 
+   aria-label="שלח וואטסאפ" target="_blank">
+  <svg width="28" height="28" viewBox="0 0 24 24" fill="white" xmlns="http://www.w3.org/2000/svg">
+    <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/>
+    <path d="M12 0C5.373 0 0 5.373 0 12c0 2.123.554 4.118 1.523 5.849L0 24l6.335-1.507C8.024 23.465 9.979 24 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-1.955 0-3.78-.552-5.33-1.507l-.38-.228-3.96.942.976-3.854-.249-.396C2.05 15.472 1.5 13.8 1.5 12 1.5 6.201 6.201 1.5 12 1.5S22.5 6.201 22.5 12 17.799 22.5 12 22.5z" fill-rule="evenodd" clip-rule="evenodd"/>
+  </svg>
+</a>
+
 <a href="#main" class="skip">דלג לתוכן הראשי</a>
 
 
-<button class="btt" id="btt" onclick="window.scrollTo({top:0,behavior:'smooth'})" aria-label="חזור לראש">↑</button>
+<button class="btt" id="btt" style="animation:bttBounce 2s ease-in-out infinite" onclick="window.scrollTo({top:0,behavior:'smooth'})" aria-label="חזור לראש">↑</button>
 
 <!-- NAV -->
-<nav id="navbar" role="navigation" aria-label="ניווט ראשי" style="display:grid;grid-template-columns:auto 1fr auto;align-items:center;gap:12px">
+<nav id="navbar" style="animation:navDown .6s cubic-bezier(.16,1,.3,1) both" role="navigation" aria-label="ניווט ראשי" style="display:grid;grid-template-columns:auto 1fr auto;align-items:center;gap:12px">
   <a href="#top" class="nav-logo" style="text-align:center;padding:0 4px"><span class="red">CENTER</span>AVI</a>
   <ul class="nav-links" role="list" style="justify-content:center">
     <li><a href="#about">אודות</a></li>
@@ -673,14 +694,14 @@ footer{background:#050505;border-top:1px solid var(--g1);padding:0}
 <section class="hero" id="top" aria-label="כותרת ראשית">
   <div class="hero-bg"></div>
   <div class="hero-content">
-    <div class="hero-badge">טמבוריה וחומרי בניין · קריית שרת · חולון · משנת 1994</div>
-    <h1 class="hero-title">
+    <div class="hero-badge" style="animation:fadeUp .7s cubic-bezier(.16,1,.3,1) .15s both">טמבוריה וחומרי בניין · קריית שרת · חולון · משנת 1994</div>
+    <h1 class="hero-title" style="animation:fadeUp .8s cubic-bezier(.16,1,.3,1) .3s both">
       <span class="sr-only">חנות חומרי בניין חולון | שכפול מפתחות קריית שרת</span>
       <span class="white" aria-hidden="true">AVI</span>
       <span class="red" aria-hidden="true">CENTER</span>
     </h1>
-    <p class="hero-sub">חנות חומרי בניין מקצועית בקריית שרת חולון. שכפול מפתחות · SPADINI · כלי עבודה · צבע · הדברה. משרתים: קריית שרת, נאות רחל, תל גיבורים, אגרובנק, רסקו, ג'סי כהן, בת ים ועוד. שירות אישי מאז 1994.</p>
-    <div class="hero-ctas" style="justify-content:center;display:flex;gap:10px;flex-wrap:wrap">
+    <p class="hero-sub" style="animation:fadeUp .8s cubic-bezier(.16,1,.3,1) .45s both">חנות חומרי בניין מקצועית בקריית שרת חולון. שכפול מפתחות · SPADINI · כלי עבודה · צבע · הדברה. משרתים: קריית שרת, נאות רחל, תל גיבורים, אגרובנק, רסקו, ג'סי כהן, בת ים ועוד. שירות אישי מאז 1994.</p>
+    <div class="hero-ctas" style="animation:fadeUp .8s cubic-bezier(.16,1,.3,1) .6s both" style="justify-content:center;display:flex;gap:10px;flex-wrap:wrap">
       <a href="tel:054-424-7393" class="btn btn-red">📞 התקשר עכשיו</a>
       <a href="https://wa.me/972544247393?text=%D7%94%D7%99%D7%99+%D7%90%D7%91%D7%99%2C+%D7%90%D7%A9%D7%9E%D7%97+%D7%9C%D7%94%D7%AA%D7%99%D7%99%D7%A2%D7%A5..." target="_blank" rel="noopener" class="btn btn-wa">💬 וואטסאפ</a>
       <a href="https://waze.com/ul?place_id=ChIJ3V1OVYa1AhURvBc4TkBRz50&navigate=yes" target="_blank" rel="noopener" class="btn btn-waze">🧭 נווט אלינו</a>
@@ -690,20 +711,20 @@ footer{background:#050505;border-top:1px solid var(--g1);padding:0}
 
 <!-- STATS -->
 <div class="stats" id="about">
-  <div class="stat"><div class="stat-num">30+</div><div class="stat-lbl">שנות ניסיון</div></div>
-  <div class="stat"><div class="stat-num">15+</div><div class="stat-lbl">מחלקות</div></div>
-  <div class="stat"><div class="stat-num">4.9★</div><div class="stat-lbl">גוגל</div></div>
-  <div class="stat"><div class="stat-num">62</div><div class="stat-lbl">ביקורות</div></div>
-  <div class="stat"><div class="stat-num">100+</div><div class="stat-lbl">סוגי מפתחות</div></div>
+  <div class="stat sc-up"><div class="stat-num" id="cnt-exp">30+</div><div class="stat-lbl">שנות ניסיון</div></div>
+  <div class="stat sc-up"><div class="stat-num" id="cnt-dep">15+</div><div class="stat-lbl">מחלקות</div></div>
+  <div class="stat sc-up"><div class="stat-num">4.9★</div><div class="stat-lbl">גוגל</div></div>
+  <div class="stat sc-up"><div class="stat-num" id="cnt-rev">80</div><div class="stat-lbl">ביקורות</div></div>
+  <div class="stat sc-up"><div class="stat-num" id="cnt-key">100+</div><div class="stat-lbl">סוגי מפתחות</div></div>
 </div>
 
 <!-- REVIEWS -->
 <section class="reviews-section reveal" id="reviews" aria-labelledby="reviews-title">
   <div class="elfsight-wrapper">
-    <div class="section-header">
+    <div class="section-header sc-up">
       <div class="section-label">ביקורות לקוחות</div>
       <h2 class="section-title" id="reviews-title">מה לקוחות <span>אומרים</span></h2>
-      <p class="section-sub">ביקורות אמיתיות ישירות מגוגל · 4.9 ★ · 62 ביקורות</p>
+      <p class="section-sub">ביקורות אמיתיות ישירות מגוגל · 4.9 ★ · 80 ביקורות</p>
     </div>
     <!-- ביקורות Elfsight (אמיתיות מגוגל) -->
     <div class="elfsight-app-28303c55-685b-414b-9742-550258e21147" style="margin:32px auto;max-width:1100px"></div>
@@ -715,7 +736,7 @@ footer{background:#050505;border-top:1px solid var(--g1);padding:0}
 
 <!-- CATALOG -->
 <section class="catalog reveal" id="catalog" aria-labelledby="catalog-title">
-  <div class="section-header">
+  <div class="section-header sc-up">
     <div class="section-label">קטלוג מוצרים</div>
     <h2 class="section-title" id="catalog-title">מחלקות <span>החנות</span></h2>
     <p class="section-sub">חומרי בניין, אינסטלציה, כלי עבודה, צביעה, חשמל, הדברה ועוד — הכל במקום אחד</p>
@@ -723,7 +744,7 @@ footer{background:#050505;border-top:1px solid var(--g1);padding:0}
   <div class="catalog-grid">
 
     <!-- KEYLINE -->
-    <article class="prod-card">
+    <article class="prod-card sc-up d1">
       <picture><source srcset="https://raw.githubusercontent.com/simonjini1-a11y/avi-center-holon/main/images/Screenshot_20260514_142334_Gallery.webp" type="image/webp"><img src="https://raw.githubusercontent.com/simonjini1-a11y/avi-center-holon/main/images/Screenshot_20260514_142334_Gallery.jpg" alt="לוח ריקי KEYLINE — מעל 100 סוגי מפתחות לשכפול" class="prod-img" loading="lazy" width="800" height="1733"></picture>
       <div class="prod-body">
         <div class="prod-cat">מנעולנות ושכפול</div>
@@ -739,7 +760,7 @@ footer{background:#050505;border-top:1px solid var(--g1);padding:0}
     </article>
 
     <!-- SPADINI SHOWER -->
-    <article class="prod-card">
+    <article class="prod-card sc-up d2">
       <picture><source srcset="https://raw.githubusercontent.com/simonjini1-a11y/avi-center-holon/main/images/Screenshot_20260514_142624_Gallery.webp" type="image/webp"><img src="https://raw.githubusercontent.com/simonjini1-a11y/avi-center-holon/main/images/Screenshot_20260514_142624_Gallery.jpg" alt="מזלפי מקלחת SPADINI Anti-Calc — פיות סיליקון נגד אבנית" class="prod-img" loading="lazy" width="800" height="1733"></picture>
       <div class="prod-body">
         <div class="prod-cat">אינסטלציה</div>
@@ -755,7 +776,7 @@ footer{background:#050505;border-top:1px solid var(--g1);padding:0}
     </article>
 
     <!-- PAINT -->
-    <article class="prod-card">
+    <article class="prod-card sc-up d3">
       <picture><source srcset="https://raw.githubusercontent.com/simonjini1-a11y/avi-center-holon/main/images/Screenshot_20260514_142640_Gallery.webp" type="image/webp"><img src="https://raw.githubusercontent.com/simonjini1-a11y/avi-center-holon/main/images/Screenshot_20260514_142640_Gallery.jpg" alt="מברשות צבע מקצועיות — DIY וסדרת CLEOCOL" class="prod-img" loading="lazy" width="800" height="1733"></picture>
       <div class="prod-body">
         <div class="prod-cat">צביעה ותחזוקה</div>
@@ -772,7 +793,7 @@ footer{background:#050505;border-top:1px solid var(--g1);padding:0}
     </article>
 
     <!-- ADHESIVES -->
-    <article class="prod-card">
+    <article class="prod-card sc-up d4">
       <picture><source srcset="https://raw.githubusercontent.com/simonjini1-a11y/avi-center-holon/main/images/Screenshot_20260514_142741_Gallery.webp" type="image/webp"><img src="https://raw.githubusercontent.com/simonjini1-a11y/avi-center-holon/main/images/Screenshot_20260514_142741_Gallery.jpg" alt="סיליקון איטום, SILICONE Sanitary, חומרי ניקוי DURGOL" class="prod-img" loading="lazy" width="800" height="1733"></picture>
       <div class="prod-body">
         <div class="prod-cat">דבקים ואיטום</div>
@@ -789,7 +810,7 @@ footer{background:#050505;border-top:1px solid var(--g1);padding:0}
     </article>
 
     <!-- TOOLS -->
-    <article class="prod-card">
+    <article class="prod-card sc-up d5">
       <picture><source srcset="https://raw.githubusercontent.com/simonjini1-a11y/avi-center-holon/main/images/Screenshot_20260514_142523_Gallery.webp" type="image/webp"><img src="https://raw.githubusercontent.com/simonjini1-a11y/avi-center-holon/main/images/Screenshot_20260514_142523_Gallery.jpg" alt="סט צבתות ORDERLY + מפשקות מקצועיות" class="prod-img" loading="lazy" width="800" height="1733"></picture>
       <div class="prod-body">
         <div class="prod-cat">כלי עבודה</div>
@@ -806,7 +827,7 @@ footer{background:#050505;border-top:1px solid var(--g1);padding:0}
     </article>
 
     <!-- ELECTRICAL -->
-    <article class="prod-card">
+    <article class="prod-card sc-up d5">
       <picture><source srcset="https://raw.githubusercontent.com/simonjini1-a11y/avi-center-holon/main/images/Screenshot_20260514_142839_Gallery.webp" type="image/webp"><img src="https://raw.githubusercontent.com/simonjini1-a11y/avi-center-holon/main/images/Screenshot_20260514_142839_Gallery.jpg" alt="נורות LED LUXTEN + שעוני זמן — חשמל ותאורה" class="prod-img" loading="lazy" width="800" height="1733"></picture>
       <div class="prod-body">
         <div class="prod-cat">חשמל ותאורה</div>
@@ -823,7 +844,7 @@ footer{background:#050505;border-top:1px solid var(--g1);padding:0}
     </article>
 
     <!-- LOCKS -->
-    <article class="prod-card">
+    <article class="prod-card sc-up d5">
       <picture><source srcset="https://raw.githubusercontent.com/simonjini1-a11y/avi-center-holon/main/images/Screenshot_20260514_142314_Gallery.webp" type="image/webp"><img src="https://raw.githubusercontent.com/simonjini1-a11y/avi-center-holon/main/images/Screenshot_20260514_142314_Gallery.jpg" alt="מנעולים SALDA Anti-Snap וצילינדרים — מחלקת מנעולים אבי סנטר חולון" class="prod-img" loading="lazy" width="800" height="1733"></picture>
       <div class="prod-body">
         <div class="prod-cat">מנעולנות</div>
@@ -840,7 +861,7 @@ footer{background:#050505;border-top:1px solid var(--g1);padding:0}
     </article>
 
     <!-- SPRAY / TOOLS general -->
-    <article class="prod-card">
+    <article class="prod-card sc-up d5">
       <picture><source srcset="https://raw.githubusercontent.com/simonjini1-a11y/avi-center-holon/main/images/Screenshot_20260514_142817_Gallery.webp" type="image/webp"><img src="https://raw.githubusercontent.com/simonjini1-a11y/avi-center-holon/main/images/Screenshot_20260514_142817_Gallery.jpg" alt="ספריי צבע יעקבי בכל הצבעים וסכיני גימור KLIPS — אבי סנטר חולון" class="prod-img" loading="lazy" width="800" height="1733"></picture>
       <div class="prod-body">
         <div class="prod-cat">ספריי וכלי גמר</div>
@@ -863,7 +884,7 @@ footer{background:#050505;border-top:1px solid var(--g1);padding:0}
 <!-- ARTICLES / FAQ SECTION -->
 <section style="padding:72px 28px;background:var(--black)" id="articles" aria-labelledby="articles-title">
   <div style="max-width:1100px;margin:0 auto">
-    <div class="section-header">
+    <div class="section-header sc-up">
       <div class="section-label">מדריכים מקצועיים</div>
       <h2 class="section-title" id="articles-title">מדריכים <span>ומאמרים</span></h2>
       <p class="section-sub">חפש מדריך מקצועי לפי מחלקה, מוצר או תקלה — תוכן שעוזר לך לפתור בעיות בבית</p>
@@ -1165,6 +1186,65 @@ if ('serviceWorker' in navigator) {
       .catch(err => console.log('SW error:', err));
   });
 }
+</script>
+
+
+<script>
+/* === SCROLL REVEAL === */
+(function(){
+  var io=new IntersectionObserver(function(entries){
+    entries.forEach(function(e){
+      if(e.isIntersecting){e.target.classList.add('go');io.unobserve(e.target);}
+    });
+  },{threshold:.1,rootMargin:'0px 0px -30px 0px'});
+  document.querySelectorAll('.sc-up').forEach(function(el){io.observe(el);});
+
+  /* === COUNTERS === */
+  function count(id,target,suffix,ms){
+    var el=document.getElementById(id);
+    if(!el)return;
+    var t0=performance.now();
+    el.textContent='0'+(suffix||'');
+    (function tick(now){
+      var p=Math.min((now-t0)/ms,1),e=1-Math.pow(1-p,3);
+      el.textContent=Math.floor(target*e)+(suffix||'');
+      if(p<1)requestAnimationFrame(tick);
+    })(t0);
+  }
+
+  var cio=new IntersectionObserver(function(entries){
+    entries.forEach(function(e){
+      if(e.isIntersecting){
+        count('cnt-rev',80,'',1400);
+        count('cnt-exp',30,'+',1200);
+        count('cnt-key',100,'+',1000);
+        count('cnt-dep',15,'+',1100);
+        cio.disconnect();
+      }
+    });
+  },{threshold:.5});
+  var el=document.getElementById('cnt-rev');
+  if(el)cio.observe(el.closest('.stat')||el);
+
+  /* === PARALLAX HERO === */
+  var hbg=document.querySelector('.hero-bg');
+  if(hbg){
+    window.addEventListener('scroll',function(){
+      if(window.scrollY<window.innerHeight)
+        hbg.style.transform='translateY('+(window.scrollY*.2)+'px)';
+    },{passive:true});
+  }
+
+  /* === BTT SHOW/HIDE === */
+  var btt=document.getElementById('btt');
+  if(btt){
+    btt.style.opacity='0';
+    btt.style.transition='opacity .3s';
+    window.addEventListener('scroll',function(){
+      btt.style.opacity=window.scrollY>300?'1':'0';
+    },{passive:true});
+  }
+})();
 </script>
 
 </body>
