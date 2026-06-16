@@ -378,6 +378,47 @@ footer{background:#050505;border-top:1px solid var(--g1);padding:0}
   .sc-up{opacity:0;transform:translateY(26px);transition:opacity .8s cubic-bezier(.16,1,.3,1),transform .8s cubic-bezier(.16,1,.3,1)}
   .sc-up.go{opacity:1;transform:translateY(0)}
   .d1{transition-delay:.1s}.d2{transition-delay:.2s}.d3{transition-delay:.3s}.d4{transition-delay:.4s}.d5{transition-delay:.5s}
+
+  /* === ARTICLE CARDS ANIMATIONS (lightweight) === */
+  .art-anim{
+    opacity:0;
+    transform:translateY(20px);
+    transition:opacity .6s cubic-bezier(.16,1,.3,1),
+               transform .6s cubic-bezier(.16,1,.3,1);
+    will-change:transform,opacity;
+  }
+  .art-anim.go{opacity:1;transform:translateY(0)}
+  
+  /* Hover lift — CSS only, no JS needed */
+  .art-hover{
+    transition:transform .25s ease,
+               border-color .25s ease,
+               box-shadow .25s ease;
+    cursor:pointer;
+  }
+  .art-hover:hover{
+    transform:translateY(-4px);
+    border-color:var(--red)!important;
+    box-shadow:0 8px 24px rgba(213,0,28,.15);
+  }
+
+  /* Parallax — GPU accelerated */
+  .hero-bg{will-change:transform}
+
+  /* Respect user preference — NO animations if requested */
+  @media(prefers-reduced-motion:reduce){
+    .art-anim,.sc-up,.art-hover{
+      transition:none!important;
+      animation:none!important;
+      opacity:1!important;
+      transform:none!important;
+    }
+    .wa-float{animation:none!important}
+    .btt{animation:none!important}
+    nav{animation:none!important}
+    .hero-badge,.hero-title,.hero-sub,.hero-ctas{animation:none!important}
+  }
+
 </style>
 
 <script type="application/ld+json">
@@ -892,7 +933,7 @@ footer{background:#050505;border-top:1px solid var(--g1);padding:0}
     <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:20px">
 
       <!-- שכפול מפתחות -->
-      <article style="background:var(--black3);border:1px solid var(--g2);border-radius:6px;padding:24px">
+      <article class="art-anim art-hover" style="background:var(--black3);border:1px solid var(--g2);border-radius:6px;padding:24px;transition-delay:0s">
         <div style="font-size:9px;font-weight:700;letter-spacing:3px;color:var(--red);text-transform:uppercase;margin-bottom:8px">שכפול מפתחות · KEYLINE</div>
         <h3 style="font-family:var(--ffd);font-size:22px;letter-spacing:2px;color:var(--t1);margin-bottom:12px">שכפול מפתחות בחולון</h3>
         
@@ -903,7 +944,7 @@ footer{background:#050505;border-top:1px solid var(--g1);padding:0}
       </article>
 
       <!-- אינסטלציה -->
-      <article style="background:var(--black3);border:1px solid var(--g2);border-radius:6px;padding:24px">
+      <article class="art-anim art-hover" style="background:var(--black3);border:1px solid var(--g2);border-radius:6px;padding:24px;transition-delay:0.12s">
         <div style="font-size:9px;font-weight:700;letter-spacing:3px;color:var(--red);text-transform:uppercase;margin-bottom:8px">אינסטלציה · SPADINI</div>
         <h3 style="font-family:var(--ffd);font-size:22px;letter-spacing:2px;color:var(--t1);margin-bottom:12px">אינסטלציה ומזלפים</h3>
         <a href="/instalazia.html" style="display:inline-block;margin-bottom:12px;font-size:12px;font-weight:700;color:var(--red);letter-spacing:1px;text-transform:uppercase;border:1px solid var(--red);border-radius:3px;padding:6px 14px;transition:background 0.2s" onmouseover="this.style.background='rgba(230,51,41,0.1)'" onmouseout="this.style.background=''">מדריך אינסטלציה מלא ←</a>
@@ -914,7 +955,7 @@ footer{background:#050505;border-top:1px solid var(--g1);padding:0}
       </article>
 
       <!-- צביעה -->
-      <article style="background:var(--black3);border:1px solid var(--g2);border-radius:6px;padding:24px">
+      <article class="art-anim art-hover" style="background:var(--black3);border:1px solid var(--g2);border-radius:6px;padding:24px;transition-delay:0.24s">
         <div style="font-size:9px;font-weight:700;letter-spacing:3px;color:var(--red);text-transform:uppercase;margin-bottom:8px">צביעה · HERMAN</div>
         <h3 style="font-family:var(--ffd);font-size:22px;letter-spacing:2px;color:var(--t1);margin-bottom:12px">צבע ותחזוקה</h3>
         <details style="border-bottom:1px solid var(--g2)"><summary style="padding:12px 0;cursor:pointer;font-size:13px;font-weight:600;color:var(--t2);list-style:none;display:flex;align-items:center;justify-content:space-between;gap:12px">איזה גליל לצבע אקרילי?<span style="color:var(--red);font-size:16px;flex-shrink:0">+</span></summary><div style="padding:4px 0 12px;font-size:13px;color:var(--t3);line-height:1.75"><p><strong style="color:var(--t2)">מיקרופייבר</strong> לשטחים חלקים (גבס, בטון). סיבים ארוכים לטיח מחוספס. HERMAN עם חישוק פלדה — סיבים לא נושרים.</p></div></details>
@@ -924,7 +965,7 @@ footer{background:#050505;border-top:1px solid var(--g1);padding:0}
       </article>
 
       <!-- דבקים ואיטום -->
-      <article style="background:var(--black3);border:1px solid var(--g2);border-radius:6px;padding:24px">
+      <article class="art-anim art-hover" style="background:var(--black3);border:1px solid var(--g2);border-radius:6px;padding:24px;transition-delay:0.0s">
         <div style="font-size:9px;font-weight:700;letter-spacing:3px;color:var(--red);text-transform:uppercase;margin-bottom:8px">דבקים ואיטום · CEYS</div>
         <h3 style="font-family:var(--ffd);font-size:22px;letter-spacing:2px;color:var(--t1);margin-bottom:12px">דבקים ואיטום</h3>
         <details style="border-bottom:1px solid var(--g2)"><summary style="padding:12px 0;cursor:pointer;font-size:13px;font-weight:600;color:var(--t2);list-style:none;display:flex;align-items:center;justify-content:space-between;gap:12px">מה ההבדל בין סיליקון ל-MONTACK?<span style="color:var(--red);font-size:16px;flex-shrink:0">+</span></summary><div style="padding:4px 0 12px;font-size:13px;color:var(--t3);line-height:1.75"><p>סיליקון = <strong style="color:var(--t2)">איטום גמיש</strong> לפינות מים בלבד. MONTACK = דבק הרכבה קשיח עד <strong style="color:var(--t2)">150 ק"ג/מ"ר</strong>. לא להחליף!</p></div></details>
@@ -934,7 +975,7 @@ footer{background:#050505;border-top:1px solid var(--g1);padding:0}
       </article>
 
       <!-- כלי עבודה -->
-      <article style="background:var(--black3);border:1px solid var(--g2);border-radius:6px;padding:24px">
+      <article class="art-anim art-hover" style="background:var(--black3);border:1px solid var(--g2);border-radius:6px;padding:24px;transition-delay:0.12s">
         <div style="font-size:9px;font-weight:700;letter-spacing:3px;color:var(--red);text-transform:uppercase;margin-bottom:8px">כלי עבודה · שיפוץ</div>
         <h3 style="font-family:var(--ffd);font-size:22px;letter-spacing:2px;color:var(--t1);margin-bottom:12px">כלי עבודה לשיפוץ</h3>
         <details style="border-bottom:1px solid var(--g2)"><summary style="padding:12px 0;cursor:pointer;font-size:13px;font-weight:600;color:var(--t2);list-style:none;display:flex;align-items:center;justify-content:space-between;gap:12px">10 כלים חיוניים לשיפוץ דירה<span style="color:var(--red);font-size:16px;flex-shrink:0">+</span></summary><div style="padding:4px 0 12px;font-size:13px;color:var(--t3);line-height:1.75"><p>מברג פיליפס ושטוח Cr-V · פטיש 300–500 גרם · מטר מדידה 5 מטר · פלייר משולב ORDERLY · מפתח שוודי 10 אינץ׳ · פלס · קאטר · מסמרים ובורגים · WD-40 · <strong style="color:var(--t2)">כולם באבי סנטר.</strong></p></div></details>
@@ -943,7 +984,7 @@ footer{background:#050505;border-top:1px solid var(--g1);padding:0}
       </article>
 
       <!-- חשמל ותאורה -->
-      <article style="background:var(--black3);border:1px solid var(--g2);border-radius:6px;padding:24px">
+      <article class="art-anim art-hover" style="background:var(--black3);border:1px solid var(--g2);border-radius:6px;padding:24px;transition-delay:0.24s">
         <div style="font-size:9px;font-weight:700;letter-spacing:3px;color:var(--red);text-transform:uppercase;margin-bottom:8px">חשמל ותאורה · LUXTEN</div>
         <h3 style="font-family:var(--ffd);font-size:22px;letter-spacing:2px;color:var(--t1);margin-bottom:12px">חשמל ותאורה</h3>
         <details style="border-bottom:1px solid var(--g2)"><summary style="padding:12px 0;cursor:pointer;font-size:13px;font-weight:600;color:var(--t2);list-style:none;display:flex;align-items:center;justify-content:space-between;gap:12px">LED 23W = כמה ליבון?<span style="color:var(--red);font-size:16px;flex-shrink:0">+</span></summary><div style="padding:4px 0 12px;font-size:13px;color:var(--t3);line-height:1.75"><p>≈ ליבון 100W. חיסכון 80%. <strong style="color:var(--t2)">10 נורות = ~1,700 ₪ חיסכון בשנה.</strong> מחזיקות 15,000–25,000 שעות.</p></div></details>
@@ -953,7 +994,7 @@ footer{background:#050505;border-top:1px solid var(--g1);padding:0}
       </article>
 
       <!-- הדברה -->
-      <article style="background:var(--black3);border:1px solid var(--g2);border-radius:6px;padding:24px">
+      <article class="art-anim art-hover" style="background:var(--black3);border:1px solid var(--g2);border-radius:6px;padding:24px;transition-delay:0.0s">
         <div style="font-size:9px;font-weight:700;letter-spacing:3px;color:var(--red);text-transform:uppercase;margin-bottom:8px">הדברה · HERMAN</div>
         <h3 style="font-family:var(--ffd);font-size:22px;letter-spacing:2px;color:var(--t1);margin-bottom:12px">הדברה ביתית</h3>
         <details style="border-bottom:1px solid var(--g2)"><summary style="padding:12px 0;cursor:pointer;font-size:13px;font-weight:600;color:var(--t2);list-style:none;display:flex;align-items:center;justify-content:space-between;gap:12px">היכן למקם לוח דבק?<span style="color:var(--red);font-size:16px;flex-shrink:0">+</span></summary><div style="padding:4px 0 12px;font-size:13px;color:var(--t3);line-height:1.75"><p>פינות חדר (מזיקים נעים לאורך קירות), מתחת לכיור, חדר ארון. <strong style="color:var(--t2)">חשכה + שקט = יעיל יותר.</strong></p></div></details>
@@ -962,7 +1003,7 @@ footer{background:#050505;border-top:1px solid var(--g1);padding:0}
       </article>
 
       <!-- מנעולים -->
-      <article style="background:var(--black3);border:1px solid var(--g2);border-radius:6px;padding:24px">
+      <article class="art-anim art-hover" style="background:var(--black3);border:1px solid var(--g2);border-radius:6px;padding:24px;transition-delay:0.12s">
         <div style="font-size:9px;font-weight:700;letter-spacing:3px;color:var(--red);text-transform:uppercase;margin-bottom:8px">מנעולים · SALDA</div>
         <h3 style="font-family:var(--ffd);font-size:22px;letter-spacing:2px;color:var(--t1);margin-bottom:12px">מנעולים ואבטחה</h3>
         <details style="border-bottom:1px solid var(--g2)"><summary style="padding:12px 0;cursor:pointer;font-size:13px;font-weight:600;color:var(--t2);list-style:none;display:flex;align-items:center;justify-content:space-between;gap:12px">מה זה Anti-Snap ולמה זה חשוב?<span style="color:var(--red);font-size:16px;flex-shrink:0">+</span></summary><div style="padding:4px 0 12px;font-size:13px;color:var(--t3);line-height:1.75"><p>מנגנון שמגן מפני <strong style="color:var(--t2)">שבירת הצילינדר</strong> — הטכניקה הנפוצה ביותר לפריצה. SALDA Anti-Snap נשבר במקום מבוקר שמנטרל את הפריצה.</p></div></details>
@@ -971,7 +1012,7 @@ footer{background:#050505;border-top:1px solid var(--g1);padding:0}
       </article>
 
       <!-- חשמל -->
-      <article style="background:var(--black3);border:1px solid var(--g2);border-radius:6px;padding:24px">
+      <article class="art-anim art-hover" style="background:var(--black3);border:1px solid var(--g2);border-radius:6px;padding:24px;transition-delay:0.24s">
         <div style="font-size:9px;font-weight:700;letter-spacing:3px;color:var(--red);text-transform:uppercase;margin-bottom:8px">חשמל · LUXTEN</div>
         <h3 style="font-family:var(--ffd);font-size:22px;letter-spacing:2px;color:var(--t1);margin-bottom:12px">נורות LED וחשמל</h3>
         <details style="border-bottom:1px solid var(--g2)"><summary style="padding:12px 0;cursor:pointer;font-size:13px;font-weight:600;color:var(--t2);list-style:none;display:flex;align-items:center;justify-content:space-between;gap:12px">E27 או E14 — מה ההבדל?<span style="color:var(--red);font-size:16px;flex-shrink:0">+</span></summary><div style="padding:4px 0 12px;font-size:13px;color:var(--t3);line-height:1.75"><p>E27 = בסיס 27mm, <strong style="color:var(--t2)">הנפוץ ביותר</strong>. E14 = בסיס קטן 14mm, לנברשות ומנורות עיצוב. מדדו את הבסיס לפני קנייה.</p></div></details>
@@ -1194,10 +1235,11 @@ if ('serviceWorker' in navigator) {
 (function(){
   var io=new IntersectionObserver(function(entries){
     entries.forEach(function(e){
-      if(e.isIntersecting){e.target.classList.add('go');io.unobserve(e.target);}
+      if(e.isIntersecting){e.target.classList.add('go');e.target.classList.add('in');io.unobserve(e.target);}
     });
   },{threshold:.1,rootMargin:'0px 0px -30px 0px'});
   document.querySelectorAll('.sc-up').forEach(function(el){io.observe(el);});
+  document.querySelectorAll('.art-anim').forEach(function(el){io.observe(el);});
 
   /* === COUNTERS === */
   function count(id,target,suffix,ms){
