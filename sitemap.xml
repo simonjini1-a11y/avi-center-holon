@@ -136,4 +136,26 @@
 <priority>0.6</priority>
 </url>
 
+
+<url>
+<loc>https://www.avi-center-holon.com/blog-eyze-berez-livchor.html</loc>
+<lastmod>2026-08-24</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+</url>
+
+<url>
+<loc>https://www.avi-center-holon.com/blog-shpachtel-madrich.html</loc>
+<lastmod>2026-08-24</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+</url>
+
+<url>
+<loc>https://www.avi-center-holon.com/blog-eyze-mavreg-livchor.html</loc>
+<lastmod>2026-08-24</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+</url>
+
 </urlset>
