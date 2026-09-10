@@ -1,5 +1,5 @@
 // AVI CENTER Service Worker v2.0
-const CACHE_NAME = 'avi-center-v3';
+const CACHE_NAME = 'avi-center-v4';
 const STATIC_ASSETS = [
   '/',
   '/index.html',
@@ -78,7 +78,12 @@ self.addEventListener('fetch', event => {
   event.respondWith(
     fetch(event.request)
       .then(response => {
-        if (response && response.status === 200) {
+        // FIX: don't overwrite the cache with HTML documents — a response
+        // can arrive truncated on a flaky connection (still status 200),
+        // and caching it would serve broken, syntax-error-inducing HTML
+        // to the next visitor who hits a network failure. Documents rely
+        // on the known-complete copy saved once during install() instead.
+        if (response && response.status === 200 && event.request.destination !== 'document') {
           const clone = response.clone();
           caches.open(CACHE_NAME).then(cache => cache.put(event.request, clone));
         }
