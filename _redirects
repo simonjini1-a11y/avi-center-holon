@@ -1,1 +1,2 @@
-http://avi-center-holon.com/* https://www.avi-center-holon.com/:splat 301
+# www -> ללא www ו-page.html -> page מטופלים אוטומטית ע"י Cloudflare Pages.
+# אין להוסיף כאן הפניות דומיין (לא נתמכות ב-Pages ויוצרות סתירה).

@@ -1,35 +1,30 @@
-# Netlify _headers — Cache optimization
-# HTML — no cache (always fresh)
-/*.html
-  Cache-Control: public, max-age=0, must-revalidate
+# Cloudflare Pages _headers
+# אבטחה — לכל העמודים (בלי Cache-Control כאן, כדי לא להתנגש עם הכללים למטה)
+/*
   X-Frame-Options: DENY
   X-Content-Type-Options: nosniff
   Referrer-Policy: strict-origin-when-cross-origin
   Permissions-Policy: camera=(), microphone=(), geolocation=(self)
 
-# Images — cache 1 year
+# תמונות — שנה
 /images/*
   Cache-Control: public, max-age=31536000, immutable
 
-# JS/CSS — cache 1 year  
-/*.js
-  Cache-Control: public, max-age=31536000, immutable
-/*.css
-  Cache-Control: public, max-age=31536000, immutable
+# CSS/JS — שבוע (שמות הקבצים לא משתנים בין גרסאות, לכן לא immutable)
+/css/*
+  Cache-Control: public, max-age=604800
+/js/*
+  Cache-Control: public, max-age=604800
 
-# Fonts — cache 1 year
-/*.woff2
-  Cache-Control: public, max-age=31536000, immutable
+# Service worker — תמיד טרי
+/sw.js
+  Cache-Control: no-cache
 
-# Root
-/
-  Cache-Control: public, max-age=0, must-revalidate
-  X-Frame-Options: DENY
-  X-Content-Type-Options: nosniff
-  Referrer-Policy: strict-origin-when-cross-origin
-  Permissions-Policy: camera=(), microphone=(), geolocation=(self)
-
-# Manifest — Content-Type נכון (תוקן בעקבות שגיאת JSON parse ב-PageSpeed 22/9/2026)
+# Manifest
 /manifest.json
   Content-Type: application/manifest+json
   Cache-Control: public, max-age=3600
+
+# llms.txt
+/llms.txt
+  Content-Type: text/plain; charset=utf-8

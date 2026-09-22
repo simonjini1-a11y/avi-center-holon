@@ -1,19 +1,18 @@
 // AVI CENTER Service Worker v2.0
-const CACHE_NAME = 'avi-center-v4';
+const CACHE_NAME = 'avi-center-v5';
 const STATIC_ASSETS = [
   '/',
-  '/index.html',
-  '/shikpul.html',
-  '/instalazia.html',
-  '/shchunot.html',
-  '/madrich-tzvia.html',
-  '/madrich-led.html',
-  '/madrich-manulin.html',
-  '/madrich-nizila.html',
-  '/madrich-hadabara.html',
-  '/madrich-spadini.html',
-  '/madrich-klim.html',
-  '/madrich-bidud.html',
+  '/shikpul',
+  '/instalazia',
+  '/shchunot',
+  '/madrich-tzvia',
+  '/madrich-led',
+  '/madrich-manulin',
+  '/madrich-nizila',
+  '/madrich-hadabara',
+  '/madrich-spadini',
+  '/madrich-klim',
+  '/madrich-bidud',
   '/manifest.json',
   '/images/Screenshot_20260514_142314_Gallery.webp',
   '/images/Screenshot_20260514_142334_Gallery.webp',
@@ -93,7 +92,7 @@ self.addEventListener('fetch', event => {
         return caches.match(event.request).then(cached => {
           if (cached) return cached;
           if (event.request.destination === 'document') {
-            return caches.match('/index.html');
+            return caches.match('/index');
           }
         });
       })
