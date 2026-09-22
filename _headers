@@ -28,3 +28,8 @@
   X-Content-Type-Options: nosniff
   Referrer-Policy: strict-origin-when-cross-origin
   Permissions-Policy: camera=(), microphone=(), geolocation=(self)
+
+# Manifest — Content-Type נכון (תוקן בעקבות שגיאת JSON parse ב-PageSpeed 22/9/2026)
+/manifest.json
+  Content-Type: application/manifest+json
+  Cache-Control: public, max-age=3600
