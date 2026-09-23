@@ -37,6 +37,7 @@
 ## מידע על העסק
 
 - [אודות אבי סנטר](https://avi-center-holon.com/odot): מי אנחנו, מה עושים ומה לא עושים.
+- [שאלות על החנות](https://avi-center-holon.com/sheelot): חניה חינם ברחוב, תשלום במזומן או באשראי (בלי ביט), הזמנה בוואטסאפ ואיסוף באותו יום, משלוחים ב-Wolt בחולון בלבד, שעות, נגישות.
 
 - [דף הבית](https://avi-center-holon.com/)
 - [הצהרת נגישות](https://avi-center-holon.com/negishut)
