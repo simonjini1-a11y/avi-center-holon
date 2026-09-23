@@ -1,6 +1,6 @@
 // מקור אמת יחיד לנתוני העסק — לעדכן כאן בלבד כשמשתנה
 window.BUSINESS_INFO = {
-  reviewCount: 115,
+  reviewCount: 116,
   rating: 4.8,
   ratingStars: "★★★★★"
 };
