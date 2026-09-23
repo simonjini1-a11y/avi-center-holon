@@ -95,12 +95,15 @@ footer{background:var(--black2);border-top:1px solid var(--g1);padding:28px;text
 </script>
 </head>
 <body>
+<a href="#main" style="position:absolute;right:-9999px;top:0;z-index:9999;background:#D5001C;color:#fff;padding:8px 16px;font-weight:700" onfocus="this.style.right='8px'" onblur="this.style.right='-9999px'">דלג לתוכן הראשי</a>
+
 <nav>
   <a href="/" class="nav-brand"><span class="bt">אבי סנטר</span><span class="bl"></span><span class="bb">טמבוריה · חולון · מאז 1994</span></a>
   <div style="display:flex;gap:6px">
     <a href="/" style="font-size:14px;color:#555;padding:5px 10px;border-radius:50px;border:1px solid #DDD7C9">← הבית</a>
   </div>
 </nav>
+<main id="main">
 <div class="breadcrumb"><a href="/">דף הבית</a> · <a href="/blog">מדריכים</a> · כמה צבע צריך לחדר</div>
 
 <article class="container">
@@ -177,6 +180,7 @@ footer{background:var(--black2);border-top:1px solid var(--g1);padding:28px;text
   <p><a href="/blog-shpachtel-madrich">שפכטל: מתי וכיצד משתמשים בו לתיקון קירות וסדקים</a></p>
 </article>
 
+</main>
 <footer>
   <a href="/" style="display:inline-flex;flex-direction:column;align-items:center;gap:3px;text-decoration:none;margin-bottom:10px">
     <span style="font-family:'Oswald',sans-serif;font-size:20px;font-weight:700;letter-spacing:7px;color:#b8b0a0">אבי סנטר</span>

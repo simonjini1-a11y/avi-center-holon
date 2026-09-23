@@ -1,6 +1,7 @@
 # Cloudflare Pages _headers
 # אבטחה — לכל העמודים (בלי Cache-Control כאן, כדי לא להתנגש עם הכללים למטה)
 /*
+  Strict-Transport-Security: max-age=31536000
   X-Frame-Options: DENY
   X-Content-Type-Options: nosniff
   Referrer-Policy: strict-origin-when-cross-origin

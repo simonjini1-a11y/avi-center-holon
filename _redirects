@@ -1,2 +1,2 @@
-# www -> ללא www ו-page.html -> page מטופלים אוטומטית ע"י Cloudflare Pages.
+# page.html -> page: Cloudflare Pages אוטומטית. www -> ללא www: Redirect Rule ב-Cloudflare (Rules > Redirect Rules), לא כאן.
 # אין להוסיף כאן הפניות דומיין (לא נתמכות ב-Pages ויוצרות סתירה).

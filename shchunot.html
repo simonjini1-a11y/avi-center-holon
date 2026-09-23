@@ -113,13 +113,16 @@ footer{background:var(--black2);border-top:1px solid var(--g1);padding:36px 28px
 </script>
 </head>
 <body>
+<a href="#main" style="position:absolute;right:-9999px;top:0;z-index:9999;background:#D5001C;color:#fff;padding:8px 16px;font-weight:700" onfocus="this.style.right='8px'" onblur="this.style.right='-9999px'">דלג לתוכן הראשי</a>
+
 <nav style="position:sticky;top:0;background:rgba(255,255,255,.94);backdrop-filter:blur(12px);padding:14px 28px;z-index:100;border-bottom:1px solid #222;display:flex;align-items:center;justify-content:space-between;gap:12px">
   <a href="/" class="nav-brand"><span class="bt">אבי סנטר</span><span class="bl"></span><span class="bb">טמבוריה · חולון · מאז 1994</span></a>
   <div style="display:flex;gap:6px;flex-wrap:wrap">
     <a href="/shikpul" style="font-size:14px;color:#555;padding:5px 10px;border-radius:50px;border:1px solid #222;text-decoration:none">שכפול מפתחות</a>
     <a href="/blog" style="font-size:14px;color:#D5001C;padding:5px 10px;border-radius:50px;border:1px solid #D5001C;text-decoration:none;font-weight:700">בלוג</a><a href="/" style="font-size:14px;color:#555;padding:5px 10px;border-radius:50px;border:1px solid #DDD7C9;text-decoration:none">← הבית</a>
   </div>
-</nav><div class="breadcrumb"><a href="/">דף הבית</a> · שכונות שירות</div>
+</nav>
+<main id="main"><div class="breadcrumb"><a href="/">דף הבית</a> · שכונות שירות</div>
 <section class="hero">
   <div class="container">
     <div class="badge">שירות לכל חולון · 30 שנה</div>
@@ -205,6 +208,7 @@ footer{background:var(--black2);border-top:1px solid var(--g1);padding:36px 28px
     <a href="https://g.page/r/CbwXOE5AUc-dEBM/review" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:8px;padding:12px 26px;border-radius:50px;font-size:14px;font-weight:700;background:transparent;color:#1A1A1A;border:1px solid #DDD7C9;text-decoration:none">⭐ כתבו לנו ביקורת</a>
   </div>
 </div>
+</main>
 <footer style="background:#F3EFE6;border-top:1px solid #E8E3D9;padding:28px;text-align:center">
   <a href="/" style="display:inline-flex;flex-direction:column;align-items:center;gap:3px;text-decoration:none;margin-bottom:10px">
     <span style="font-family:'Oswald',sans-serif;font-size:20px;font-weight:700;letter-spacing:7px;color:#b8b0a0">אבי סנטר</span>
