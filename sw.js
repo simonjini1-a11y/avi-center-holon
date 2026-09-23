@@ -1,5 +1,5 @@
 // AVI CENTER Service Worker v2.0
-const CACHE_NAME = 'avi-center-v6';
+const CACHE_NAME = 'avi-center-v7';
 const STATIC_ASSETS = [
   '/',
   '/shikpul',
