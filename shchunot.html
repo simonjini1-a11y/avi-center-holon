@@ -103,11 +103,11 @@ footer{background:var(--black2);border-top:1px solid var(--g1);padding:36px 28px
     if(!a)return;
     var href=a.getAttribute('href')||'';
     if(href.indexOf('tel:')===0){
-      gtag('event','phone_click',{event_category:'contact',event_label:document.title,page_path:location.pathname});
+      gtag('event','phone_click',{event_category:'contact',event_label:document.title,page_path:location.pathname,link_location:(a.closest('.mbar')?'sticky_bar':'page')});
     }else if(href.indexOf('wa.me')!==-1||href.indexOf('whatsapp')!==-1){
-      gtag('event','whatsapp_click',{event_category:'contact',event_label:document.title,page_path:location.pathname});
+      gtag('event','whatsapp_click',{event_category:'contact',event_label:document.title,page_path:location.pathname,link_location:(a.closest('.mbar')?'sticky_bar':'page')});
     }else if(href.indexOf('waze.com')!==-1||href.indexOf('maps.app.goo.gl')!==-1||href.indexOf('google.com/maps')!==-1){
-      gtag('event','directions_click',{event_category:'contact',event_label:document.title,page_path:location.pathname});
+      gtag('event','directions_click',{event_category:'contact',event_label:document.title,page_path:location.pathname,link_location:(a.closest('.mbar')?'sticky_bar':'page')});
     }
   },true);
 </script>
@@ -150,18 +150,18 @@ footer{background:var(--black2);border-top:1px solid var(--g1);padding:36px 28px
     <h2>חומרי בניין <span style="color:var(--red)">בכל חולון</span></h2>
     <p class="lead">ממוקמים בקרן היסוד 1, קריית שרת — במרכז חולון. 3 דקות נסיעה מרוב השכונות, חניה נוחה.</p>
     <div class="grid-4" style="margin-bottom:40px">
-      <div class="card"><h4>קריית שרת</h4><p>מיקום החנות. קרן היסוד 1. חניה נוחה ברחוב.</p><p style="color:var(--red);font-size:15px">📍 כאן אנחנו</p></div>
-      <div class="card"><h4>נאות רחל</h4><p>שכונה סמוכה. 5 דקות נסיעה. שכנים קבועים שלנו.</p></div>
-      <div class="card"><h4>תל גיבורים</h4><p>שכונה מרכזית בחולון. 7 דקות. גישה נוחה מרחוב סוקולוב.</p></div>
-      <div class="card"><h4>ג'סי כהן</h4><p>שכונה מרכזית. 8 דקות. רבים מלקוחותינו הנאמנים.</p></div>
-      <div class="card"><h4>נווה ארזים</h4><p>חולון דרומית. 10 דקות. שירות מלא לכל צרכי הבניין.</p></div>
-      <div class="card"><h4>קריית בן גוריון</h4><p>8 דקות נסיעה. אזור מגורים בחולון.</p></div>
-      <div class="card"><h4>שיכון ותיקים</h4><p>חולון מערבית. 10 דקות. שכונה בעלת צרכי שיפוץ גבוהים.</p></div>
-      <div class="card"><h4>בת ים</h4><p>עיר שכנה. 10–15 דקות נסיעה. לקוחות בת ים מרובים.</p></div>
-      <div class="card"><h4>אגרובנק</h4><p>שכונה בחולון. 8 דקות. צמוד לאזור התעשייה.</p></div>
-      <div class="card"><h4>רסקו ומעוף</h4><p>שכונות חולון. שירות מלא ומהיר.</p></div>
-      <div class="card"><h4>נאות יהודית</h4><p>שכונה חדשה יחסית בחולון. לקוחות רבים לשיפוצים.</p></div>
-      <div class="card"><h4>גבעת חולון</h4><p>שכונה דרומית. 12 דקות. גישה מכביש 44.</p></div>
+      <div class="card"><h4 aria-level="3">קריית שרת</h4><p>מיקום החנות. קרן היסוד 1. חניה נוחה ברחוב.</p><p style="color:var(--red);font-size:15px">📍 כאן אנחנו</p></div>
+      <div class="card"><h4 aria-level="3">נאות רחל</h4><p>שכונה סמוכה. 5 דקות נסיעה. שכנים קבועים שלנו.</p></div>
+      <div class="card"><h4 aria-level="3">תל גיבורים</h4><p>שכונה מרכזית בחולון. 7 דקות. גישה נוחה מרחוב סוקולוב.</p></div>
+      <div class="card"><h4 aria-level="3">ג'סי כהן</h4><p>שכונה מרכזית. 8 דקות. רבים מלקוחותינו הנאמנים.</p></div>
+      <div class="card"><h4 aria-level="3">נווה ארזים</h4><p>חולון דרומית. 10 דקות. שירות מלא לכל צרכי הבניין.</p></div>
+      <div class="card"><h4 aria-level="3">קריית בן גוריון</h4><p>8 דקות נסיעה. אזור מגורים בחולון.</p></div>
+      <div class="card"><h4 aria-level="3">שיכון ותיקים</h4><p>חולון מערבית. 10 דקות. שכונה בעלת צרכי שיפוץ גבוהים.</p></div>
+      <div class="card"><h4 aria-level="3">בת ים</h4><p>עיר שכנה. 10–15 דקות נסיעה. לקוחות בת ים מרובים.</p></div>
+      <div class="card"><h4 aria-level="3">אגרובנק</h4><p>שכונה בחולון. 8 דקות. צמוד לאזור התעשייה.</p></div>
+      <div class="card"><h4 aria-level="3">רסקו ומעוף</h4><p>שכונות חולון. שירות מלא ומהיר.</p></div>
+      <div class="card"><h4 aria-level="3">נאות יהודית</h4><p>שכונה חדשה יחסית בחולון. לקוחות רבים לשיפוצים.</p></div>
+      <div class="card"><h4 aria-level="3">גבעת חולון</h4><p>שכונה דרומית. 12 דקות. גישה מכביש 44.</p></div>
     </div>
     <h3>מה תמצאו אצלנו?</h3>
     <div class="grid-3">
@@ -212,7 +212,7 @@ footer{background:var(--black2);border-top:1px solid var(--g1);padding:36px 28px
 </main>
 <footer style="background:#F3EFE6;border-top:1px solid #E8E3D9;padding:28px;text-align:center">
   <a href="/" style="display:inline-flex;flex-direction:column;align-items:center;gap:3px;text-decoration:none;margin-bottom:10px">
-    <span style="font-family:'Oswald',sans-serif;font-size:20px;font-weight:700;letter-spacing:7px;color:#b8b0a0">אבי סנטר</span>
+    <span style="font-family:'Oswald',sans-serif;font-size:20px;font-weight:700;letter-spacing:7px;color:#7D7567">אבי סנטר</span>
     <span style="width:100%;height:2px;background:#D5001C;display:block"></span>
     <span style="font-size:7px;letter-spacing:5px;color:#D5001C;font-weight:700">טמבוריה · חולון · מאז 1994</span>
   </a>
@@ -228,7 +228,7 @@ footer{background:var(--black2);border-top:1px solid var(--g1);padding:36px 28px
     <a href="/madrich-led" style="color:#444;text-decoration:none">LED וחשמל</a> · 
     <a href="/madrich-bidud" style="color:#444;text-decoration:none">דבקים ואיטום</a> · 
     <a href="/madrich-hadabara" style="color:#444;text-decoration:none">הדברה</a> · 
-    <a href="/madrich-nizila" style="color:#444;text-decoration:none">ניקיון</a> · <a href="/madrich-klali">אביזרים כלליים</a> · <a href="/madrich-bragim" style="color:#444;text-decoration:none">ברגים ופרזול</a> · <a href="/madrich-chomrei-binyan" style="color:#444;text-decoration:none">חומרי בניין</a> · <a href="/madrich-gina" style="color:#444;text-decoration:none">גינה והשקיה</a> · <a href="/tikunim">תיקונים עד הבית</a> · 
+    <a href="/madrich-nizila" style="color:#444;text-decoration:none">ניקיון</a> · <a href="/madrich-klali">אביזרים כלליים</a> · <a href="/madrich-bragim" style="color:#444;text-decoration:none">ברגים ופרזול</a> · <a href="/madrich-chomrei-binyan" style="color:#444;text-decoration:none">חומרי בניין</a> · <a href="/madrich-gina" style="color:#444;text-decoration:none">גינה והשקיה</a> · <a href="/madrich-agalot" style="color:#444;text-decoration:none">עגלות וייבוש כביסה</a> · <a href="/tikunim">תיקונים עד הבית</a> · 
     <a href="/shchunot" style="color:#444;text-decoration:none">שכונות שירות</a> · 
     <a href="/blog" style="color:#D5001C;text-decoration:none;font-weight:700">בלוג ומדריכים</a>
   </p>

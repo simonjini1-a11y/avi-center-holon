@@ -87,11 +87,11 @@ footer{background:var(--black2);border-top:1px solid var(--g1);padding:36px 28px
     if(!a)return;
     var href=a.getAttribute('href')||'';
     if(href.indexOf('tel:')===0){
-      gtag('event','phone_click',{event_category:'contact',event_label:document.title,page_path:location.pathname});
+      gtag('event','phone_click',{event_category:'contact',event_label:document.title,page_path:location.pathname,link_location:(a.closest('.mbar')?'sticky_bar':'page')});
     }else if(href.indexOf('wa.me')!==-1||href.indexOf('whatsapp')!==-1){
-      gtag('event','whatsapp_click',{event_category:'contact',event_label:document.title,page_path:location.pathname});
+      gtag('event','whatsapp_click',{event_category:'contact',event_label:document.title,page_path:location.pathname,link_location:(a.closest('.mbar')?'sticky_bar':'page')});
     }else if(href.indexOf('waze.com')!==-1||href.indexOf('maps.app.goo.gl')!==-1||href.indexOf('google.com/maps')!==-1){
-      gtag('event','directions_click',{event_category:'contact',event_label:document.title,page_path:location.pathname});
+      gtag('event','directions_click',{event_category:'contact',event_label:document.title,page_path:location.pathname,link_location:(a.closest('.mbar')?'sticky_bar':'page')});
     }
   },true);
 </script>
@@ -133,7 +133,7 @@ footer{background:var(--black2);border-top:1px solid var(--g1);padding:36px 28px
   </div>
 </section>
 <div class="stats">
-  <div class="stat"><div class="stat-n">SPADINI</div><div class="stat-l">מפיץ רשמי</div></div>
+  <div class="stat"><div class="stat-n">SPADINI</div><div class="stat-l">נקודת מכירה רשמית</div></div>
   <div class="stat"><div class="stat-n">AISI 304</div><div class="stat-l">נירוסטה איכותית</div></div>
   <div class="stat"><div class="stat-n">30+</div><div class="stat-l">שנות ניסיון</div></div>
   <div class="stat"><div class="stat-n">4.8★</div><div class="stat-l">גוגל</div></div>
@@ -147,16 +147,17 @@ footer{background:var(--black2);border-top:1px solid var(--g1);padding:36px 28px
   <figure><a href="https://wa.me/972544247393?text=%D7%94%D7%99%D7%99%2C%20%D7%90%D7%A9%D7%9E%D7%97%20%D7%9C%D7%A9%D7%90%D7%95%D7%9C%20%D7%A2%D7%9C%20%D7%9E%D7%A0%D7%92%D7%A0%D7%95%D7%9F%20%D7%9E%D7%99%D7%9C%D7%95%D7%99%20%D7%9C%D7%90%D7%A1%D7%9C%D7%94%20SPADINI" target="_blank" rel="noopener" aria-label="למידע נוסף"><picture class="pw"><source srcset="/images/instalazia-spadini-mefatzel.webp" type="image/webp"><img src="/images/instalazia-spadini-mefatzel.jpg" alt="מנגנון מילוי למיכל אסלה SPADINI, כפי שנמכר באבי סנטר טמבוריה חולון" loading="lazy"></picture></a><figcaption>מנגנון מילוי למיכל אסלה SPADINI</figcaption></figure>
   <figure><a href="https://wa.me/972544247393?text=%D7%94%D7%99%D7%99%2C%20%D7%90%D7%A9%D7%9E%D7%97%20%D7%9C%D7%A9%D7%90%D7%95%D7%9C%20%D7%A2%D7%9C%20%D7%A6%D7%99%D7%A0%D7%95%D7%A8%D7%95%D7%AA%20PVC" target="_blank" rel="noopener" aria-label="למידע נוסף"><picture class="pw"><source srcset="/images/instalazia-tzinorot-pvc.webp" type="image/webp"><img src="/images/instalazia-tzinorot-pvc.jpg" alt="אביזרי צנרת PVC לאינסטלציה, כפי שנמכרים באבי סנטר טמבוריה חולון" loading="lazy"></picture></a><figcaption>אביזרי צנרת PVC לאינסטלציה</figcaption></figure>
   <figure><a href="https://wa.me/972544247393?text=%D7%94%D7%99%D7%99%2C%20%D7%90%D7%A9%D7%9E%D7%97%20%D7%9C%D7%A9%D7%90%D7%95%D7%9C%20%D7%A2%D7%9C%20%D7%A6%D7%99%D7%A0%D7%95%D7%A8%20Spidex" target="_blank" rel="noopener" aria-label="למידע נוסף"><picture class="pw"><source srcset="/images/instalazia-tzinor-miklachat-spring-spidex.webp" type="image/webp"><img src="/images/instalazia-tzinor-miklachat-spring-spidex.jpg" alt="צינור מקלחת גמיש Spring Spidex 5.5 נטו, כפי שנמכר באבי סנטר טמבוריה חולון" loading="lazy"></picture></a><figcaption>צינור מקלחת גמיש Spring Spidex 5.5 נטו</figcaption></figure>
+  <figure><a href="https://wa.me/972544247393?text=%D7%94%D7%99%D7%99%2C%20%D7%99%D7%A9%20%D7%9C%D7%9B%D7%9D%20%D7%A6%D7%99%D7%A0%D7%95%D7%A8%20SPRING%20Spidex%20%D7%9C%D7%91%D7%A8%D7%96%20%D7%A0%D7%A9%D7%9C%D7%A3%3F" target="_blank" rel="noopener" aria-label="למידע נוסף"><picture class="pw"><source srcset="/images/instalazia-spring-spidex-pullout.webp" type="image/webp"><img src="/images/instalazia-spring-spidex-pullout.jpg" alt="צינור מתכת גמיש SPRING Spidex לברז נשלף, כפי שנמכר באבי סנטר טמבוריה חולון" loading="lazy"></picture></a><figcaption>SPRING Spidex לברז נשלף</figcaption></figure>
 </div>
 <div class="grid-3" style="margin-bottom:40px">
-      <div class="card"><div class="card-icon">🚿</div><h4>מזלפי SPADINI Anti-Calc</h4><p>מזלפי מקלחת עם פיות <a href="/madrich-bidud">סיליקון</a> המונעות הצטברות <a href="/blog-avnit-bli-lifgoa-batzeva">אבנית</a>. המים בישראל קשים — Anti-Calc הוא הפתרון הטוב ביותר. ניקוי פשוט בלחיצת אצבע.</p><p style="color:var(--red);font-size:15px;font-weight:600">זמין מיידי ✓</p></div>
-      <div class="card"><div class="card-icon">🔩</div><h4>צינורות שזירה AISI 304</h4><p>צינורות גמישים מנירוסטה AISI 304 לחיבור ברזים, אסלות ודודי מים. עמידים לחלוטין לחלודה ולאבנית. ייעוץ על הגודל המתאים בחנות.</p><p style="color:var(--red);font-size:15px;font-weight:600">זמין מיידי ✓</p></div>
-      <div class="card"><div class="card-icon">🔧</div><h4>ראשי מקלחת וזרועות</h4><p>ראשי מקלחת עם מגוון מצבי ריסוס, זרועות מקלחת בגבהים שונים. SPADINI מציע עיצובים מודרניים עם טכנולוגיית Anti-Calc מובנית.</p><p style="color:var(--red);font-size:15px;font-weight:600">זמין מיידי ✓</p></div>
-      <div class="card"><div class="card-icon">🚰</div><h4>ברזים ואביזרים</h4><p>ברזי מטבח, אמבטיה ולחץ. ידיות, מאחסים, מחזיקי מגבת ואביזרי אמבטיה. מגוון רחב של מותגים ומחירים.</p><p style="color:var(--red);font-size:15px;font-weight:600">זמין מיידי ✓</p></div>
-      <div class="card"><div class="card-icon">💧</div><h4>סיליקון Sanitary</h4><p>סיליקון עמיד לאמבטיה ולמטבח. איטום פינות, מדפי זכוכית ומשטחי שיש. Sanitary בלבד — לא לבנייה ולא לחוץ.</p><p style="color:var(--red);font-size:15px;font-weight:600">זמין מיידי ✓</p></div>
-      <div class="card"><div class="card-icon">🔨</div><h4>כלי שרברבות</h4><p>מפתחות צינור, אטמים, טפלון, גלאי נזילות ועוד כלי שרברבות בסיסיים לתיקונים ביתיים.</p><p style="color:var(--red);font-size:15px;font-weight:600">זמין מיידי ✓</p></div>
-      <div class="card"><div class="card-icon">🚽</div><h4>מושבי אסלה SPADINI</h4><p>מושבי אסלה איכותיים, סגירה שקטה, התקנה קלה. מתאימים לרוב דגמי האסלות הנפוצים בישראל.</p><p style="color:var(--red);font-size:15px;font-weight:600">זמין מיידי ✓</p></div>
-      <div class="card"><div class="card-icon">🐍</div><h4>קפיץ ביוב מקצועי</h4><p>קפיץ ביוב גמיש (3-5 מטר) לפתיחת סתימות בכיורים ואמבטיות, בלי צורך בקריאה לאינסטלטור על סתימה פשוטה.</p><p style="color:var(--red);font-size:15px;font-weight:600">זמין מיידי ✓</p></div>
+      <div class="card"><div class="card-icon">🚿</div><h4 aria-level="3">מזלפי SPADINI Anti-Calc</h4><p>מזלפי מקלחת עם פיות <a href="/madrich-bidud">סיליקון</a> המונעות הצטברות <a href="/blog-avnit-bli-lifgoa-batzeva">אבנית</a>. המים בישראל קשים — Anti-Calc הוא הפתרון הטוב ביותר. ניקוי פשוט בלחיצת אצבע.</p><p style="color:var(--red);font-size:15px;font-weight:600">זמין מיידי ✓</p></div>
+      <div class="card"><div class="card-icon">🔩</div><h4 aria-level="3">צינורות שזירה AISI 304</h4><p>צינורות גמישים מנירוסטה AISI 304 לחיבור ברזים, אסלות ודודי מים. עמידים לחלוטין לחלודה ולאבנית. ייעוץ על הגודל המתאים בחנות.</p><p style="color:var(--red);font-size:15px;font-weight:600">זמין מיידי ✓</p></div>
+      <div class="card"><div class="card-icon">🔧</div><h4 aria-level="3">ראשי מקלחת וזרועות</h4><p>ראשי מקלחת עם מגוון מצבי ריסוס, זרועות מקלחת בגבהים שונים. SPADINI מציע עיצובים מודרניים עם טכנולוגיית Anti-Calc מובנית.</p><p style="color:var(--red);font-size:15px;font-weight:600">זמין מיידי ✓</p></div>
+      <div class="card"><div class="card-icon">🚰</div><h4 aria-level="3">ברזים ואביזרים</h4><p>ברזי מטבח, אמבטיה ולחץ. ידיות, מאחסים, מחזיקי מגבת ואביזרי אמבטיה. מגוון רחב של מותגים ומחירים.</p><p style="color:var(--red);font-size:15px;font-weight:600">זמין מיידי ✓</p></div>
+      <div class="card"><div class="card-icon">💧</div><h4 aria-level="3">סיליקון Sanitary</h4><p>סיליקון עמיד לאמבטיה ולמטבח. איטום פינות, מדפי זכוכית ומשטחי שיש. Sanitary בלבד — לא לבנייה ולא לחוץ.</p><p style="color:var(--red);font-size:15px;font-weight:600">זמין מיידי ✓</p></div>
+      <div class="card"><div class="card-icon">🔨</div><h4 aria-level="3">כלי שרברבות</h4><p>מפתחות צינור, אטמים, טפלון, גלאי נזילות ועוד כלי שרברבות בסיסיים לתיקונים ביתיים.</p><p style="color:var(--red);font-size:15px;font-weight:600">זמין מיידי ✓</p></div>
+      <div class="card"><div class="card-icon">🚽</div><h4 aria-level="3">מושבי אסלה SPADINI</h4><p>מושבי אסלה איכותיים, סגירה שקטה, התקנה קלה. מתאימים לרוב דגמי האסלות הנפוצים בישראל.</p><p style="color:var(--red);font-size:15px;font-weight:600">זמין מיידי ✓</p></div>
+      <div class="card"><div class="card-icon">🐍</div><h4 aria-level="3">קפיץ ביוב מקצועי</h4><p>קפיץ ביוב גמיש (3-5 מטר) לפתיחת סתימות בכיורים ואמבטיות, בלי צורך בקריאה לאינסטלטור על סתימה פשוטה.</p><p style="color:var(--red);font-size:15px;font-weight:600">זמין מיידי ✓</p></div>
     </div>
     <div class="pgrid">
   <figure><a href="https://wa.me/972544247393?text=%D7%94%D7%99%D7%99%2C%20%D7%90%D7%A9%D7%9E%D7%97%20%D7%9C%D7%A9%D7%90%D7%95%D7%9C%20%D7%A2%D7%9C%20%D7%9E%D7%95%D7%A9%D7%91%20%D7%90%D7%A1%D7%9C%D7%94" target="_blank" rel="noopener" aria-label="למידע נוסף"><picture class="pw"><source srcset="/images/instalazia-moshav-aslah-spadini.webp" type="image/webp"><img src="/images/instalazia-moshav-aslah-spadini.jpg" alt="מושב אסלה SPADINI S-5 טורנדו, כפי שנמכר באבי סנטר טמבוריה חולון" loading="lazy"></picture></a><figcaption>מושב אסלה SPADINI S-5 טורנדו</figcaption></figure>
@@ -171,7 +172,7 @@ footer{background:var(--black2);border-top:1px solid var(--g1);padding:36px 28px
   <figure><a href="https://wa.me/972544247393?text=%D7%94%D7%99%D7%99%2C%20%D7%90%D7%A9%D7%9E%D7%97%20%D7%9C%D7%A9%D7%90%D7%95%D7%9C%20%D7%A2%D7%9C%20%D7%99%D7%93%D7%99%D7%95%D7%AA%20%D7%91%D7%A8%D7%96%20Spring" target="_blank" rel="noopener" aria-label="למידע נוסף"><picture class="pw"><source srcset="/images/instalazia-yadit-berez-spring-zug.webp" type="image/webp"><img src="/images/instalazia-yadit-berez-spring-zug.jpg" alt="זוג ידיות ברז כרום Spring (חם/קר), כפי שנמכר באבי סנטר טמבוריה חולון" loading="lazy"></picture></a><figcaption>זוג ידיות ברז כרום Spring (חם/קר)</figcaption></figure>
 </div>
 <div class="highlight">
-      <h4>למה SPADINI Anti-Calc?</h4>
+      <h4 aria-level="3">למה SPADINI Anti-Calc?</h4>
       <p>המים בישראל הם מהקשים בעולם. אבנית סותמת מזלפים רגילים תוך 6–12 חודשים. SPADINI Anti-Calc מכילה פיות סיליקון גמישות — האבנית לא נדבקת, וניקוי נעשה בלחיצת אצבע פשוטה. <strong style="color:var(--t1)">חסכון של 80% בהחלפות מזלפים</strong> לאורך זמן.</p>
     </div>
     <h3>מדריך — איך מחליפים מזלף מקלחת?</h3>
@@ -218,6 +219,8 @@ footer{background:var(--black2);border-top:1px solid var(--g1);padding:36px 28px
     <p style="text-align:center;margin-top:20px"><a href="/blog-tikun-nezila-beberez">מדריך מלא: איך מתקנים נזילה בברז שלב אחר שלב →</a></p>
     <p style="text-align:center;margin-top:8px"><a href="/blog-mezalef-bide-hatkana">מדריך מלא: התקנת מזלף בידה לאסלה בלי אינסטלטור →</a></p>
 <p style="text-align:center;margin-top:8px"><a href="/blog-nikuy-mesanenet-berez">מדריך מלא: ניקוי מסננת הברז ב-10 דקות →</a></p>
+<p style="text-align:center;margin-top:8px"><a href="/blog-eyze-tzinor-miklachat">מדריך מלא: איזה צינור מקלחת לקנות →</a></p>
+<p style="text-align:center;margin-top:8px"><a href="/blog-kiyor-mitbach-mitnakez-leat">מדריך מלא: כיור המטבח מתנקז לאט →</a></p>
   </div>
 </section>
 
@@ -260,7 +263,7 @@ footer{background:var(--black2);border-top:1px solid var(--g1);padding:36px 28px
 </main>
 <footer style="background:#F3EFE6;border-top:1px solid #E8E3D9;padding:28px;text-align:center">
   <a href="/" style="display:inline-flex;flex-direction:column;align-items:center;gap:3px;text-decoration:none;margin-bottom:10px">
-    <span style="font-family:'Oswald',sans-serif;font-size:20px;font-weight:700;letter-spacing:7px;color:#b8b0a0">אבי סנטר</span>
+    <span style="font-family:'Oswald',sans-serif;font-size:20px;font-weight:700;letter-spacing:7px;color:#7D7567">אבי סנטר</span>
     <span style="width:100%;height:2px;background:#D5001C;display:block"></span>
     <span style="font-size:7px;letter-spacing:5px;color:#D5001C;font-weight:700">טמבוריה · חולון · מאז 1994</span>
   </a>
@@ -276,7 +279,7 @@ footer{background:var(--black2);border-top:1px solid var(--g1);padding:36px 28px
     <a href="/madrich-led" style="color:#444;text-decoration:none">LED וחשמל</a> · 
     <a href="/madrich-bidud" style="color:#444;text-decoration:none">דבקים ואיטום</a> · 
     <a href="/madrich-hadabara" style="color:#444;text-decoration:none">הדברה</a> · 
-    <a href="/madrich-nizila" style="color:#444;text-decoration:none">ניקיון</a> · <a href="/madrich-klali">אביזרים כלליים</a> · <a href="/madrich-bragim" style="color:#444;text-decoration:none">ברגים ופרזול</a> · <a href="/madrich-chomrei-binyan" style="color:#444;text-decoration:none">חומרי בניין</a> · <a href="/madrich-gina" style="color:#444;text-decoration:none">גינה והשקיה</a> · <a href="/tikunim">תיקונים עד הבית</a> · 
+    <a href="/madrich-nizila" style="color:#444;text-decoration:none">ניקיון</a> · <a href="/madrich-klali">אביזרים כלליים</a> · <a href="/madrich-bragim" style="color:#444;text-decoration:none">ברגים ופרזול</a> · <a href="/madrich-chomrei-binyan" style="color:#444;text-decoration:none">חומרי בניין</a> · <a href="/madrich-gina" style="color:#444;text-decoration:none">גינה והשקיה</a> · <a href="/madrich-agalot" style="color:#444;text-decoration:none">עגלות וייבוש כביסה</a> · <a href="/tikunim">תיקונים עד הבית</a> · 
     <a href="/shchunot" style="color:#444;text-decoration:none">שכונות שירות</a> · 
     <a href="/blog" style="color:#D5001C;text-decoration:none;font-weight:700">בלוג ומדריכים</a>
   </p>

@@ -66,11 +66,11 @@ footer{background:var(--black2);border-top:1px solid var(--g1);padding:28px;text
     if(!a)return;
     var href=a.getAttribute('href')||'';
     if(href.indexOf('tel:')===0){
-      gtag('event','phone_click',{event_category:'contact',event_label:document.title,page_path:location.pathname});
+      gtag('event','phone_click',{event_category:'contact',event_label:document.title,page_path:location.pathname,link_location:(a.closest('.mbar')?'sticky_bar':'page')});
     }else if(href.indexOf('wa.me')!==-1||href.indexOf('whatsapp')!==-1){
-      gtag('event','whatsapp_click',{event_category:'contact',event_label:document.title,page_path:location.pathname});
+      gtag('event','whatsapp_click',{event_category:'contact',event_label:document.title,page_path:location.pathname,link_location:(a.closest('.mbar')?'sticky_bar':'page')});
     }else if(href.indexOf('waze.com')!==-1||href.indexOf('maps.app.goo.gl')!==-1||href.indexOf('google.com/maps')!==-1){
-      gtag('event','directions_click',{event_category:'contact',event_label:document.title,page_path:location.pathname});
+      gtag('event','directions_click',{event_category:'contact',event_label:document.title,page_path:location.pathname,link_location:(a.closest('.mbar')?'sticky_bar':'page')});
     }
   },true);
 </script>
@@ -199,6 +199,11 @@ footer{background:var(--black2);border-top:1px solid var(--g1);padding:28px;text
         <p>שלבי העבודה הנכונים למניעת עובש חוזר, כולל הסרת סיליקון ישן</p>
         <span class="read">קראו עוד ←</span>
       </a>
+      <a href="/blog-devek-maga" class="art-card">
+        <h3>איך עובדים עם דבק מגע</h3>
+        <p>מריחה על שני הצדדים, המתנה, ולחיצה: בלי תיקונים אחרי ההצמדה</p>
+        <span class="read">קראו עוד ←</span>
+      </a>
       <a href="/blog-eyze-devek-lechomer" class="art-card">
         <h3>איזה דבק מתאים לכל חומר?</h3>
         <p>טבלת בחירה מהירה לפי סוג החומר — עץ, מתכת, קרמיקה, פלסטיק וזכוכית</p>
@@ -240,6 +245,16 @@ footer{background:var(--black2);border-top:1px solid var(--g1);padding:28px;text
         <p>ניקוי אבנית מהחסכם בחומץ, ומה בודקים אחר כך</p>
         <span class="read">קראו עוד ←</span>
       </a>
+      <a href="/blog-eyze-tzinor-miklachat" class="art-card">
+        <h3>איזה צינור מקלחת לקנות?</h3>
+        <p>אורך, שרשורי או מחברי פליז, ולמה הצינור נוזל בחיבור</p>
+        <span class="read">קראו עוד ←</span>
+      </a>
+      <a href="/blog-kiyor-mitbach-mitnakez-leat" class="art-card">
+        <h3>כיור המטבח מתנקז לאט?</h3>
+        <p>ניקוי המסננת והסיפון בלי כימיקלים, ומתי מחליפים מסננת</p>
+        <span class="read">קראו עוד ←</span>
+      </a>
     </div>
   </div>
 </section>
@@ -253,6 +268,16 @@ footer{background:var(--black2);border-top:1px solid var(--g1);padding:28px;text
       <a href="/blog-eyze-berez-livchor" class="art-card">
         <h3>איזה ברז לבחור למטבח ולאמבטיה?</h3>
         <p>מדריך מקיף: חומרים, ציר קרמי, פתרון לברז מטפטף והחלפה עצמאית</p>
+        <span class="read">קראו עוד ←</span>
+      </a>
+      <a href="/blog-eyze-agalat-kniyot" class="art-card">
+        <h3>איזו עגלת קניות לקנות?</h3>
+        <p>5 דברים שבודקים בחנות: ידית, גלגלים, נפח, קיפול ותפרים</p>
+        <span class="read">קראו עוד ←</span>
+      </a>
+      <a href="/blog-nikuy-chalonot-gvohim" class="art-card">
+        <h3>ניקוי חלונות גבוהים בלי סולם</h3>
+        <p>מגב טלסקופי, סדר עבודה בלי פסים, ומה לא עושים</p>
         <span class="read">קראו עוד ←</span>
       </a>
       <a href="/blog-shpachtel-madrich" class="art-card">
@@ -317,7 +342,7 @@ footer{background:var(--black2);border-top:1px solid var(--g1);padding:28px;text
 </main>
 <footer>
   <a href="/" style="display:inline-flex;flex-direction:column;align-items:center;gap:3px;text-decoration:none;margin-bottom:10px">
-    <span style="font-family:'Oswald',sans-serif;font-size:20px;font-weight:700;letter-spacing:7px;color:#b8b0a0">אבי סנטר</span>
+    <span style="font-family:'Oswald',sans-serif;font-size:20px;font-weight:700;letter-spacing:7px;color:#7D7567">אבי סנטר</span>
     <span style="width:100%;height:2px;background:#D5001C;display:block"></span>
     <span style="font-size:7px;letter-spacing:5px;color:#D5001C;font-weight:700">טמבוריה · חולון · מאז 1994</span>
   </a>

@@ -84,11 +84,11 @@ details[open] summary{color:var(--red);border-bottom:1px solid var(--g2)}
     if(!a)return;
     var href=a.getAttribute('href')||'';
     if(href.indexOf('tel:')===0){
-      gtag('event','phone_click',{event_category:'contact',event_label:document.title,page_path:location.pathname});
+      gtag('event','phone_click',{event_category:'contact',event_label:document.title,page_path:location.pathname,link_location:(a.closest('.mbar')?'sticky_bar':'page')});
     }else if(href.indexOf('wa.me')!==-1||href.indexOf('whatsapp')!==-1){
-      gtag('event','whatsapp_click',{event_category:'contact',event_label:document.title,page_path:location.pathname});
+      gtag('event','whatsapp_click',{event_category:'contact',event_label:document.title,page_path:location.pathname,link_location:(a.closest('.mbar')?'sticky_bar':'page')});
     }else if(href.indexOf('waze.com')!==-1||href.indexOf('maps.app.goo.gl')!==-1||href.indexOf('google.com/maps')!==-1){
-      gtag('event','directions_click',{event_category:'contact',event_label:document.title,page_path:location.pathname});
+      gtag('event','directions_click',{event_category:'contact',event_label:document.title,page_path:location.pathname,link_location:(a.closest('.mbar')?'sticky_bar':'page')});
     }
   },true);
 </script>
@@ -145,7 +145,7 @@ details[open] summary{color:var(--red);border-bottom:1px solid var(--g2)}
   </div>
   <div style="display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;background:rgba(37,211,102,.08);border:1px solid rgba(37,211,102,.25);border-radius:6px;padding:14px 18px">
     <p style="margin:0;font-size:14px;color:var(--t2)">💬 לא בטוחים מה מתאים לכם?</p>
-    <a href="https://wa.me/972544247393?text=%D7%A9%D7%90%D7%9C%D7%94%20%D7%9E%D7%94%D7%99%D7%A8%D7%94%20%D7%A2%D7%9C%20%D7%94%D7%93%D7%91%D7%A8%D7%94" target="_blank" rel="noopener" style="display:inline-block;background:#25D366;color:#fff;padding:8px 18px;border-radius:50px;font-weight:700;font-size:13px;white-space:nowrap">שאלה מהירה בוואטסאפ ←</a>
+    <a href="https://wa.me/972544247393?text=%D7%A9%D7%90%D7%9C%D7%94%20%D7%9E%D7%94%D7%99%D7%A8%D7%94%20%D7%A2%D7%9C%20%D7%94%D7%93%D7%91%D7%A8%D7%94" target="_blank" rel="noopener" style="display:inline-block;background:#0E7A3F;color:#fff;padding:8px 18px;border-radius:50px;font-weight:700;font-size:13px;white-space:nowrap">שאלה מהירה בוואטסאפ ←</a>
   </div>
 </div>
 <section class="sec">
@@ -156,16 +156,17 @@ details[open] summary{color:var(--red);border-bottom:1px solid var(--g2)}
   <figure><a href="https://wa.me/972544247393?text=%D7%94%D7%99%D7%99%2C%20%D7%90%D7%A9%D7%9E%D7%97%20%D7%9C%D7%A9%D7%90%D7%95%D7%9C%20%D7%A2%D7%9C%20%D7%9E%D7%9C%D7%9B%D7%95%D7%93%D7%AA%20%D7%94%D7%93%D7%91%D7%A8%D7%94" target="_blank" rel="noopener" aria-label="למידע נוסף"><picture class="pw"><source srcset="/images/hadabara-malkodet-luach-devek.webp" type="image/webp"><img src="/images/hadabara-malkodet-luach-devek.jpg" alt="מלכודת לוח דבק צהוב Herman ללכידת מזיקים מעופפים, 10 מלכודות עם חוט תלייה" loading="lazy"></picture></a><figcaption>מלכודת לוח דבק צהוב Herman ללכידת מזיקים מ...</figcaption></figure>
   <figure><a href="https://wa.me/972544247393?text=%D7%94%D7%99%D7%99%2C%20%D7%90%D7%A9%D7%9E%D7%97%20%D7%9C%D7%A9%D7%90%D7%95%D7%9C%20%D7%A2%D7%9C%20%D7%92'%D7%9C%20%D7%A0%D7%9E%D7%9C%D7%99%D7%9D" target="_blank" rel="noopener" aria-label="למידע נוסף"><picture class="pw"><source srcset="/images/hadabara-gel-nemalim-topgel.webp" type="image/webp"><img src="/images/hadabara-gel-nemalim-topgel.jpg" alt="פתיון ג&#39;ל TopGel להדברת נמלת האש הקטנה ונמלים אחרות, כפי שנמכר באבי סנטר טמבוריה חולון" loading="lazy"></picture></a><figcaption>פתיון ג&#39;ל TopGel להדברת נמלת האש הקטנה...</figcaption></figure>
   <figure><a href="https://wa.me/972544247393?text=%D7%94%D7%99%D7%99%2C%20%D7%90%D7%A9%D7%9E%D7%97%20%D7%9C%D7%A9%D7%90%D7%95%D7%9C%20%D7%A2%D7%9C%20%D7%92'%D7%9C%20%D7%92'%D7%95%D7%A7%D7%99%D7%9D" target="_blank" rel="noopener" aria-label="למידע נוסף"><picture class="pw"><source srcset="/images/hadabara-gel-tikanim-torpedo.webp" type="image/webp"><img src="/images/hadabara-gel-tikanim-torpedo.jpg" alt="פתיון ג&#39;ל טורפדו להדברת תיקנים (ג&#39;וקים), כפי שנמכר באבי סנטר טמבוריה חולון" loading="lazy"></picture></a><figcaption>פתיון ג&#39;ל טורפדו להדברת תיקנים (ג&#39;...</figcaption></figure>
+  <figure><a href="https://wa.me/972544247393?text=%D7%94%D7%99%D7%99%2C%20%D7%99%D7%A9%20%D7%9C%D7%9B%D7%9D%20%D7%9E%D7%9C%D7%9B%D7%95%D7%93%D7%AA%20%D7%93%D7%91%D7%A7%20%D7%9C%D7%A2%D7%9B%D7%91%D7%A8%D7%99%D7%9D%20%D7%A9%D7%9C%20HERMAN%3F" target="_blank" rel="noopener" aria-label="למידע נוסף"><picture class="pw"><source srcset="/images/hadabara-herman-malkodet-devek-achbarim.webp" type="image/webp"><img src="/images/hadabara-herman-malkodet-devek-achbarim.jpg" alt="מלכודת דבק לעכברים HERMAN, כפי שנמכר באבי סנטר טמבוריה חולון" loading="lazy"></picture></a><figcaption>HERMAN מלכודת דבק לעכברים</figcaption></figure>
 </div>
 <div class="grid-3" style="margin-bottom:32px">
-      <div class="card"><div class="card-icon">🪳</div><h4>נגד ג׳וקים</h4><p>ג'ל ג'וקים RAID מתחת לשיש + ספריי לפינות ולמנות. תוצאות תוך 24–48 שעות. בטוח לשימוש ביתי.</p></div>
-      <div class="card"><div class="card-icon">🐭</div><h4>נגד עכברים</h4><p>מלכודות הצמדה ומוחות (רעל) בטוחים. ממקמים בזוויות קיר. יעיל לדירות ולחצרות.</p></div>
-      <div class="card"><div class="card-icon">🦟</div><h4>נגד יתושים</h4><p>מכשיר חשמלי עם טבלית RAID לחדר שינה. ספריי יתושים לחצר ולגינה. מגן 8–10 שעות.</p></div>
-      <div class="card"><div class="card-icon">🐜</div><h4>נגד נמלים</h4><p>פיתיון נמלים — הנמלה אוכלת ומחזירה לקן. מחסל את כל המושבה תוך ימים.</p></div>
-      <div class="card"><div class="card-icon">🕷️</div><h4>נגד רמשים כלליים</h4><p>ספריי הדברה רחב-ספקטרום לכל סוגי החרקים. שמור לאורך שבועות. מתאים לפינות, חריצים ומנות.</p></div>
-      <div class="card"><div class="card-icon">🌿</div><h4>אמצעי הרחקה טבעיים</h4><p>ממריחי ג'ל על בסיס צמחי, שקיות הרחקה ריחניות. ללא רעל — מתאים לבתים עם ילדים ובעלי חיים.</p></div>
+      <div class="card"><div class="card-icon">🪳</div><h4 aria-level="3">נגד ג׳וקים</h4><p>ג'ל ג'וקים RAID מתחת לשיש + ספריי לפינות ולמנות. תוצאות תוך 24–48 שעות. בטוח לשימוש ביתי.</p></div>
+      <div class="card"><div class="card-icon">🐭</div><h4 aria-level="3">נגד עכברים</h4><p>מלכודות הצמדה ומוחות (רעל) בטוחים. ממקמים בזוויות קיר. יעיל לדירות ולחצרות.</p></div>
+      <div class="card"><div class="card-icon">🦟</div><h4 aria-level="3">נגד יתושים</h4><p>מכשיר חשמלי עם טבלית RAID לחדר שינה. ספריי יתושים לחצר ולגינה. מגן 8–10 שעות.</p></div>
+      <div class="card"><div class="card-icon">🐜</div><h4 aria-level="3">נגד נמלים</h4><p>פיתיון נמלים — הנמלה אוכלת ומחזירה לקן. מחסל את כל המושבה תוך ימים.</p></div>
+      <div class="card"><div class="card-icon">🕷️</div><h4 aria-level="3">נגד רמשים כלליים</h4><p>ספריי הדברה רחב-ספקטרום לכל סוגי החרקים. שמור לאורך שבועות. מתאים לפינות, חריצים ומנות.</p></div>
+      <div class="card"><div class="card-icon">🌿</div><h4 aria-level="3">אמצעי הרחקה טבעיים</h4><p>ממריחי ג'ל על בסיס צמחי, שקיות הרחקה ריחניות. ללא רעל — מתאים לבתים עם ילדים ובעלי חיים.</p></div>
     </div>
-    <div class="highlight"><h4>💡 טיפ מקצועי — ג׳וקים</h4><p>ג'ל ג'וקים יעיל יותר מספריי ברוב המקרים. מניחים נקודות קטנות מתחת לשיש, בתוך ארונות ובמנות קיר. הג'וק אוכל, חוזר לקן ומחסל את כולם. ספריי מהיר אבל לא מגיע לכל הנסתרים.</p></div>
+    <div class="highlight"><h4 aria-level="3">💡 טיפ מקצועי — ג׳וקים</h4><p>ג'ל ג'וקים יעיל יותר מספריי ברוב המקרים. מניחים נקודות קטנות מתחת לשיש, בתוך ארונות ובמנות קיר. הג'וק אוכל, חוזר לקן ומחסל את כולם. ספריי מהיר אבל לא מגיע לכל הנסתרים.</p></div>
     <h3>שאלות נפוצות</h3>
     <details><summary>מה הכי יעיל נגד ג'וקים?<span>+</span></summary><div class="faq-body">ג'ל RAID + ספריי ביחד. הג'ל — מתחת לשיש ובמנות. הספריי — על פינות ומסתורים. ניקיון מוחלט לפני ואחרי — ג'וקים נמשכים לפירורים ושאריות אוכל.</div></details>
     <details><summary>האם המוצרים בטוחים לילדים וחיות מחמד?<span>+</span></summary><div class="faq-body">רוב המוצרים בטוחים לאחר ייבוש. בזמן הריסוס — יש לאוורר ולצאת מהחדר. לבתים עם ילדים קטנים מאוד — נמליץ על מוצרים על בסיס טבעי.</div></details>
@@ -203,7 +204,7 @@ details[open] summary{color:var(--red);border-bottom:1px solid var(--g2)}
 </main>
 <footer style="background:#F3EFE6;border-top:1px solid #E8E3D9;padding:28px;text-align:center">
   <a href="/" style="display:inline-flex;flex-direction:column;align-items:center;gap:3px;text-decoration:none;margin-bottom:10px">
-    <span style="font-family:'Oswald',sans-serif;font-size:20px;font-weight:700;letter-spacing:7px;color:#b8b0a0">אבי סנטר</span>
+    <span style="font-family:'Oswald',sans-serif;font-size:20px;font-weight:700;letter-spacing:7px;color:#7D7567">אבי סנטר</span>
     <span style="width:100%;height:2px;background:#D5001C;display:block"></span>
     <span style="font-size:7px;letter-spacing:5px;color:#D5001C;font-weight:700">טמבוריה · חולון · מאז 1994</span>
   </a>
@@ -219,7 +220,7 @@ details[open] summary{color:var(--red);border-bottom:1px solid var(--g2)}
     <a href="/madrich-led" style="color:#444;text-decoration:none">LED וחשמל</a> · 
     <a href="/madrich-bidud" style="color:#444;text-decoration:none">דבקים ואיטום</a> · 
     <a href="/madrich-hadabara" style="color:#444;text-decoration:none">הדברה</a> · 
-    <a href="/madrich-nizila" style="color:#444;text-decoration:none">ניקיון</a> · <a href="/madrich-klali">אביזרים כלליים</a> · <a href="/madrich-bragim" style="color:#444;text-decoration:none">ברגים ופרזול</a> · <a href="/madrich-chomrei-binyan" style="color:#444;text-decoration:none">חומרי בניין</a> · <a href="/madrich-gina" style="color:#444;text-decoration:none">גינה והשקיה</a> · <a href="/tikunim">תיקונים עד הבית</a> · 
+    <a href="/madrich-nizila" style="color:#444;text-decoration:none">ניקיון</a> · <a href="/madrich-klali">אביזרים כלליים</a> · <a href="/madrich-bragim" style="color:#444;text-decoration:none">ברגים ופרזול</a> · <a href="/madrich-chomrei-binyan" style="color:#444;text-decoration:none">חומרי בניין</a> · <a href="/madrich-gina" style="color:#444;text-decoration:none">גינה והשקיה</a> · <a href="/madrich-agalot" style="color:#444;text-decoration:none">עגלות וייבוש כביסה</a> · <a href="/tikunim">תיקונים עד הבית</a> · 
     <a href="/shchunot" style="color:#444;text-decoration:none">שכונות שירות</a> · 
     <a href="/blog" style="color:#D5001C;text-decoration:none;font-weight:700">בלוג ומדריכים</a>
   </p>

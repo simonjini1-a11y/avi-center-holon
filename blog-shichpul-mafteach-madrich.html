@@ -54,7 +54,7 @@ li{margin-bottom:10px}
 .box h3{color:var(--red);font-size:16px;margin:0 0 8px}
 .cta{background:var(--black3);border:1px solid var(--g2);border-radius:var(--r);padding:24px;margin:32px 0;text-align:center}
 .cta a{display:inline-block;background:var(--red);color:#fff;padding:12px 26px;border-radius:50px;font-weight:700;font-size:14px;margin-top:12px}
-.cta.wa a{background:#25D366}
+.cta.wa a{background:#0E7A3F}
 .faq details{border:1px solid var(--g2);border-radius:var(--r);margin-bottom:8px;overflow:hidden}
 .faq summary{padding:14px 18px;cursor:pointer;font-size:15px;font-weight:600;color:var(--t1);list-style:none}
 .faq summary::-webkit-details-marker{display:none}
@@ -88,11 +88,11 @@ footer{background:var(--black2);border-top:1px solid var(--g1);padding:28px;text
     if(!a)return;
     var href=a.getAttribute('href')||'';
     if(href.indexOf('tel:')===0){
-      gtag('event','phone_click',{event_category:'contact',event_label:document.title,page_path:location.pathname});
+      gtag('event','phone_click',{event_category:'contact',event_label:document.title,page_path:location.pathname,link_location:(a.closest('.mbar')?'sticky_bar':'page')});
     }else if(href.indexOf('wa.me')!==-1||href.indexOf('whatsapp')!==-1){
-      gtag('event','whatsapp_click',{event_category:'contact',event_label:document.title,page_path:location.pathname});
+      gtag('event','whatsapp_click',{event_category:'contact',event_label:document.title,page_path:location.pathname,link_location:(a.closest('.mbar')?'sticky_bar':'page')});
     }else if(href.indexOf('waze.com')!==-1||href.indexOf('maps.app.goo.gl')!==-1||href.indexOf('google.com/maps')!==-1){
-      gtag('event','directions_click',{event_category:'contact',event_label:document.title,page_path:location.pathname});
+      gtag('event','directions_click',{event_category:'contact',event_label:document.title,page_path:location.pathname,link_location:(a.closest('.mbar')?'sticky_bar':'page')});
     }
   },true);
 </script>
@@ -122,11 +122,11 @@ footer{background:var(--black2);border-top:1px solid var(--g1);padding:28px;text
 
   <div style="display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;background:rgba(37,211,102,.08);border:1px solid rgba(37,211,102,.25);border-radius:6px;padding:14px 18px;margin:0 0 20px">
     <p style="margin:0;font-size:14px;color:var(--t2)">💬 לא בטוחים אם המפתח שלכם ניתן לשכפול?</p>
-    <a href="https://wa.me/972544247393?text=%D7%A9%D7%9C%D7%95%D7%9D!%20%D7%99%D7%A9%20%D7%9C%D7%99%20%D7%A9%D7%90%D7%9C%D7%94%20%D7%A2%D7%9C%20%D7%A9%D7%9B%D7%A4%D7%95%D7%9C%20%D7%9E%D7%A4%D7%AA%D7%97" target="_blank" rel="noopener" style="display:inline-block;background:#25D366;color:#fff;padding:8px 18px;border-radius:50px;font-weight:700;font-size:13px;white-space:nowrap">שאלה מהירה בוואטסאפ ←</a>
+    <a href="https://wa.me/972544247393?text=%D7%A9%D7%9C%D7%95%D7%9D!%20%D7%99%D7%A9%20%D7%9C%D7%99%20%D7%A9%D7%90%D7%9C%D7%94%20%D7%A2%D7%9C%20%D7%A9%D7%9B%D7%A4%D7%95%D7%9C%20%D7%9E%D7%A4%D7%AA%D7%97" target="_blank" rel="noopener" style="display:inline-block;background:#0E7A3F;color:#fff;padding:8px 18px;border-radius:50px;font-weight:700;font-size:13px;white-space:nowrap">שאלה מהירה בוואטסאפ ←</a>
   </div>
 
 <div class="toc">
-    <h4>בתוך המדריך</h4>
+    <h4 aria-level="2">בתוך המדריך</h4>
     <a href="#sugim">אילו סוגי מפתחות אפשר לשכפל</a>
     <a href="#ibud">איבדתי את כל המפתחות — מה עושים</a>
     <a href="#patent">מפתח מוגן (Patent) — למה זה שונה</a>
@@ -239,7 +239,7 @@ footer{background:var(--black2);border-top:1px solid var(--g1);padding:28px;text
 </main>
 <footer>
   <a href="/" style="display:inline-flex;flex-direction:column;align-items:center;gap:3px;text-decoration:none;margin-bottom:10px">
-    <span style="font-family:'Oswald',sans-serif;font-size:20px;font-weight:700;letter-spacing:7px;color:#b8b0a0">אבי סנטר</span>
+    <span style="font-family:'Oswald',sans-serif;font-size:20px;font-weight:700;letter-spacing:7px;color:#7D7567">אבי סנטר</span>
     <span style="width:100%;height:2px;background:#D5001C;display:block"></span>
     <span style="font-size:7px;letter-spacing:5px;color:#D5001C;font-weight:700">טמבוריה · חולון · מאז 1994</span>
   </a>

@@ -111,11 +111,11 @@ footer{background:var(--black2);border-top:1px solid var(--g1);padding:40px 28px
     if(!a)return;
     var href=a.getAttribute('href')||'';
     if(href.indexOf('tel:')===0){
-      gtag('event','phone_click',{event_category:'contact',event_label:document.title,page_path:location.pathname});
+      gtag('event','phone_click',{event_category:'contact',event_label:document.title,page_path:location.pathname,link_location:(a.closest('.mbar')?'sticky_bar':'page')});
     }else if(href.indexOf('wa.me')!==-1||href.indexOf('whatsapp')!==-1){
-      gtag('event','whatsapp_click',{event_category:'contact',event_label:document.title,page_path:location.pathname});
+      gtag('event','whatsapp_click',{event_category:'contact',event_label:document.title,page_path:location.pathname,link_location:(a.closest('.mbar')?'sticky_bar':'page')});
     }else if(href.indexOf('waze.com')!==-1||href.indexOf('maps.app.goo.gl')!==-1||href.indexOf('google.com/maps')!==-1){
-      gtag('event','directions_click',{event_category:'contact',event_label:document.title,page_path:location.pathname});
+      gtag('event','directions_click',{event_category:'contact',event_label:document.title,page_path:location.pathname,link_location:(a.closest('.mbar')?'sticky_bar':'page')});
     }
   },true);
 </script>
@@ -175,37 +175,37 @@ footer{background:var(--black2);border-top:1px solid var(--g1);padding:40px 28px
     <div class="grid-3" style="margin-bottom:40px">
       <div class="card">
         <div class="card-icon">🏠</div>
-        <h4>מפתח ברלין</h4>
+        <h4 aria-level="3">מפתח ברלין</h4>
         <p>הסוג הנפוץ ביותר בדירות ישראליות. גזור משני צדדים, מתאים לרוב המנעולים הביתיים. שכפול תוך 3 דקות.</p>
         <p style="color:var(--red);font-size:15px;font-weight:600">זמין מיידי ✓</p>
       </div>
       <div class="card">
         <div class="card-icon">🔑</div>
-        <h4>מפתח אמריקאי (Yale)</h4>
+        <h4 aria-level="3">מפתח אמריקאי (Yale)</h4>
         <p>גזור מצד אחד, נפוץ בבתים פרטיים, מחסנים ושערים. אנחנו מחזיקים ריקים לכל דגמי Yale ו-Mul-T-Lock.</p>
         <p style="color:var(--red);font-size:15px;font-weight:600">זמין מיידי ✓</p>
       </div>
       <div class="card">
         <div class="card-icon">📪</div>
-        <h4>מפתח תיבת דואר</h4>
+        <h4 aria-level="3">מפתח תיבת דואר</h4>
         <p>מפתח קטן לתיבת דואר, חדר מדרגות או ארון חשמל. שכפול מהיר עם ריק מתאים.</p>
         <p style="color:var(--red);font-size:15px;font-weight:600">זמין מיידי ✓</p>
       </div>
       <div class="card">
         <div class="card-icon">🚗</div>
-        <h4>מפתח מחסן / גדר</h4>
+        <h4 aria-level="3">מפתח מחסן / גדר</h4>
         <p>מפתחות לשערים, מחסנים, לוחות חשמל ומתקנים. כולל מפתחות עגולים ושטוחים מיוחדים.</p>
         <p style="color:var(--red);font-size:15px;font-weight:600">זמין מיידי ✓</p>
       </div>
       <div class="card">
         <div class="card-icon">🏢</div>
-        <h4>מפתח Master / מאסטר</h4>
+        <h4 aria-level="3">מפתח Master / מאסטר</h4>
         <p>מפתחות מאסטר לבניינים, משרדים ומתקנים מרובי דלתות. ייעוץ חינם לפתרון מאסטר מפתח.</p>
         <p style="color:var(--t3);font-size:15px">פנו לייעוץ</p>
       </div>
       <div class="card">
         <div class="card-icon">🔒</div>
-        <h4>מפתח KABA / Mul-T-Lock</h4>
+        <h4 aria-level="3">מפתח KABA / Mul-T-Lock</h4>
         <p>מפתחות אבטחה גבוהה. שכפול אפשרי רק עם מפתח מקורי וכרטיס אבטחה (תעודת זהות הבעלים).</p>
         <p style="color:var(--t3);font-size:15px">בהצגת מסמכים</p>
       </div>
@@ -214,12 +214,12 @@ footer{background:var(--black2);border-top:1px solid var(--g1);padding:40px 28px
     <h3>טבלת סוגי מפתחות — מדריך מהיר</h3>
     <div style="overflow-x:auto;-webkit-overflow-scrolling:touch;max-width:100%"><table>
       <tr><th>סוג מפתח</th><th>שימוש נפוץ</th><th>זמן שכפול</th><th>זמינות</th></tr>
-      <tr><td>ברלין (דו-צדדי)</td><td>דירה, כניסה לבניין</td><td>3–5 דקות</td><td style="color:#1baf7a">מיידי</td></tr>
-      <tr><td>אמריקאי (Yale)</td><td>בית פרטי, מחסן</td><td>5 דקות</td><td style="color:#1baf7a">מיידי</td></tr>
-      <tr><td>תיבת דואר</td><td>תיבה, ארון חשמל</td><td>3 דקות</td><td style="color:#1baf7a">מיידי</td></tr>
-      <tr><td>מחסן / שער</td><td>גדר, מחסן, חניה</td><td>5 דקות</td><td style="color:#1baf7a">מיידי</td></tr>
-      <tr><td>Mul-T-Lock</td><td>דלת אבטחה גבוהה</td><td>10–15 דקות</td><td style="color:#eda100">עם מסמכים</td></tr>
-      <tr><td>KABA / Abloy</td><td>מוסד, עסק</td><td>15–20 דקות</td><td style="color:#eda100">עם כרטיס</td></tr>
+      <tr><td>ברלין (דו-צדדי)</td><td>דירה, כניסה לבניין</td><td>3–5 דקות</td><td style="color:#0E7A3F;font-weight:700">מיידי</td></tr>
+      <tr><td>אמריקאי (Yale)</td><td>בית פרטי, מחסן</td><td>5 דקות</td><td style="color:#0E7A3F;font-weight:700">מיידי</td></tr>
+      <tr><td>תיבת דואר</td><td>תיבה, ארון חשמל</td><td>3 דקות</td><td style="color:#0E7A3F;font-weight:700">מיידי</td></tr>
+      <tr><td>מחסן / שער</td><td>גדר, מחסן, חניה</td><td>5 דקות</td><td style="color:#0E7A3F;font-weight:700">מיידי</td></tr>
+      <tr><td>Mul-T-Lock</td><td>דלת אבטחה גבוהה</td><td>10–15 דקות</td><td style="color:#8A5A00;font-weight:700">עם מסמכים</td></tr>
+      <tr><td>KABA / Abloy</td><td>מוסד, עסק</td><td>15–20 דקות</td><td style="color:#8A5A00;font-weight:700">עם כרטיס</td></tr>
     </table></div>
   </div>
 </section>
@@ -233,22 +233,22 @@ footer{background:var(--black2);border-top:1px solid var(--g1);padding:40px 28px
     <div class="process" style="margin:48px 0 40px">
       <div class="process-step">
         <div class="step-num">1</div>
-        <h4>מגיעים עם המפתח</h4>
+        <h4 aria-level="3">מגיעים עם המפתח</h4>
         <p>מביאים את המפתח המקורי לחנות בקרן היסוד 1 קריית שרת.</p>
       </div>
       <div class="process-step">
         <div class="step-num">2</div>
-        <h4>מתאימים ריק</h4>
+        <h4 aria-level="3">מתאימים ריק</h4>
         <p>מזהים את סוג המפתח ובוחרים את הריק המתאים מתוך מעל 100 ריקי KEYLINE.</p>
       </div>
       <div class="process-step">
         <div class="step-num">3</div>
-        <h4>גזירה מדויקת</h4>
+        <h4 aria-level="3">גזירה מדויקת</h4>
         <p>המקור והריק מקובעים זה לצד זה במכונה הידנית, והחריצים מועתקים אחד לאחד. הכל קורה תוך דקות.</p>
       </div>
       <div class="process-step">
         <div class="step-num">4</div>
-        <h4>בדיקה ואחריות</h4>
+        <h4 aria-level="3">בדיקה ואחריות</h4>
         <p>בודקים את המפתח החדש, מחליקים ומוסרים עם אחריות מלאה.</p>
       </div>
     </div>
@@ -258,7 +258,7 @@ footer{background:var(--black2);border-top:1px solid var(--g1);padding:40px 28px
   <figure><a href="https://wa.me/972544247393?text=%D7%94%D7%99%D7%99%2C%20%D7%90%D7%A9%D7%9E%D7%97%20%D7%9C%D7%A9%D7%90%D7%95%D7%9C%20%D7%A2%D7%9C%20%D7%A9%D7%9C%D7%A9%D7%9C%D7%AA%20%D7%9E%D7%A4%D7%AA%D7%97%D7%95%D7%AA" target="_blank" rel="noopener" aria-label="למידע נוסף"><picture class="pw"><source srcset="/images/shikpul-shalshelet-maftech-galgal.webp" type="image/webp"><img src="/images/shikpul-shalshelet-maftech-galgal.jpg" alt="שלשלאות מפתחות מתפתלות צבעוניות, כפי שנמכרות באבי סנטר טמבוריה חולון" loading="lazy"></picture></a><figcaption>שלשלאות מפתחות מתפתלות צבעוניות</figcaption></figure>
 </div>
 <div style="background:rgba(213,0,28,.1);border:1px solid rgba(213,0,28,.3);border-radius:var(--r);padding:24px;margin-top:24px">
-      <h4 style="color:var(--red);margin-bottom:8px">⚡ למה הניסיון חשוב בשכפול ידני?</h4>
+      <h4 style="color:var(--red);margin-bottom:8px" aria-level="3">⚡ למה הניסיון חשוב בשכפול ידני?</h4>
       <p>במכונת שכפול ידנית, הדיוק תלוי במי שמפעיל אותה. אבי משכפל מפתחות בחנות מאז 1994: מקבע את המקור ואת הריק, מעתיק את החריצים, מסיר שאריות מתכת מהמפתח החדש ובודק אותו מול המקורי. אם המפתח החדש לא מסתובב חלק, מתקנים או מחליפים אותו בחינם.</p>
     </div>
   </div>
@@ -272,22 +272,22 @@ footer{background:var(--black2);border-top:1px solid var(--g1);padding:40px 28px
     <div class="grid-4" style="margin-bottom:40px">
       <div class="card" style="text-align:center">
         <div style="font-size:40px;margin-bottom:12px">⏱️</div>
-        <h4>5 דקות בלבד</h4>
+        <h4 aria-level="3">5 דקות בלבד</h4>
         <p>אין המתנה. בזמן שאתם בחנות, המפתח מוכן.</p>
       </div>
       <div class="card" style="text-align:center">
         <div style="font-size:40px;margin-bottom:12px">🔐</div>
-        <h4>ללא השארת מפתח</h4>
+        <h4 aria-level="3">ללא השארת מפתח</h4>
         <p>המפתח המקורי נשאר בידיכם לאורך כל התהליך.</p>
       </div>
       <div class="card" style="text-align:center">
         <div style="font-size:40px;margin-bottom:12px">✅</div>
-        <h4>אחריות מלאה</h4>
+        <h4 aria-level="3">אחריות מלאה</h4>
         <p>המפתח לא עובד? מחליפים בחינם, ללא שאלות.</p>
       </div>
       <div class="card" style="text-align:center">
         <div style="font-size:40px;margin-bottom:12px">💰</div>
-        <h4>מחיר הוגן</h4>
+        <h4 aria-level="3">מחיר הוגן</h4>
         <p>מחיר שפוי, שקוף, ללא הפתעות. ייעוץ חינם.</p>
       </div>
     </div>
@@ -349,14 +349,14 @@ footer{background:var(--black2);border-top:1px solid var(--g1);padding:40px 28px
     <p class="lead">אנחנו ממוקמים בלב קריית שרת ומשרתים לקוחות מכל שכונות חולון ובת ים.</p>
 
     <div class="grid-4" style="margin-bottom:32px">
-      <div class="card"><h4>קריית שרת</h4><p>מיקום החנות — קרן היסוד 1</p></div>
-      <div class="card"><h4>נאות רחל</h4><p>שכונה סמוכה — 5 דקות נסיעה</p></div>
-      <div class="card"><h4>תל גיבורים</h4><p>שכונה מרכזית בחולון</p></div>
-      <div class="card"><h4>ג'סי כהן</h4><p>שכונה מרכזית בחולון</p></div>
-      <div class="card"><h4>נווה ארזים</h4><p>שכונה בחולון הדרומית</p></div>
-      <div class="card"><h4>קריית בן גוריון</h4><p>שכונה בחולון</p></div>
-      <div class="card"><h4>בת ים</h4><p>עיר שכנה — 10 דקות</p></div>
-      <div class="card"><h4>אגרובנק</h4><p>שכונה בחולון</p></div>
+      <div class="card"><h4 aria-level="3">קריית שרת</h4><p>מיקום החנות — קרן היסוד 1</p></div>
+      <div class="card"><h4 aria-level="3">נאות רחל</h4><p>שכונה סמוכה — 5 דקות נסיעה</p></div>
+      <div class="card"><h4 aria-level="3">תל גיבורים</h4><p>שכונה מרכזית בחולון</p></div>
+      <div class="card"><h4 aria-level="3">ג'סי כהן</h4><p>שכונה מרכזית בחולון</p></div>
+      <div class="card"><h4 aria-level="3">נווה ארזים</h4><p>שכונה בחולון הדרומית</p></div>
+      <div class="card"><h4 aria-level="3">קריית בן גוריון</h4><p>שכונה בחולון</p></div>
+      <div class="card"><h4 aria-level="3">בת ים</h4><p>עיר שכנה — 10 דקות</p></div>
+      <div class="card"><h4 aria-level="3">אגרובנק</h4><p>שכונה בחולון</p></div>
     </div>
 
     <p style="text-align:center;color:var(--t3)">מחפשים <strong style="color:var(--t2)">שכפול מפתחות חולון</strong>, <strong style="color:var(--t2)">שכפול מפתח קריית שרת</strong>, <strong style="color:var(--t2)">מפתח ברלין חולון</strong>? אנחנו כאן בשבילכם. (שימו לב: אנחנו חנות לשכפול מפתחות, לא מנעולן — איננו מבצעים פריצת דלתות.)</p>
@@ -388,7 +388,7 @@ footer{background:var(--black2);border-top:1px solid var(--g1);padding:40px 28px
 </main>
 <footer style="background:#F3EFE6;border-top:1px solid #E8E3D9;padding:28px;text-align:center">
   <a href="/" style="display:inline-flex;flex-direction:column;align-items:center;gap:3px;text-decoration:none;margin-bottom:10px">
-    <span style="font-family:'Oswald',sans-serif;font-size:20px;font-weight:700;letter-spacing:7px;color:#b8b0a0">אבי סנטר</span>
+    <span style="font-family:'Oswald',sans-serif;font-size:20px;font-weight:700;letter-spacing:7px;color:#7D7567">אבי סנטר</span>
     <span style="width:100%;height:2px;background:#D5001C;display:block"></span>
     <span style="font-size:7px;letter-spacing:5px;color:#D5001C;font-weight:700">טמבוריה · חולון · מאז 1994</span>
   </a>
@@ -404,7 +404,7 @@ footer{background:var(--black2);border-top:1px solid var(--g1);padding:40px 28px
     <a href="/madrich-led" style="color:#444;text-decoration:none">LED וחשמל</a> · 
     <a href="/madrich-bidud" style="color:#444;text-decoration:none">דבקים ואיטום</a> · 
     <a href="/madrich-hadabara" style="color:#444;text-decoration:none">הדברה</a> · 
-    <a href="/madrich-nizila" style="color:#444;text-decoration:none">ניקיון</a> · <a href="/madrich-klali">אביזרים כלליים</a> · <a href="/madrich-bragim" style="color:#444;text-decoration:none">ברגים ופרזול</a> · <a href="/madrich-chomrei-binyan" style="color:#444;text-decoration:none">חומרי בניין</a> · <a href="/madrich-gina" style="color:#444;text-decoration:none">גינה והשקיה</a> · <a href="/tikunim">תיקונים עד הבית</a> · 
+    <a href="/madrich-nizila" style="color:#444;text-decoration:none">ניקיון</a> · <a href="/madrich-klali">אביזרים כלליים</a> · <a href="/madrich-bragim" style="color:#444;text-decoration:none">ברגים ופרזול</a> · <a href="/madrich-chomrei-binyan" style="color:#444;text-decoration:none">חומרי בניין</a> · <a href="/madrich-gina" style="color:#444;text-decoration:none">גינה והשקיה</a> · <a href="/madrich-agalot" style="color:#444;text-decoration:none">עגלות וייבוש כביסה</a> · <a href="/tikunim">תיקונים עד הבית</a> · 
     <a href="/shchunot" style="color:#444;text-decoration:none">שכונות שירות</a> · 
     <a href="/blog" style="color:#D5001C;text-decoration:none;font-weight:700">בלוג ומדריכים</a>
   </p>
