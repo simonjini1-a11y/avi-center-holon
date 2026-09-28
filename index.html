@@ -179,7 +179,7 @@ nav{position:sticky;top:0;background:rgba(255,255,255,.94);backdrop-filter:blur(
 .ticker{background:var(--red);overflow:hidden;padding:9px 0;white-space:nowrap;border-bottom:1px solid rgba(255,255,255,.1)}
 .ticker-inner{display:inline-flex;animation:ticker 60s linear infinite;gap:0;will-change:transform;direction:ltr}
 .ticker-inner:hover{animation-play-state:paused}
-.ticker-item{font-size:14px;font-weight:700;color:#fff;letter-spacing:1px;padding:0 28px;display:inline-flex;align-items:center;gap:10px;transition:opacity .15s}
+.ticker-item{font-size:14px;font-weight:700;color:#fff;letter-spacing:1px;padding:0 28px;display:inline-flex;align-items:center;gap:10px;transition:opacity .15s;direction:rtl;unicode-bidi:isolate}
 .ticker-item:hover{opacity:.75}
 .ticker-dot{width:4px;height:4px;background:rgba(255,255,255,.4);border-radius:50%;flex-shrink:0}
 @keyframes ticker{0%{transform:translateX(0)}100%{transform:translateX(50%)}}

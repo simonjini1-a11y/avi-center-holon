@@ -1,5 +1,5 @@
 // AVI CENTER Service Worker v2.0
-const CACHE_NAME = 'avi-center-v18';
+const CACHE_NAME = 'avi-center-v19';
 const STATIC_ASSETS = [
   '/',
   '/shikpul',
@@ -92,7 +92,7 @@ self.addEventListener('fetch', event => {
         return caches.match(event.request).then(cached => {
           if (cached) return cached;
           if (event.request.destination === 'document') {
-            return caches.match('/index');
+            return caches.match('/');
           }
         });
       })
