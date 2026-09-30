@@ -1,5 +1,5 @@
 // AVI CENTER Service Worker v2.0
-const CACHE_NAME = 'avi-center-v21';
+const CACHE_NAME = 'avi-center-v22';
 const STATIC_ASSETS = [
   '/',
   '/shikpul',
@@ -22,7 +22,7 @@ const STATIC_ASSETS = [
   '/images/Screenshot_20260514_142741_Gallery.webp',
   '/images/Screenshot_20260514_142817_Gallery.webp',
   '/images/Screenshot_20260514_142839_Gallery.webp',
-  'https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;700;800;900&family=Bebas+Neue&display=swap'
+  'https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;700;800;900&family=Bebas+Neue&display=optional'
 ];
 
 // Install — cache static assets
