@@ -6,6 +6,7 @@
 <title>מדריכים וטיפים לשיפוץ ותחזוקת הבית | אבי סנטר טמבוריה חולון</title>
 <meta name="description" content="מדריכים מקצועיים בנושאי צביעה, אינסטלציה, כלי עבודה, איטום, חשמל ותחזוקת הבית — מבוססים על 30+ שנות ניסיון. אבי סנטר טמבוריה, קריית שרת חולון.">
 <link rel="canonical" href="https://avi-center-holon.com/blog">
+<meta property="og:image" content="https://avi-center-holon.com/images/Screenshot_20260514_142334_Gallery.jpg">
 <meta property="og:title" content="מדריכים וטיפים לשיפוץ ותחזוקת הבית | אבי סנטר טמבוריה">
 <meta property="og:description" content="מדריכים מקצועיים בנושאי צביעה, אינסטלציה, כלי עבודה, איטום, חשמל ותחזוקת הבית — מבוססים על 30+ שנות ניסיון.">
 <meta property="og:type" content="website">
@@ -38,7 +39,7 @@ p{color:var(--t2);font-size:15px}
 .sec{padding:56px 0;border-bottom:1px solid var(--g1)}
 .cluster-head{display:flex;align-items:baseline;gap:12px;margin-bottom:20px}
 .cluster-head a{font-size:15px;font-weight:700;color:var(--red)}
-.article-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:18px}
+.article-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(300px,100%),1fr));gap:18px}
 .art-card{background:var(--black3);border:1px solid var(--g2);border-radius:var(--r);padding:22px;transition:border-color .2s}
 .art-card:hover{border-color:var(--red)}
 .art-card h3{font-size:17px;color:var(--t1);margin-bottom:8px;font-weight:700}
@@ -46,6 +47,12 @@ p{color:var(--t2);font-size:15px}
 .art-card .read{font-size:14px;font-weight:700;color:var(--red)}
 .soon{opacity:.4;pointer-events:none}
 footer{background:var(--black2);border-top:1px solid var(--g1);padding:28px;text-align:center}
+
+/* 1/10: מובייל — כפתורי הפעולה מעל ההודעה התחתונה */
+@media (max-width:600px){.hero{padding-top:28px!important;padding-bottom:36px!important;min-height:0!important}.hero-title{min-height:0!important;margin-bottom:12px!important}.hero-sub{margin-bottom:20px!important}}
+
+/* 1/10: כללי מובייל בטעינה ראשונה (מונע קפיצת תוכן) */
+@media (max-width:600px){.stat{padding:16px 8px!important}.stat-n{font-size:30px!important;overflow-wrap:anywhere}nav{padding-left:14px!important;padding-right:14px!important;gap:8px!important}nav>div{flex-wrap:nowrap!important;overflow-x:auto;scrollbar-width:none;max-width:62vw}nav>div::-webkit-scrollbar{display:none}nav>div a{white-space:nowrap;flex:0 0 auto}}
 </style>
 <script>
   window.dataLayer=window.dataLayer||[];
@@ -350,5 +357,5 @@ footer{background:var(--black2);border-top:1px solid var(--g1);padding:28px;text
   <p style="font-size:13px;margin-top:4px"><a href="https://maps.app.goo.gl/B3b2dntsxaCQgGW59" target="_blank" rel="noopener">📍 נווטו אלינו ב-Google Maps</a></p>
   <p style="font-size:11px;color:#2a2a2a;margin-top:6px">© 2026 אבי סנטר טמבוריה · כל הזכויות שמורות &nbsp;·&nbsp; <a href="/odot" style="color:#2a2a2a">אודות</a> &nbsp;·&nbsp; <a href="/sheelot" style="color:#2a2a2a">שאלות על החנות</a> &nbsp;·&nbsp; <a href="/negishut" style="color:#2a2a2a">הצהרת נגישות</a> &nbsp;·&nbsp; <a href="/takanon" style="color:#2a2a2a">תנאי שימוש</a> · <a href="/pratiut" style="color:#2a2a2a">מדיניות פרטיות</a> &nbsp;·&nbsp; <a href="/ru" lang="ru" hreflang="ru" style="color:#2a2a2a">По-русски</a></p>
 </footer>
-<script src="/js/site.js" defer></script>
+<script src="/js/site.js?v=20261001" defer></script>
 </body></html>

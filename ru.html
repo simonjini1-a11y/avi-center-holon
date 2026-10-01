@@ -66,6 +66,9 @@ footer{background:var(--black2);border-top:1px solid var(--g1);padding:28px;text
 .pgrid figcaption{font-size:12px;color:var(--t3);text-align:center;margin-top:5px;line-height:1.3}
 @media(max-width:520px){.pgrid{grid-template-columns:repeat(3,1fr);gap:6px}.pgrid figcaption{font-size:10px}}
 
+
+/* 1/10: כללי מובייל בטעינה ראשונה (מונע קפיצת תוכן) */
+@media (max-width:600px){.stat{padding:16px 8px!important}.stat-n{font-size:30px!important;overflow-wrap:anywhere}nav{padding-left:14px!important;padding-right:14px!important;gap:8px!important}nav>div{flex-wrap:nowrap!important;overflow-x:auto;scrollbar-width:none;max-width:62vw}nav>div::-webkit-scrollbar{display:none}nav>div a{white-space:nowrap;flex:0 0 auto}}
 </style>
 <script>
   window.dataLayer=window.dataLayer||[];
@@ -142,7 +145,7 @@ footer{background:var(--black2);border-top:1px solid var(--g1);padding:28px;text
 
   <h2 id="stranitsy">Подробнее на иврите</h2>
   <p>На этих страницах есть фото товаров и подробные инструкции (на иврите):</p>
-  <ul><li><a href="/shikpul" lang="he">Дубликаты ключей</a></li><li><a href="/blog-hachlafat-tzilinder" lang="he">Как заменить цилиндр в двери</a></li><li><a href="/instalazia" lang="he">Сантехника</a></li><li><a href="/madrich-spadini" lang="he">Товары SPADINI</a></li><li><a href="/madrich-agalot" lang="he">Тележки для покупок и сушилки для белья</a></li><li><a href="/tikunim" lang="he">Ремонт на дому в Холоне</a></li></ul>
+  <ul><li><a href="/shikpul" hreflang="he">Дубликаты ключей</a></li><li><a href="/blog-hachlafat-tzilinder" hreflang="he">Как заменить цилиндр в двери</a></li><li><a href="/instalazia" hreflang="he">Сантехника</a></li><li><a href="/madrich-spadini" hreflang="he">Товары SPADINI</a></li><li><a href="/madrich-agalot" hreflang="he">Тележки для покупок и сушилки для белья</a></li><li><a href="/tikunim" hreflang="he">Ремонт на дому в Холоне</a></li></ul>
   <h2 id="faq">Вопросы и ответы</h2>
   <div class="faq">
   <details><summary>Где находится магазин?</summary><div class="faq-body">Улица Керен ха-Йесод 1, район Кирьят-Шарет, Холон.</div></details>
@@ -170,7 +173,7 @@ footer{background:var(--black2);border-top:1px solid var(--g1);padding:28px;text
   </a>
   <p style="font-size:14px;color:#555;margin-top:8px">«Ави Сентер» · Керен ха-Йесод 1, Кирьят-Шарет, Холон · 054-424-7393</p>
   <p style="font-size:11px;color:#2a2a2a;margin-top:6px">© 2026 «Ави Сентер» · Все права защищены</p>
-  <p style="font-size:11px;color:#2a2a2a;margin-top:4px">Страницы на иврите: <a href="/" lang="he" style="color:#2a2a2a">Главная</a> &nbsp;·&nbsp; <a href="/odot" style="color:#2a2a2a">О магазине</a> &nbsp;·&nbsp; <a href="/negishut" style="color:#2a2a2a">Доступность</a> &nbsp;·&nbsp; <a href="/takanon" style="color:#2a2a2a">Условия использования</a> &nbsp;·&nbsp; <a href="/pratiut" style="color:#2a2a2a">Конфиденциальность</a></p>
+  <p style="font-size:11px;color:#2a2a2a;margin-top:4px">Страницы на иврите: <a href="/" hreflang="he" style="color:#2a2a2a">Главная</a> &nbsp;·&nbsp; <a href="/odot" style="color:#2a2a2a">О магазине</a> &nbsp;·&nbsp; <a href="/negishut" style="color:#2a2a2a">Доступность</a> &nbsp;·&nbsp; <a href="/takanon" style="color:#2a2a2a">Условия использования</a> &nbsp;·&nbsp; <a href="/pratiut" style="color:#2a2a2a">Конфиденциальность</a></p>
 </footer>
-<script src="/js/site.js" defer></script>
+<script src="/js/site.js?v=20261001" defer></script>
 </body></html>
