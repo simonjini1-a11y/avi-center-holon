@@ -86,11 +86,11 @@ footer{background:var(--black2);border-top:1px solid var(--g1);padding:28px;text
     if(!a)return;
     var href=a.getAttribute('href')||'';
     if(href.indexOf('tel:')===0){
-      gtag('event','phone_click',{event_category:'contact',event_label:document.title,page_path:location.pathname,link_location:(a.closest('.mbar')?'sticky_bar':'page')});
+      gtag('event','phone_click',{event_category:'contact',event_label:document.title,page_path:location.pathname,link_location:(a.closest('.mbar')?'sticky_bar':a.closest('.pq')?'product':a.closest('.acta')?'article_box':a.closest('.dfab')?'desktop_float':a.closest('.nav-ct')?'nav':'page')});
     }else if(href.indexOf('wa.me')!==-1||href.indexOf('whatsapp')!==-1){
-      gtag('event','whatsapp_click',{event_category:'contact',event_label:document.title,page_path:location.pathname,link_location:(a.closest('.mbar')?'sticky_bar':'page')});
+      gtag('event','whatsapp_click',{event_category:'contact',event_label:document.title,page_path:location.pathname,link_location:(a.closest('.mbar')?'sticky_bar':a.closest('.pq')?'product':a.closest('.acta')?'article_box':a.closest('.dfab')?'desktop_float':a.closest('.nav-ct')?'nav':'page')});
     }else if(href.indexOf('waze.com')!==-1||href.indexOf('maps.app.goo.gl')!==-1||href.indexOf('google.com/maps')!==-1){
-      gtag('event','directions_click',{event_category:'contact',event_label:document.title,page_path:location.pathname,link_location:(a.closest('.mbar')?'sticky_bar':'page')});
+      gtag('event','directions_click',{event_category:'contact',event_label:document.title,page_path:location.pathname,link_location:(a.closest('.mbar')?'sticky_bar':a.closest('.pq')?'product':a.closest('.acta')?'article_box':a.closest('.dfab')?'desktop_float':a.closest('.nav-ct')?'nav':'page')});
     }
   },true);
 </script>
@@ -102,14 +102,11 @@ footer{background:var(--black2);border-top:1px solid var(--g1);padding:28px;text
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "x6s2ibzf53");
 </script>
-</head>
+<style id="snav-css">@media (max-width:768px){.nav-ct{display:none!important}nav[aria-label]:not(#navbar){flex-wrap:wrap!important;padding:8px 12px!important;row-gap:6px!important}nav[aria-label]:not(#navbar)>div{justify-content:flex-start!important;max-width:100%!important;width:100%!important;flex-wrap:nowrap!important;overflow-x:auto;scrollbar-width:none}nav[aria-label]:not(#navbar)>div a{flex:0 0 auto}}</style></head>
 <body>
 <a href="#main" style="position:absolute;right:-9999px;top:0;z-index:9999;background:#D5001C;color:#fff;padding:8px 16px;font-weight:700" onfocus="this.style.right='8px'" onblur="this.style.right='-9999px'">דלג לתוכן הראשי</a>
 
-<nav>
-  <a href="/" class="nav-brand"><span class="bt">אבי סנטר</span><span class="bl"></span><span class="bb">טמבוריה · חולון · מאז 1994</span></a>
-  <div style="display:flex;gap:6px"><a href="/" style="font-size:14px;color:#555;padding:5px 10px;border-radius:50px;border:1px solid #DDD7C9">← הבית</a></div>
-</nav>
+<nav dir="rtl" aria-label="ניווט ראשי" style="position:sticky;top:0;background:rgba(255,255,255,.96);-webkit-backdrop-filter:blur(12px);backdrop-filter:blur(12px);padding:10px 20px;z-index:100;border-bottom:1px solid #DDD7C9;display:flex;align-items:center;justify-content:space-between;gap:12px"><a href="/" class="nav-brand"><span class="bt">אבי סנטר</span><span class="bl"></span><span class="bb">טמבוריה · חולון · מאז 1994</span></a><div style="display:flex;gap:6px;align-items:center;flex-wrap:wrap;justify-content:flex-end"><a href="/shikpul" style="font-size:14px;color:#1A1A1A;padding:6px 12px;border-radius:50px;border:1px solid #DDD7C9;text-decoration:none;white-space:nowrap">שכפול מפתחות</a><a href="/instalazia" style="font-size:14px;color:#1A1A1A;padding:6px 12px;border-radius:50px;border:1px solid #DDD7C9;text-decoration:none;white-space:nowrap">אינסטלציה</a><a href="/madrich-chomrei-binyan" style="font-size:14px;color:#1A1A1A;padding:6px 12px;border-radius:50px;border:1px solid #DDD7C9;text-decoration:none;white-space:nowrap">חומרי בניין</a><a href="/blog" style="font-size:14px;color:#1A1A1A;padding:6px 12px;border-radius:50px;border:1px solid #DDD7C9;text-decoration:none;white-space:nowrap">מדריכים</a><a class="nav-ct" href="tel:054-424-7393" style="font-size:14px;color:#fff;padding:6px 14px;border-radius:50px;text-decoration:none;white-space:nowrap;font-weight:700;background:#D5001C;border:1px solid #D5001C">📞 054-424-7393</a><a class="nav-ct" href="https://wa.me/972544247393?text=%D7%94%D7%99%D7%99%20%D7%90%D7%91%D7%99%2C%20%D7%99%D7%A9%20%D7%9C%D7%99%20%D7%A9%D7%90%D7%9C%D7%94%3A" target="_blank" rel="noopener" style="font-size:14px;color:#fff;padding:6px 14px;border-radius:50px;text-decoration:none;white-space:nowrap;font-weight:700;background:#0E7A3F;border:1px solid #0E7A3F">💬 WhatsApp</a></div></nav>
 <main id="main">
 <div class="breadcrumb"><a href="/">דף הבית</a> · אודות</div>
 
@@ -159,5 +156,5 @@ footer{background:var(--black2);border-top:1px solid var(--g1);padding:28px;text
   <p style="font-size:14px;color:#555;margin-top:8px">קרן היסוד 1, קריית שרת, חולון · 054-424-7393</p>
   <p style="font-size:11px;color:#2a2a2a;margin-top:6px">© 2026 אבי סנטר טמבוריה · כל הזכויות שמורות &nbsp;·&nbsp; <a href="/odot" style="color:#2a2a2a">אודות</a> &nbsp;·&nbsp; <a href="/sheelot" style="color:#2a2a2a">שאלות על החנות</a> &nbsp;·&nbsp; <a href="/negishut" style="color:#2a2a2a">הצהרת נגישות</a> &nbsp;·&nbsp; <a href="/takanon" style="color:#2a2a2a">תנאי שימוש</a> · <a href="/pratiut" style="color:#2a2a2a">מדיניות פרטיות</a> &nbsp;·&nbsp; <a href="/ru" lang="ru" hreflang="ru" style="color:#2a2a2a">По-русски</a></p>
 </footer>
-<script src="/js/site.js?v=20261012" defer></script>
+<script src="/js/site.js?v=20261013" defer></script>
 </body></html>
