@@ -1,28 +1,19 @@
 // AVI CENTER Service Worker v2.0
-const CACHE_NAME = 'avi-center-v39';
+const CACHE_NAME = 'avi-center-v50';
 const STATIC_ASSETS = [
   '/',
   '/shikpul',
   '/instalazia',
-  '/shchunot',
-  '/madrich-tzvia',
-  '/madrich-led',
   '/madrich-manulin',
-  '/madrich-nizila',
-  '/madrich-hadabara',
-  '/madrich-spadini',
-  '/madrich-klim',
-  '/madrich-bidud',
+  '/ru',
   '/manifest.json',
-  '/images/Screenshot_20260514_142314_Gallery.webp',
-  '/images/Screenshot_20260514_142334_Gallery.webp',
-  '/images/Screenshot_20260514_142523_Gallery.webp',
-  '/images/Screenshot_20260514_142624_Gallery.webp',
-  '/images/Screenshot_20260514_142640_Gallery.webp',
-  '/images/Screenshot_20260514_142741_Gallery.webp',
-  '/images/Screenshot_20260514_142817_Gallery.webp',
-  '/images/Screenshot_20260514_142839_Gallery.webp',
-  'https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;700;800;900&family=Bebas+Neue&display=optional'
+  '/css/v50.css',
+  '/css/heebo-v50.woff2',
+  '/js/site-47.js',
+  '/js/v47.js',
+  '/images/icon-whatsapp.png',
+  '/images/icon-waze.png',
+  '/images/favicon-180.png'
 ];
 
 // Install — cache static assets
