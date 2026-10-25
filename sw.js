@@ -1,5 +1,5 @@
 // AVI CENTER Service Worker v2.0
-const CACHE_NAME = 'avi-center-v58';
+const CACHE_NAME = 'avi-center-v59';
 const STATIC_ASSETS = [
   '/',
   '/shikpul',
@@ -7,9 +7,9 @@ const STATIC_ASSETS = [
   '/madrich-manulin',
   '/ru',
   '/manifest.json',
-  '/css/v58.css',
+  '/css/v59.css',
   '/css/heebo-v50.woff2',
-  '/js/site-58.js',
+  '/js/site-59.js',
   '/js/v54.js',
   '/images/icon-whatsapp-v58.png',
   '/images/icon-waze-v58.png',
