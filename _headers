@@ -11,11 +11,11 @@
 /images/*
   Cache-Control: public, max-age=31536000, immutable
 
-# CSS/JS — שבוע (שמות הקבצים לא משתנים בין גרסאות, לכן לא immutable)
+# CSS/JS — שנה, immutable (כל שינוי מקבל שם קובץ חדש vNN)
 /css/*
-  Cache-Control: public, max-age=604800
+  Cache-Control: public, max-age=31536000, immutable
 /js/*
-  Cache-Control: public, max-age=604800
+  Cache-Control: public, max-age=31536000, immutable
 
 # Service worker — תמיד טרי
 /sw.js
