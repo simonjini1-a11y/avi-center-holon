@@ -224,7 +224,7 @@ html body .cta p a,html body .cta li a{display:inline!important;background:none!
 /* grid columns may shrink so wide tables scroll inside their box, not the page */
 html body .g47>*{min-width:0;max-width:100%}
 /* mobile bottom bar: readable labels */
-html body .mbar a{color:#1A1A1A!important}
+
 /* product galleries: each category heading on its own full line, above its products */
 html body .pg46{flex:0 0 100%;width:100%;text-align:right;margin:8px 0 0}
 html body .pg46+.pgrid{flex:0 0 100%;width:100%}
@@ -246,3 +246,12 @@ html body .breadcrumb a{display:inline-block;padding:2px 0;min-height:24px;line-
 /* v60: real department photos next to blog category headings */
 html body .ch60{display:inline-block;width:56px!important;height:56px!important;max-width:none!important;border-radius:12px;object-fit:cover;vertical-align:middle;margin:0 0 0 14px!important}
 @media(max-width:600px){html body .ch60{width:44px!important;height:44px!important;margin-left:10px!important}}
+
+.mbar{display:none}
+@media(max-width:768px){
+.mbar{display:grid;grid-template-columns:repeat(3,1fr);gap:6px;position:fixed;left:0;right:0;top:auto;bottom:0;z-index:9990;background:#fff;border-top:1px solid #E8E3D9;box-shadow:0 -2px 12px rgba(0,0,0,.08);padding:6px 8px calc(6px + env(safe-area-inset-bottom))}
+.mbar a{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;min-height:52px;border-radius:10px;font:700 13px/1.2 Arial,sans-serif;text-decoration:none;color:#fff!important}
+.mbar .mb-ic{font-size:18px;line-height:1}
+.mbar .mb-call{background:#D5001C}.mbar .mb-wa{background:#0E7A3F}.mbar .mb-nav{background:#1A1A1A}
+body{padding-bottom:76px}
+}
