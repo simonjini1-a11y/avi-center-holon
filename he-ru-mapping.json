@@ -1,0 +1,114 @@
+{
+  "ru-instrumenty.html": [
+    "madrich-klim.html",
+    "done"
+  ],
+  "ru-santehnika.html": [
+    "instalazia.html",
+    "pending"
+  ],
+  "ru-zamki.html": [
+    "madrich-manulin.html",
+    "pending"
+  ],
+  "ru-klyuchi.html": [
+    "shikpul.html",
+    "pending"
+  ],
+  "ru-navesnoj-zamok.html": [
+    "madrich-manulin.html",
+    "pending - subset"
+  ],
+  "ru-dublikat-multlok.html": [
+    "shikpul.html",
+    "pending - subset"
+  ],
+  "ru-zamena-cilindra.html": [
+    "madrich-manulin.html",
+    "pending - subset"
+  ],
+  "ru-kraski.html": [
+    "madrich-tzvia.html",
+    "pending"
+  ],
+  "ru-skolko-kraski.html": [
+    "madrich-tzvia.html",
+    "pending - subset"
+  ],
+  "ru-stroitelnye-materialy.html": [
+    "madrich-chomrei-binyan.html",
+    "pending"
+  ],
+  "ru-krepezh.html": [
+    "madrich-bragim.html",
+    "pending"
+  ],
+  "ru-kakoj-dyubel.html": [
+    "madrich-bragim.html",
+    "pending - subset"
+  ],
+  "ru-germetizaciya-vanny.html": [
+    "madrich-bidud.html",
+    "pending"
+  ],
+  "ru-kley-germetik.html": [
+    "madrich-hadabara.html",
+    "pending"
+  ],
+  "ru-telezhki.html": [
+    "madrich-agalot.html",
+    "pending"
+  ],
+  "ru-sad.html": [
+    "madrich-gina.html",
+    "pending"
+  ],
+  "ru-vrediteli.html": [
+    "madrich-gina.html",
+    "pending - subset"
+  ],
+  "ru-elektrika.html": [
+    "madrich-led.html",
+    "pending"
+  ],
+  "ru-tovary-dlya-doma.html": [
+    "madrich-klali.html",
+    "pending"
+  ],
+  "ru-uborka.html": [
+    "madrich-klali.html",
+    "pending - subset"
+  ],
+  "ru-spadini.html": [
+    "madrich-spadini.html",
+    "pending"
+  ],
+  "ru-remont-na-domu.html": [
+    "madrich-klali.html",
+    "pending - subset"
+  ],
+  "ru-protekaet-kran.html": [
+    null,
+    "blog-type, no direct card page"
+  ],
+  "ru-protechka-gibkij-shlang.html": [
+    null,
+    "blog-type, no direct card page"
+  ],
+  "ru-rakovina-medlenno-stekaet.html": [
+    null,
+    "blog-type, no direct card page"
+  ],
+  "ru-zamena-lejki-dusha.html": [
+    null,
+    "blog-type, no direct card page"
+  ],
+  "ru-slovar.html": [
+    null,
+    "dictionary/FAQ, no HE catalog equivalent"
+  ],
+  "ru.html": [
+    null,
+    "RU homepage, no card-grid needed"
+  ]
+}
