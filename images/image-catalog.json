@@ -1312,28 +1312,12 @@
    "רולר 9 אינץ׳ Conan עם ידית, באבי סנטר טמבוריה חולון"
   ]
  },
- "/images/tzvia-magash-tzviya-kachol.jpg": {
-  "pages": [
-   "madrich-tzvia.html"
-  ],
-  "alts": [
-   "מגש צביעה כחול עם רולר ומוט, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
  "/images/tzvia-roler-mini-run-topman.jpg": {
   "pages": [
    "madrich-tzvia.html"
   ],
   "alts": [
    "רולר מיני RUN TOPMAN לצביעת פינות ושטחים קטנים, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/tzvia-magash-roler-shachor.jpg": {
-  "pages": [
-   "madrich-tzvia.html"
-  ],
-  "alts": [
-   "מגש צביעה שחור עם רולר, כפי שנמכר באבי סנטר טמבוריה חולון"
   ]
  },
  "/images/tzvia-hammerite-metal-paint.jpg": {
@@ -1949,14 +1933,6 @@
    "Рулетки и быстрозарядные отвёртки 6-в-1, в продаже в магазине «Ави Сентер», Холон"
   ]
  },
- "/images/klim-set-mafteachot-alen-hunter.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "סט מפתחות אלן Hunter, 1.5-6 מ"
-  ]
- },
  "/images/klim-set-mafteachot-alen-conan-9.jpg": {
   "pages": [
    "madrich-klim.html"
@@ -1970,7 +1946,7 @@
    "madrich-klim.html"
   ],
   "alts": [
-   "סט מפתחות אלן ארוכים Conan, 9 יח', כפי שנמכר באבי סנטר טמבוריה חולון"
+   "סט ביטים Torx (T10–T50) Conan, 9 יח׳, כפי שנמכר באבי סנטר טמבוריה חולון"
   ]
  },
  "/images/klim-set-tzvatot-orderly.jpg": {
@@ -2088,24 +2064,6 @@
    "פלאייר מחודד, כפי שנמכר באבי סנטר טמבוריה חולון"
   ]
  },
- "/images/klim-set-alen-hunter.jpg": {
-  "pages": [
-   "madrich-klim.html",
-   "ru-instrumenty.html"
-  ],
-  "alts": [
-   "סט מפתחות אלן Hunter, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Набор шестигранников Hunter в магазине «Ави Сентер», Холон"
-  ]
- },
- "/images/klim-set-alen-conan.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "סט מפתחות אלן Conan, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
  "/images/klim-plaier-neila-smith.jpg": {
   "pages": [
    "madrich-klim.html"
@@ -2128,14 +2086,6 @@
   ],
   "alts": [
    "סט מפתחות אלן Conan 9 יחידות, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-set-mavreggim-alen-conan-aroch.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "סט מפתחות אלן ארוכים Conan 9 יחידות, כפי שנמכר באבי סנטר טמבוריה חולון"
   ]
  },
  "/images/klim-metrim-mitgalgelim.jpg": {
@@ -3797,6 +3747,16 @@
   ],
   "alts": [
    "דבק מגע סופר 103 של הרקולס, כפי שנמכר באבי סנטר טמבוריה חולון"
+  ]
+ },
+ "/images/klim-set-alen-hunter.jpg": {
+  "pages": [
+   "madrich-klim.html",
+   "ru-instrumenty.html"
+  ],
+  "alts": [
+   "סט מפתחות אלן Hunter, כפי שנמכר באבי סנטר טמבוריה חולון",
+   "Набор шестигранников Hunter в магазине «Ави Сентер», Холон"
   ]
  }
 }
