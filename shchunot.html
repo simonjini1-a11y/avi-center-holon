@@ -50,6 +50,7 @@ p{color:var(--t2);margin-bottom:14px;font-size:15px}
 .grid-3{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
 .grid-4{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
 .card{background:var(--black3);border:1px solid var(--g2);border-radius:var(--r);padding:22px;transition:border-color .3s}
+.card.here{border-color:var(--red);border-width:2px;background:#FEF6F3}
 .card:hover{border-color:var(--red)}
 .card-icon{font-size:30px;margin-bottom:10px}
 .btn{display:inline-flex;align-items:center;gap:8px;padding:12px 26px;border-radius:50px;font-size:14px;font-weight:700;text-decoration:none;transition:transform .2s,box-shadow .2s}
@@ -131,7 +132,7 @@ footer{background:var(--black2);border-top:1px solid var(--g1);padding:36px 28px
     <h2>חומרי בניין <span style="color:var(--red)">בכל חולון</span></h2>
     <p class="lead">ממוקמים בקרן היסוד 1, קריית שרת — במרכז חולון. 3 דקות נסיעה מרוב השכונות, חניה נוחה.</p>
     <div class="grid-4" style="margin-bottom:40px">
-      <div class="card"><h3 aria-level="3" data-h="4">קריית שרת</h3><p>מיקום החנות. קרן היסוד 1. חניה נוחה ברחוב.</p><p style="color:var(--red);font-size:15px"><svg class="pin51" width="16" height="16" viewBox="0 0 24 24" fill="#D5001C" aria-hidden="true"><path d="M12 2a7 7 0 0 0-7 7c0 5.2 7 13 7 13s7-7.8 7-13a7 7 0 0 0-7-7zm0 9.5A2.5 2.5 0 1 1 12 6.5a2.5 2.5 0 0 1 0 5z"/></svg>כאן אנחנו</p></div>
+      <div class="card here"><h3 aria-level="3" data-h="4">קריית שרת</h3><p>מיקום החנות. קרן היסוד 1. חניה נוחה ברחוב.</p><p style="color:var(--red);font-size:15px"><svg class="pin51" width="16" height="16" viewBox="0 0 24 24" fill="#D5001C" aria-hidden="true"><path d="M12 2a7 7 0 0 0-7 7c0 5.2 7 13 7 13s7-7.8 7-13a7 7 0 0 0-7-7zm0 9.5A2.5 2.5 0 1 1 12 6.5a2.5 2.5 0 0 1 0 5z"/></svg>כאן אנחנו</p></div>
       <div class="card"><h4 aria-level="3">נאות רחל</h4><p>שכונה סמוכה. 5 דקות נסיעה. שכנים קבועים שלנו.</p></div>
       <div class="card"><h4 aria-level="3">תל גיבורים</h4><p>שכונה מרכזית בחולון. 7 דקות. גישה נוחה מרחוב סוקולוב.</p></div>
       <div class="card"><h4 aria-level="3">ג'סי כהן</h4><p>שכונה מרכזית. 8 דקות. רבים מלקוחותינו הנאמנים.</p></div>
