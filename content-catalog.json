@@ -1,0 +1,911 @@
+{
+ "blog-hashkaya-mirpeset.html": {
+  "title": "השקיה נכונה במרפסת ובגינה: מתי, כמה ובמה | אבי סנטר",
+  "h1": "השקיה נכונה במרפסת ובגינה: מתי, כמה ובמה?",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "blog-berez-metaftef.html": {
+  "title": "ברז מטפטף גם כשהוא סגור: מה מחליפים? | אבי סנטר",
+  "h1": "ברז מטפטף גם כשהוא סגור: אטם, קרטריג׳ או ברז חדש?",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": true,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "blog.html": {
+  "title": "מדריכים וטיפים לשיפוץ ותחזוקת הבית | אבי סנטר טמבוריה חולון",
+  "h1": null,
+  "lang": "he",
+  "has_faq": false,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "ru-protechka-gibkij-shlang.html": {
+  "title": "Течёт гибкий шланг под раковиной: что делать | «Ави Сентер»",
+  "h1": "Течёт гибкий шланг под раковиной — что делать?",
+  "lang": "ru",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "blog-tikun-nezilat-mayim.html": {
+  "title": "תיקון נזילת מים בבית: איך מוצאים את המקור ומה מתקנים לבד",
+  "h1": "תיקון נזילת מים בבית: איך מוצאים מאיפה זה דולף ומה מתקנים לבד",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": true,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "blog-kama-norot-led-lecheder.html": {
+  "title": "כמה נורות LED צריך לחדר? טבלת וואט וגוון אור | אבי סנטר",
+  "h1": "כמה נורות LED צריך לחדר? מדריך בחירה",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "blog-shpachtel-kir-gevs.html": {
+  "title": "איך עושים שפכטל לקיר גבס: סגירת חורים ותפרים | אבי סנטר",
+  "h1": "איך עושים שפכטל לקיר גבס: חורים קטנים, חורים גדולים ותפרים",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": true,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "ru-klyuchi.html": {
+  "title": "Дубликат ключа в Холоне за 5 минут, без записи | Ави Сентер",
+  "h1": "Дубликат ключа в Холоне",
+  "lang": "ru",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": true,
+  "card_count": 6
+ },
+ "blog-mafteach-nishbar-bamanul.html": {
+  "title": "המפתח נשבר בתוך המנעול: מה עושים? | אבי סנטר",
+  "h1": "המפתח נשבר בתוך המנעול: מה עושים עכשיו?",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": true,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "blog-kama-tzeva-lecheder.html": {
+  "title": "כמה צבע צריך לחדר? מדריך חישוב מדויק | אבי סנטר טמבוריה",
+  "h1": "כמה צבע צריך לחדר? מדריך חישוב מדויק",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "madrich-led.html": {
+  "title": "נורות LED חולון | חשמל ותאורה | אבי סנטר טמבוריה קריית שרת",
+  "h1": "נורות LED וחשמל חולון — אבי סנטר טמבוריה",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": true,
+  "card_count": 8
+ },
+ "blog-eyze-tzinor-miklachat.html": {
+  "title": "איזה צינור מקלחת לקנות? שרשורי, מתכת או נירוסטה | אבי סנטר",
+  "h1": "איזה צינור מקלחת לקנות? אורך, סוג ומה בודקים לפני שקונים",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": true,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "ru-kakoj-dyubel.html": {
+  "title": "Какой дюбель для какой стены: бетон, блок, гипсокартон | «Ави Сентер»",
+  "h1": "Какой дюбель подходит для какой стены?",
+  "lang": "ru",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "blog-ovesh-bamiklachat.html": {
+  "title": "עובש בחדר הרחצה: איך מנקים ואיך מונעים שיחזור | אבי סנטר",
+  "h1": "עובש בחדר הרחצה: איך מנקים, ואיך מונעים שיחזור",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": true,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "shikpul.html": {
+  "title": "שכפול מפתחות בחולון תוך 5 דקות | אבי סנטר, קריית שרת",
+  "h1": "שכפול מפתחות בחולון — אבי סנטר טמבוריה",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 14
+ },
+ "blog-eyze-dibel-lekir.html": {
+  "title": "איזה דיבל מתאים לאיזה קיר? בטון, בלוק וגבס | אבי סנטר",
+  "h1": "איזה דיבל מתאים לאיזה קיר? בטון, בלוק וגבס",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "blog-silikon-o-montack.html": {
+  "title": "סיליקון או דבק הרכבה: מה ההבדל ומתי משתמשים בכל אחד? | אבי סנטר",
+  "h1": "סיליקון או דבק הרכבה: מה ההבדל ומתי משתמשים בכל אחד?",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "blog-nikuy-mesanenet-berez.html": {
+  "title": "ברז עם זרם חלש? ניקוי מסננת הברז ב-10 דקות | אבי סנטר",
+  "h1": "ברז עם זרם חלש או מתיז לצדדים? ניקוי מסננת הברז ב-10 דקות",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": true,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "blog-shichpul-mafteach-madrich.html": {
+  "title": "איבדתי מפתח? אילו מפתחות אפשר לשכפל ומה להביא לחנות | אבי סנטר",
+  "h1": "איבדתי מפתח? אילו מפתחות אפשר לשכפל ומה להביא לחנות",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": true,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "tikunim.html": {
+  "title": "תיקונים והתקנות עד הבית בחולון | אבי סנטר טמבוריה",
+  "h1": "תיקונים והתקנות עד הבית בחולון",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "blog-shpachtel-hamadrich-hashalem.html": {
+  "title": "שפכטל: המדריך המלא – סוגים, שפכטל מוכן ואבקה, איך עושים | אבי סנטר",
+  "h1": "שפכטל: המדריך המלא — סוגים, מוכן או אבקה, ואיך עושים נכון",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": true,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "ru-kley-germetik.html": {
+  "title": "Клей, силикон и герметики в Холоне | Ави Сентер",
+  "h1": "Клей, силикон и герметики в Холоне",
+  "lang": "ru",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "blog-melet-tit-o-devek-keramika.html": {
+  "title": "מלט, טיט או דבק קרמיקה: מה ההבדל ואיזה דבק קרמיקה לבחור | אבי סנטר",
+  "h1": "מלט, טיט או דבק קרמיקה: מה ההבדל ומתי משתמשים בכל אחד?",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": true,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "madrich-bidud.html": {
+  "title": "דבקים ואיטום חולון | CEYS BISON MONTACK | אבי סנטר טמבוריה",
+  "h1": "דבקים ואיטום חולון — אבי סנטר טמבוריה",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": true,
+  "card_count": 8
+ },
+ "shchunot.html": {
+  "title": "חומרי בניין חולון שכונות | אבי סנטר טמבוריה קריית שרת",
+  "h1": "חומרי בניין חולון — אבי סנטר טמבוריה",
+  "lang": "he",
+  "has_faq": false,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 18
+ },
+ "blog-eyze-agalat-kniyot.html": {
+  "title": "איזו עגלת קניות לקנות? 5 דברים שבודקים בחנות | אבי סנטר",
+  "h1": "איזו עגלת קניות לקנות? 5 דברים שבודקים לפני שקונים",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": true,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "blog-eyze-manul-anti-snap.html": {
+  "title": "איך בוחרים מנעול הגנה מפריצה (Anti-Snap)? | אבי סנטר טמבוריה",
+  "h1": "איך בוחרים מנעול הגנה מפריצה (Anti-Snap)?",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "odot.html": {
+  "title": "אודות אבי סנטר | טמבוריה שכונתית בקריית שרת, חולון, מאז 1994",
+  "h1": "אודות אבי סנטר",
+  "lang": "he",
+  "has_faq": false,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "blog-hadabara-bayit-madrich.html": {
+  "title": "יש לכם ג'וקים או יתושים בבית? מדריך פתרונות | אבי סנטר טמבוריה",
+  "h1": "יש לכם ג'וקים, עכברים או יתושים בבית? מדריך פתרונות",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "takanon.html": {
+  "title": "תנאי שימוש | אבי סנטר טמבוריה חולון",
+  "h1": "תנאי שימוש",
+  "lang": "he",
+  "has_faq": false,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "blog-naalti-bachutz-mah-osim.html": {
+  "title": "נעלתי בחוץ, מה עושים? מדריך צעד אחר צעד | אבי סנטר טמבוריה",
+  "h1": "נעלתי בחוץ, מה עושים? מדריך צעד אחר צעד",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": true,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "ru-stroitelnye-materialy.html": {
+  "title": "Стройматериалы для ремонта дома в Холоне | «Ави Сентер»",
+  "h1": "Стройматериалы для ремонта в Холоне",
+  "lang": "ru",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "ru-remont-na-domu.html": {
+  "title": "Ремонт на дому в Холоне: смесители, протечки | Ави Сентер",
+  "h1": "Ремонт на дому в Холоне",
+  "lang": "ru",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "madrich-tzvia.html": {
+  "title": "צבע לבית חולון | שיפוץ וצביעה | אבי סנטר טמבוריה קריית שרת",
+  "h1": "צבע ושיפוץ חולון — אבי סנטר טמבוריה",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": true,
+  "card_count": 6
+ },
+ "blog-itum-ambatia.html": {
+  "title": "סיליקון לאיטום אמבטיה וכיור: איך אוטמים נכון | אבי סנטר",
+  "h1": "איטום נכון סביב אמבטיה וכיור",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": true,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "madrich-chomrei-binyan.html": {
+  "title": "חומרי בניין בחולון | שפכטל, איטום, דבקים וברגים | אבי סנטר",
+  "h1": "חומרי בניין לתיקונים בחולון — שפכטל, איטום, דבקים וברגים | אבי סנטר טמבוריה",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": true,
+  "card_count": 4
+ },
+ "404.html": {
+  "title": "העמוד לא נמצא | אבי סנטר טמבוריה חולון",
+  "h1": "המפתח הזה לא מתאים לאף מנעול",
+  "lang": "he",
+  "has_faq": false,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "ru-zamena-cilindra.html": {
+  "title": "Как заменить цилиндр в двери: замер и замена по шагам | «Ави Сентер»",
+  "h1": "Как заменить цилиндр в двери?",
+  "lang": "ru",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "index.html": {
+  "title": "טמבוריה בחולון | אבי סנטר – חומרי בניין ושכפול מפתחות, קריית שרת",
+  "h1": "טמבוריה בקריית שרת, חולון",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "ru-telezhki.html": {
+  "title": "Тележки для покупок и сушилки для белья в Холоне | «Ави Сентер»",
+  "h1": "Тележки для покупок и сушилки для белья в Холоне",
+  "lang": "ru",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "google4571521607e5a909.html": {
+  "title": null,
+  "h1": null,
+  "lang": "he",
+  "has_faq": false,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "blog-shpachtel-zman-yibush.html": {
+  "title": "כמה זמן לוקח לשפכטל להתייבש? (ואיך יודעים שהוא יבש)",
+  "h1": "כמה זמן לוקח לשפכטל להתייבש, ואיך יודעים שאפשר לשייף",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "ru-kraski.html": {
+  "title": "Краски и шпаклёвка в Холоне: SWI, PENTEX | Ави Сентер",
+  "h1": "Краски и шпаклёвка в Холоне",
+  "lang": "ru",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": true,
+  "card_count": 6
+ },
+ "ru-navesnoj-zamok.html": {
+  "title": "Какой навесной замок выбрать: склад, ворота, шкаф | «Ави Сентер»",
+  "h1": "Какой навесной замок выбрать?",
+  "lang": "ru",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "madrich-spadini.html": {
+  "title": "SPADINI חולון | Anti-Calc מקצועי | אבי סנטר טמבוריה",
+  "h1": "SPADINI Anti-Calc חולון — אבי סנטר טמבוריה",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": true,
+  "card_count": 6
+ },
+ "ru-zamena-lejki-dusha.html": {
+  "title": "Как заменить лейку душа самостоятельно | «Ави Сентер»",
+  "h1": "Как заменить лейку душа?",
+  "lang": "ru",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "ru-germetizaciya-vanny.html": {
+  "title": "Герметизация ванны и раковины силиконом: как правильно | «Ави Сентер»",
+  "h1": "Как правильно загерметизировать ванну?",
+  "lang": "ru",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "blog-lachatz-mayim-chalash-bemikla.html": {
+  "title": "לחץ מים חלש במקלחת: איך מגבירים את הלחץ בעצמכם | אבי סנטר",
+  "h1": "לחץ מים חלש במקלחת: הסיבות והפתרונות",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": true,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "blog-eyze-devek-lechomer.html": {
+  "title": "איזה דבק מתאים לכל חומר? עץ, מתכת, פלסטיק וקרמיקה",
+  "h1": "איזה דבק מתאים לכל חומר? מדריך בחירה מהיר",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "ru-skolko-kraski.html": {
+  "title": "Сколько краски нужно на комнату: точный расчёт | «Ави Сентер»",
+  "h1": "Сколько краски нужно на комнату?",
+  "lang": "ru",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "blog-primer-lifney-tzviya.html": {
+  "title": "פריימר לפני צבע: מתי באמת צריך? | אבי סנטר טמבוריה חולון",
+  "h1": "פריימר לפני צבע: מתי באמת צריך?",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "madrich-klim.html": {
+  "title": "כלי עבודה חולון | ORDERLY CONAN | אבי סנטר טמבוריה קריית שרת",
+  "h1": "כלי עבודה חולון — אבי סנטר טמבוריה",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": true,
+  "card_count": 12
+ },
+ "blog-lehachlif-mazlef-mikla.html": {
+  "title": "איך מחליפים ראש מקלחת (מזלף) בעצמכם | אבי סנטר",
+  "h1": "איך מחליפים ראש מקלחת (מזלף) בעצמכם",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": true,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "ru-santehnika.html": {
+  "title": "Сантехника в Холоне: SPADINI, лейки, шланги, краны | «Ави Сентер»",
+  "h1": "Сантехника в Холоне",
+  "lang": "ru",
+  "has_faq": true,
+  "has_howto": true,
+  "has_product_schema": true,
+  "card_count": 8
+ },
+ "blog-shpachtel-madrich.html": {
+  "title": "שפכטל לקיר: מוכן או אבקה, איך עושים וכמה זמן מתייבש | מדריך",
+  "h1": "שפכטל לקיר: שפכטל מוכן או אבקה, ואיך עושים שפכטל נכון",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": true,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "ru.html": {
+  "title": "Хозяйственный магазин в Холоне «Ави Сентер» — говорим по-русски",
+  "h1": "Хозяйственный магазин «Ави Сентер» в Холоне",
+  "lang": "ru",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "blog-nezila-bashrutim-mah-osim.html": {
+  "title": "נזילה בשירותים — מה עושים? | אבי סנטר טמבוריה",
+  "h1": "נזילה בשירותים — מה עושים לפני שקוראים לאינסטלטור?",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "instalazia.html": {
+  "title": "אינסטלציה ותיקון נזילות בחולון | SPADINI | אבי סנטר טמבוריה",
+  "h1": "אינסטלציה ותיקון נזילות SPADINI חולון — אבי סנטר טמבוריה",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": true,
+  "card_count": 8
+ },
+ "blog-mezalef-bide-hatkana.html": {
+  "title": "מזלף בידה לאסלה — התקנה עצמית בלי אינסטלטור | אבי סנטר טמבוריה",
+  "h1": "מזלף בידה לאסלה — איך מתקינים לבד, בלי אינסטלטור",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": true,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "ru-zamki.html": {
+  "title": "Замки и цилиндры в Холоне, замена цилиндра | «Ави Сентер»",
+  "h1": "Замки и цилиндры в Холоне",
+  "lang": "ru",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": true,
+  "card_count": 6
+ },
+ "ru-sad.html": {
+  "title": "Шланги и инструменты для сада в Холоне | Ави Сентер",
+  "h1": "Сад, балкон и полив в Холоне",
+  "lang": "ru",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "blog-hachlafat-tzilinder.html": {
+  "title": "איך מחליפים צילינדר בדלת? מדידה והחלפה ב-5 דקות | אבי סנטר",
+  "h1": "איך מחליפים צילינדר בדלת? מדידה נכונה והחלפה שלב אחר שלב",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": true,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "madrich-nizila.html": {
+  "title": "חומרי ניקיון חולון | SANO DURGOL KITER | אבי סנטר טמבוריה",
+  "h1": "ניקיון לבית חולון — אבי סנטר טמבוריה",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": true,
+  "card_count": 5
+ },
+ "madrich-gina.html": {
+  "title": "גינה והשקיה חולון | מזמרות, מתזים וצינורות | אבי סנטר טמבוריה",
+  "h1": "גינה והשקיה בחולון — אבי סנטר טמבוריה",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": true,
+  "card_count": 4
+ },
+ "blog-avnit-bli-lifgoa-batzeva.html": {
+  "title": "איך מורידים אבנית בלי לפגוע בצבע או בגימור | אבי סנטר טמבוריה",
+  "h1": "איך מורידים אבנית בלי לפגוע בצבע או בגימור",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": true,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "ru-instrumenty.html": {
+  "title": "Инструменты в Холоне: Hunter, Conan, ORDERLY | Ави Сентер",
+  "h1": "Инструменты в Холоне",
+  "lang": "ru",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": true,
+  "card_count": 12
+ },
+ "blog-shichpul-mafteach-teivat-doar.html": {
+  "title": "שכפול מפתח לתיבת דואר בחולון | אבי סנטר",
+  "h1": "שכפול מפתח לתיבת דואר בחולון",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "blog-chomer-letikun-kirot.html": {
+  "title": "חומר לתיקון קירות: מה מתאים לחור, לסדק ולטיח מתפורר | אבי סנטר",
+  "h1": "חומר לתיקון קירות: מה מתאים לחור, לסדק ולטיח מתפורר",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "negishut.html": {
+  "title": "הצהרת נגישות | אבי סנטר טמבוריה חולון",
+  "h1": "הצהרת נגישות",
+  "lang": "he",
+  "has_faq": false,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "ru-slovar.html": {
+  "title": "Стройматериалы на иврите: словарь с произношением | Ави Сентер",
+  "h1": "Стройматериалы на иврите: словарь для ремонта",
+  "lang": "ru",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "madrich-bragim.html": {
+  "title": "ברגים, דיבלים ופרזול חולון | אבי סנטר טמבוריה קריית שרת",
+  "h1": "ברגים, דיבלים ופרזול בחולון — אבי סנטר טמבוריה",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": true,
+  "card_count": 4
+ },
+ "ru-dublikat-multlok.html": {
+  "title": "Дубликат ключа Mul-T-Lock в Холоне: что принести | «Ави Сентер»",
+  "h1": "Дубликат ключа Mul-T-Lock: что принести?",
+  "lang": "ru",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "ru-krepezh.html": {
+  "title": "Шурупы, дюбели, крючки и крепёж в Холоне | «Ави Сентер»",
+  "h1": "Шурупы, дюбели и крепёж в Холоне",
+  "lang": "ru",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "blog-tikun-nezila-beberez.html": {
+  "title": "איך מתקנים נזילה בברז? מדריך שלב אחר שלב | אבי סנטר טמבוריה",
+  "h1": "איך מתקנים נזילה בברז? מדריך שלב אחר שלב",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": true,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "ru-tovary-dlya-doma.html": {
+  "title": "Товары для дома в Холоне: крючки, ножницы, прищепки | «Ави Сентер»",
+  "h1": "Товары для дома в Холоне: крючки, ножницы, коврики",
+  "lang": "ru",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "blog-tzviat-matechet.html": {
+  "title": "צביעת מתכת חלודה: מעקה, שער וסורגים שלב אחר שלב | אבי סנטר",
+  "h1": "איך צובעים מתכת, מעקה או שער בלי שהחלודה תחזור?",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": true,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "ru-rakovina-medlenno-stekaet.html": {
+  "title": "Кухонная раковина медленно стекает: сетка и сифон | «Ави Сентер»",
+  "h1": "Раковина медленно стекает: что делать?",
+  "lang": "ru",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "blog-vavim-nidbakim.html": {
+  "title": "ווים נדבקים לקיר: איך מדביקים כדי שיחזיקו | אבי סנטר",
+  "h1": "ווים נדבקים לקיר: איך מדביקים כדי שיחזיקו, ועל איזה קיר",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": true,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "blog-kiyor-mitbach-mitnakez-leat.html": {
+  "title": "מסננת לכיור: כיור שמתנקז לאט, ניקוי והחלפה | אבי סנטר",
+  "h1": "מסננת לכיור: הכיור מתנקז לאט? ניקוי המסננת והסיפון, ומתי מחליפים",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": true,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "blog-eyze-manul-tliya.html": {
+  "title": "איזה מנעול תלייה לבחור למחסן, לשער או לארון? | אבי סנטר",
+  "h1": "איזה מנעול תלייה לבחור למחסן, לשער או לארון?",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "ru-spadini.html": {
+  "title": "SPADINI в Холоне — официальная точка продаж | «Ави Сентер»",
+  "h1": "SPADINI в Холоне: лейки, душевые наборы и шланги",
+  "lang": "ru",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "blog-eyze-mavreg-livchor.html": {
+  "title": "איזה מברג לכל עבודה? מדריך בחירה מקיף | אבי סנטר טמבוריה",
+  "h1": "איזה מברג לכל עבודה? מדריך בחירה מקיף",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "ru-protekaet-kran.html": {
+  "title": "Кран капает, когда закрыт: что менять | «Ави Сентер»",
+  "h1": "Кран капает, даже когда закрыт: что менять?",
+  "lang": "ru",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "madrich-klali.html": {
+  "title": "אביזרים כלליים לבית | אבי סנטר טמבוריה חולון",
+  "h1": "אביזרים כלליים לבית",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "sheelot.html": {
+  "title": "שאלות על החנות: חניה, תשלום, שעות, משלוחים ואיסוף | אבי סנטר חולון",
+  "h1": "שאלות על החנות",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "ru-elektrika.html": {
+  "title": "Лампы LED, розетки и таймеры в Холоне | Ави Сентер",
+  "h1": "Электрика и освещение в Холоне",
+  "lang": "ru",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "madrich-agalot.html": {
+  "title": "עגלות קניות ומתקני ייבוש כביסה בחולון | אבי סנטר טמבוריה",
+  "h1": "עגלות קניות ומתקני ייבוש כביסה בחולון — אבי סנטר טמבוריה",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": true,
+  "card_count": 4
+ },
+ "blog-shichpul-mafteach-multilock.html": {
+  "title": "שכפול מפתח מולטילוק (Mul-T-Lock) בחולון: מה צריך להביא | אבי סנטר",
+  "h1": "שכפול מפתח מולטילוק (Mul-T-Lock) בחולון: מה צריך להביא",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": true,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "blog-eyze-roller-livchor.html": {
+  "title": "איזה רולר מתאים לכל סוג קיר? מדריך לבחירה נכונה | אבי סנטר",
+  "h1": "איזה רולר מתאים לכל סוג קיר? מדריך לבחירה נכונה",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "blog-nikuy-chalonot-gvohim.html": {
+  "title": "מגב חלונות טלסקופי: איך מנקים חלונות גבוהים בלי סולם | אבי סנטר",
+  "h1": "מגב חלונות טלסקופי: איך מנקים חלונות גבוהים בלי סולם",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": true,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "madrich-hadabara.html": {
+  "title": "הדברה חולון | ג'וקים עכברים יתושים | אבי סנטר טמבוריה",
+  "h1": "הדברה ביתית חולון — אבי סנטר טמבוריה",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": true,
+  "card_count": 6
+ },
+ "blog-eyze-berez-livchor.html": {
+  "title": "איזה ברז לבחור למטבח ולאמבטיה? מדריך מקיף | אבי סנטר טמבוריה",
+  "h1": "איזה ברז לבחור למטבח ולאמבטיה? מדריך מקיף",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": true,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "blog-omes-chashmali-rav-sheka.html": {
+  "title": "עומס חשמלי ברב-שקע — כמה מכשירים בטוח לחבר? | אבי סנטר טמבוריה",
+  "h1": "עומס חשמלי ברב-שקע — כמה מכשירים בטוח לחבר?",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "madrich-manulin.html": {
+  "title": "מנעולים חולון | SALDA Anti-Snap | אבי סנטר טמבוריה קריית שרת",
+  "h1": "מנעולים ואבטחה חולון — אבי סנטר טמבוריה",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": true,
+  "card_count": 6
+ },
+ "blog-nezila-mitzinor-gamish.html": {
+  "title": "נזילה מצינור גמיש מתחת לכיור — מה עושים? | אבי סנטר טמבוריה",
+  "h1": "נזילה מצינור גמיש מתחת לכיור — מה עושים?",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": true,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "blog-stima-bakiyor-kfitz.html": {
+  "title": "סתימה בכיור או במקלחת: איך פותחים עם קפיץ ביוב | אבי סנטר",
+  "h1": "סתימה בכיור או במקלחת: איך פותחים לבד, כולל קפיץ ביוב",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": true,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "ru-vrediteli.html": {
+  "title": "Средства от тараканов, муравьёв и мышей в Холоне | Ави Сентер",
+  "h1": "Средства от вредителей в Холоне",
+  "lang": "ru",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "pratiut.html": {
+  "title": "מדיניות פרטיות | אבי סנטר טמבוריה חולון",
+  "h1": "מדיניות פרטיות",
+  "lang": "he",
+  "has_faq": false,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "blog-devek-maga.html": {
+  "title": "דבק מגע: כמה זמן מחכים לפני הדבקה ואיך מורחים נכון | אבי סנטר",
+  "h1": "איך עובדים עם דבק מגע: מריחה על שני הצדדים, המתנה, ולחיצה",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": true,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "blog-shpachtel-kir-chitzoni.html": {
+  "title": "שפכטל לקיר חיצוני: מה מתאים ואיך עובדים | אבי סנטר",
+  "h1": "שפכטל לקיר חיצוני: מה מתאים בחוץ, ואיך עובדים נכון",
+  "lang": "he",
+  "has_faq": true,
+  "has_howto": true,
+  "has_product_schema": false,
+  "card_count": 0
+ },
+ "ru-uborka.html": {
+  "title": "Средства для уборки и ванной в Холоне | Ави Сентер",
+  "h1": "Уборка и ванная в Холоне",
+  "lang": "ru",
+  "has_faq": true,
+  "has_howto": false,
+  "has_product_schema": false,
+  "card_count": 0
+ }
+}
