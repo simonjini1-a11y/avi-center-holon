@@ -73,6 +73,7 @@ Google Ads ופרסום ממומן · כלים בתשלום (Supermetrics) · Is
 - עיצוב אחיד, נגישות/W3C/Lighthouse נקי, hreflang מאומת (HE↔RU, כל 101 דפים, הדדי).
 - **פרויקט הרוסית הושלם**: 5 דפי קטלוג אמיתיים נבנו מחדש (ru-instrumenty, ru-zamki, ru-santehnika, ru-klyuchi, ru-kraski) עם card-grid מלא ותמונות אמיתיות; 16 הדפים הנוספים נבדקו לעומק ואומתו ככבר שלמים (לא היו צריכים עבודה).
 - **Product/Offer schema**: 18 דפים (14 HE + 4 RU כתלוי בתמונות אמיתיות קיימות), ~86 מוצרים, בלי מחיר (לפי כלל התוכן). shikpul הושמט בכוונה — אין מספיק תמונות מוצר אמיתיות.
+  - **עודכן 4/11 — הוסר Product/Offer, הוחלף ב-`Thing`**: Search Console שלח התראה (WNC-10030322) על בעיה קריטית ב"כרטיסי מוצרים" — `offers` בלי `price`, ועוד אזהרות (shippingDetails, hasMerchantReturnPolicy, GTIN). כלל התוכן הוא בלי מחירים, ובכל מקרה Google מציג כרטיסי מוצר רק לדפים של מוצר בודד, לא לדפי קטגוריה/מדריך. לכן בכל 18 הדפים (86 פריטים) ה-ItemList נשאר, אבל כל פריט הוא עכשיו `Thing` עם name/image/description בלבד (בלי offers/brand). אומת: 0 `"Product"`, 0 `"offers"`, 0 בלוקי JSON-LD לא-תקינים בכל האתר. **אחרי מיזוג ל-main**: ב-Search Console → שיפורים → "קטעי מוצר" ללחוץ "אימות תיקון". **לא להחזיר Product schema בלי מחיר אמיתי.**
 - **HowTo schema**: 31 דפים, חילוץ מדויק מתוכן `<ol>` קיים.
 - **aggregateRating** (4.8, 121 ביקורות) נוסף ל-schema העסקי הראשי.
 - **עמוד-על שפכטל** (`blog-shpachtel-hamadrich-hashalem.html`) נבנה מאפס עם קישוריות דו-כיוונית ל-4 הפוסטים הקיימים + FAQ/HowTo schema — סגר את הפער הגדול ביותר שנמצא בניתוח 519 השאילתות (קלאסטר שפכטל, 771 הופעות).
