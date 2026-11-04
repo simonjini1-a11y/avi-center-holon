@@ -1,3689 +1,3607 @@
 {
- "/images/icon-whatsapp-v58.png": {
-  "pages": [
-   "blog-hashkaya-mirpeset.html",
-   "blog-berez-metaftef.html",
-   "blog.html",
-   "ru-protechka-gibkij-shlang.html",
-   "blog-tikun-nezilat-mayim.html",
-   "blog-kama-norot-led-lecheder.html",
-   "blog-shpachtel-kir-gevs.html",
-   "ru-klyuchi.html",
-   "blog-mafteach-nishbar-bamanul.html",
-   "blog-kama-tzeva-lecheder.html",
-   "madrich-led.html",
-   "blog-eyze-tzinor-miklachat.html",
-   "ru-kakoj-dyubel.html",
-   "blog-ovesh-bamiklachat.html",
-   "shikpul.html",
-   "blog-eyze-dibel-lekir.html",
-   "blog-silikon-o-montack.html",
-   "blog-nikuy-mesanenet-berez.html",
-   "blog-shichpul-mafteach-madrich.html",
-   "tikunim.html",
-   "ru-kley-germetik.html",
-   "blog-melet-tit-o-devek-keramika.html",
-   "madrich-bidud.html",
-   "shchunot.html",
-   "blog-eyze-agalat-kniyot.html",
-   "blog-eyze-manul-anti-snap.html",
-   "odot.html",
-   "blog-hadabara-bayit-madrich.html",
-   "takanon.html",
-   "blog-naalti-bachutz-mah-osim.html",
-   "ru-stroitelnye-materialy.html",
-   "ru-remont-na-domu.html",
-   "madrich-tzvia.html",
-   "blog-itum-ambatia.html",
-   "madrich-chomrei-binyan.html",
-   "ru-zamena-cilindra.html",
-   "index.html",
-   "ru-telezhki.html",
-   "blog-shpachtel-zman-yibush.html",
-   "ru-kraski.html",
-   "ru-navesnoj-zamok.html",
-   "madrich-spadini.html",
-   "ru-zamena-lejki-dusha.html",
-   "ru-germetizaciya-vanny.html",
-   "blog-lachatz-mayim-chalash-bemikla.html",
-   "blog-eyze-devek-lechomer.html",
-   "ru-skolko-kraski.html",
-   "blog-primer-lifney-tzviya.html",
-   "madrich-klim.html",
-   "blog-lehachlif-mazlef-mikla.html",
-   "ru-santehnika.html",
-   "blog-shpachtel-madrich.html",
-   "ru.html",
-   "blog-nezila-bashrutim-mah-osim.html",
-   "instalazia.html",
-   "blog-mezalef-bide-hatkana.html",
-   "ru-zamki.html",
-   "ru-sad.html",
-   "blog-hachlafat-tzilinder.html",
-   "madrich-nizila.html",
-   "madrich-gina.html",
-   "blog-avnit-bli-lifgoa-batzeva.html",
-   "ru-instrumenty.html",
-   "blog-shichpul-mafteach-teivat-doar.html",
-   "blog-chomer-letikun-kirot.html",
-   "negishut.html",
-   "ru-slovar.html",
-   "madrich-bragim.html",
-   "ru-dublikat-multlok.html",
-   "ru-krepezh.html",
-   "blog-tikun-nezila-beberez.html",
-   "ru-tovary-dlya-doma.html",
-   "blog-tzviat-matechet.html",
-   "ru-rakovina-medlenno-stekaet.html",
-   "blog-vavim-nidbakim.html",
-   "blog-kiyor-mitbach-mitnakez-leat.html",
-   "blog-eyze-manul-tliya.html",
-   "ru-spadini.html",
-   "blog-eyze-mavreg-livchor.html",
-   "ru-protekaet-kran.html",
-   "madrich-klali.html",
-   "sheelot.html",
-   "ru-elektrika.html",
-   "madrich-agalot.html",
-   "blog-shichpul-mafteach-multilock.html",
-   "blog-eyze-roller-livchor.html",
-   "blog-nikuy-chalonot-gvohim.html",
-   "madrich-hadabara.html",
-   "blog-eyze-berez-livchor.html",
-   "blog-omes-chashmali-rav-sheka.html",
-   "madrich-manulin.html",
-   "blog-nezila-mitzinor-gamish.html",
-   "blog-stima-bakiyor-kfitz.html",
-   "ru-vrediteli.html",
-   "pratiut.html",
-   "blog-devek-maga.html",
-   "blog-shpachtel-kir-chitzoni.html",
-   "ru-uborka.html"
-  ],
-  "alts": [
-   "WhatsApp"
-  ]
- },
- "/images/icon-waze-v58.png": {
-  "pages": [
-   "blog-hashkaya-mirpeset.html",
-   "blog-berez-metaftef.html",
-   "blog.html",
-   "ru-protechka-gibkij-shlang.html",
-   "blog-tikun-nezilat-mayim.html",
-   "blog-kama-norot-led-lecheder.html",
-   "blog-shpachtel-kir-gevs.html",
-   "ru-klyuchi.html",
-   "blog-mafteach-nishbar-bamanul.html",
-   "blog-kama-tzeva-lecheder.html",
-   "madrich-led.html",
-   "blog-eyze-tzinor-miklachat.html",
-   "ru-kakoj-dyubel.html",
-   "blog-ovesh-bamiklachat.html",
-   "shikpul.html",
-   "blog-eyze-dibel-lekir.html",
-   "blog-silikon-o-montack.html",
-   "blog-nikuy-mesanenet-berez.html",
-   "blog-shichpul-mafteach-madrich.html",
-   "tikunim.html",
-   "ru-kley-germetik.html",
-   "blog-melet-tit-o-devek-keramika.html",
-   "madrich-bidud.html",
-   "shchunot.html",
-   "blog-eyze-agalat-kniyot.html",
-   "blog-eyze-manul-anti-snap.html",
-   "odot.html",
-   "blog-hadabara-bayit-madrich.html",
-   "takanon.html",
-   "blog-naalti-bachutz-mah-osim.html",
-   "ru-stroitelnye-materialy.html",
-   "ru-remont-na-domu.html",
-   "madrich-tzvia.html",
-   "blog-itum-ambatia.html",
-   "madrich-chomrei-binyan.html",
-   "404.html",
-   "ru-zamena-cilindra.html",
-   "index.html",
-   "ru-telezhki.html",
-   "blog-shpachtel-zman-yibush.html",
-   "ru-kraski.html",
-   "ru-navesnoj-zamok.html",
-   "madrich-spadini.html",
-   "ru-zamena-lejki-dusha.html",
-   "ru-germetizaciya-vanny.html",
-   "blog-lachatz-mayim-chalash-bemikla.html",
-   "blog-eyze-devek-lechomer.html",
-   "ru-skolko-kraski.html",
-   "blog-primer-lifney-tzviya.html",
-   "madrich-klim.html",
-   "blog-lehachlif-mazlef-mikla.html",
-   "ru-santehnika.html",
-   "blog-shpachtel-madrich.html",
-   "ru.html",
-   "blog-nezila-bashrutim-mah-osim.html",
-   "instalazia.html",
-   "blog-mezalef-bide-hatkana.html",
-   "ru-zamki.html",
-   "ru-sad.html",
-   "blog-hachlafat-tzilinder.html",
-   "madrich-nizila.html",
-   "madrich-gina.html",
-   "blog-avnit-bli-lifgoa-batzeva.html",
-   "ru-instrumenty.html",
-   "blog-shichpul-mafteach-teivat-doar.html",
-   "blog-chomer-letikun-kirot.html",
-   "negishut.html",
-   "ru-slovar.html",
-   "madrich-bragim.html",
-   "ru-dublikat-multlok.html",
-   "ru-krepezh.html",
-   "blog-tikun-nezila-beberez.html",
-   "ru-tovary-dlya-doma.html",
-   "blog-tzviat-matechet.html",
-   "ru-rakovina-medlenno-stekaet.html",
-   "blog-vavim-nidbakim.html",
-   "blog-kiyor-mitbach-mitnakez-leat.html",
-   "blog-eyze-manul-tliya.html",
-   "ru-spadini.html",
-   "blog-eyze-mavreg-livchor.html",
-   "ru-protekaet-kran.html",
-   "madrich-klali.html",
-   "sheelot.html",
-   "ru-elektrika.html",
-   "madrich-agalot.html",
-   "blog-shichpul-mafteach-multilock.html",
-   "blog-eyze-roller-livchor.html",
-   "blog-nikuy-chalonot-gvohim.html",
-   "madrich-hadabara.html",
-   "blog-eyze-berez-livchor.html",
-   "blog-omes-chashmali-rav-sheka.html",
-   "madrich-manulin.html",
-   "blog-nezila-mitzinor-gamish.html",
-   "blog-stima-bakiyor-kfitz.html",
-   "ru-vrediteli.html",
-   "pratiut.html",
-   "blog-devek-maga.html",
-   "blog-shpachtel-kir-chitzoni.html",
-   "ru-uborka.html"
-  ],
-  "alts": [
-   "Waze",
-   "Маршрут в Waze",
-   "נווטו בוויז"
-  ]
- },
- "/images/klali-mazleif-gina-colorfulyard.jpg": {
-  "pages": [
-   "blog-hashkaya-mirpeset.html",
-   "ru-sad.html",
-   "madrich-gina.html",
-   "madrich-klali.html"
-  ],
-  "alts": [
-   "מתז גינה רב-תכליתי Colorfulyard עם ידית, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Многофункциональный распылитель Colorfulyard — магазин «Ави Сентер», Холон"
-  ]
- },
- "/images/avi-meshachpel-mafteach.jpg": {
-  "pages": [
-   "blog-hashkaya-mirpeset.html",
-   "blog-berez-metaftef.html",
-   "ru-protechka-gibkij-shlang.html",
-   "blog-tikun-nezilat-mayim.html",
-   "blog-kama-norot-led-lecheder.html",
-   "blog-shpachtel-kir-gevs.html",
-   "ru-klyuchi.html",
-   "blog-mafteach-nishbar-bamanul.html",
-   "blog-kama-tzeva-lecheder.html",
-   "blog-eyze-tzinor-miklachat.html",
-   "ru-kakoj-dyubel.html",
-   "blog-ovesh-bamiklachat.html",
-   "shikpul.html",
-   "blog-eyze-dibel-lekir.html",
-   "blog-silikon-o-montack.html",
-   "blog-nikuy-mesanenet-berez.html",
-   "blog-shichpul-mafteach-madrich.html",
-   "blog-melet-tit-o-devek-keramika.html",
-   "blog-eyze-agalat-kniyot.html",
-   "blog-eyze-manul-anti-snap.html",
-   "odot.html",
-   "blog-hadabara-bayit-madrich.html",
-   "blog-naalti-bachutz-mah-osim.html",
-   "blog-itum-ambatia.html",
-   "ru-zamena-cilindra.html",
-   "blog-shpachtel-zman-yibush.html",
-   "ru-navesnoj-zamok.html",
-   "ru-zamena-lejki-dusha.html",
-   "ru-germetizaciya-vanny.html",
-   "blog-lachatz-mayim-chalash-bemikla.html",
-   "blog-eyze-devek-lechomer.html",
-   "ru-skolko-kraski.html",
-   "blog-primer-lifney-tzviya.html",
-   "blog-lehachlif-mazlef-mikla.html",
-   "blog-shpachtel-madrich.html",
-   "blog-nezila-bashrutim-mah-osim.html",
-   "blog-mezalef-bide-hatkana.html",
-   "blog-hachlafat-tzilinder.html",
-   "blog-avnit-bli-lifgoa-batzeva.html",
-   "blog-shichpul-mafteach-teivat-doar.html",
-   "blog-chomer-letikun-kirot.html",
-   "ru-dublikat-multlok.html",
-   "blog-tikun-nezila-beberez.html",
-   "blog-tzviat-matechet.html",
-   "ru-rakovina-medlenno-stekaet.html",
-   "blog-vavim-nidbakim.html",
-   "blog-kiyor-mitbach-mitnakez-leat.html",
-   "blog-eyze-manul-tliya.html",
-   "blog-eyze-mavreg-livchor.html",
-   "ru-protekaet-kran.html",
-   "blog-shichpul-mafteach-multilock.html",
-   "blog-eyze-roller-livchor.html",
-   "blog-nikuy-chalonot-gvohim.html",
-   "blog-eyze-berez-livchor.html",
-   "blog-omes-chashmali-rav-sheka.html",
-   "blog-nezila-mitzinor-gamish.html",
-   "blog-stima-bakiyor-kfitz.html",
-   "blog-devek-maga.html",
-   "blog-shpachtel-kir-chitzoni.html"
-  ],
-  "alts": [
-   "אבי, בעל החנות",
-   "Ави, владелец магазина",
-   "Ави делает дубликат ключа в магазине «Ави Сентер», Холон",
-   "אבי משכפל מפתח במכונה",
-   "אבי משכפל מפתח בחנות, אבי סנטר טמבוריה חולון",
-   "אבי, בעל החנות, משכפל מפתח במכונה באבי סנטר, חולון"
-  ]
- },
- "/images/gina-omega-tzinor-kfitz.jpg": {
-  "pages": [
-   "blog-hashkaya-mirpeset.html",
-   "ru-sad.html",
-   "madrich-gina.html"
-  ],
-  "alts": [
-   "צינור השקיה קפיצי OMEGA עד 7.5 מטר, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Спиральный шланг OMEGA 7,5 м — магазин «Ави Сентер», Холон"
-  ]
- },
- "/images/avi-meshachpel-mafteach-v59.webp": {
-  "pages": [
-   "blog-hashkaya-mirpeset.html",
-   "blog-berez-metaftef.html",
-   "blog.html",
-   "ru-protechka-gibkij-shlang.html",
-   "blog-tikun-nezilat-mayim.html",
-   "blog-kama-norot-led-lecheder.html",
-   "blog-shpachtel-kir-gevs.html",
-   "ru-klyuchi.html",
-   "blog-mafteach-nishbar-bamanul.html",
-   "blog-kama-tzeva-lecheder.html",
-   "madrich-led.html",
-   "blog-eyze-tzinor-miklachat.html",
-   "ru-kakoj-dyubel.html",
-   "blog-ovesh-bamiklachat.html",
-   "shikpul.html",
-   "blog-eyze-dibel-lekir.html",
-   "blog-silikon-o-montack.html",
-   "blog-nikuy-mesanenet-berez.html",
-   "blog-shichpul-mafteach-madrich.html",
-   "tikunim.html",
-   "ru-kley-germetik.html",
-   "blog-melet-tit-o-devek-keramika.html",
-   "madrich-bidud.html",
-   "shchunot.html",
-   "blog-eyze-agalat-kniyot.html",
-   "blog-eyze-manul-anti-snap.html",
-   "odot.html",
-   "blog-hadabara-bayit-madrich.html",
-   "takanon.html",
-   "blog-naalti-bachutz-mah-osim.html",
-   "ru-stroitelnye-materialy.html",
-   "ru-remont-na-domu.html",
-   "madrich-tzvia.html",
-   "blog-itum-ambatia.html",
-   "madrich-chomrei-binyan.html",
-   "ru-zamena-cilindra.html",
-   "index.html",
-   "ru-telezhki.html",
-   "blog-shpachtel-zman-yibush.html",
-   "ru-kraski.html",
-   "ru-navesnoj-zamok.html",
-   "madrich-spadini.html",
-   "ru-zamena-lejki-dusha.html",
-   "ru-germetizaciya-vanny.html",
-   "blog-lachatz-mayim-chalash-bemikla.html",
-   "blog-eyze-devek-lechomer.html",
-   "ru-skolko-kraski.html",
-   "blog-primer-lifney-tzviya.html",
-   "madrich-klim.html",
-   "blog-lehachlif-mazlef-mikla.html",
-   "ru-santehnika.html",
-   "blog-shpachtel-madrich.html",
-   "ru.html",
-   "blog-nezila-bashrutim-mah-osim.html",
-   "instalazia.html",
-   "blog-mezalef-bide-hatkana.html",
-   "ru-zamki.html",
-   "ru-sad.html",
-   "blog-hachlafat-tzilinder.html",
-   "madrich-nizila.html",
-   "madrich-gina.html",
-   "blog-avnit-bli-lifgoa-batzeva.html",
-   "ru-instrumenty.html",
-   "blog-shichpul-mafteach-teivat-doar.html",
-   "blog-chomer-letikun-kirot.html",
-   "negishut.html",
-   "ru-slovar.html",
-   "madrich-bragim.html",
-   "ru-dublikat-multlok.html",
-   "ru-krepezh.html",
-   "blog-tikun-nezila-beberez.html",
-   "ru-tovary-dlya-doma.html",
-   "blog-tzviat-matechet.html",
-   "ru-rakovina-medlenno-stekaet.html",
-   "blog-vavim-nidbakim.html",
-   "blog-kiyor-mitbach-mitnakez-leat.html",
-   "blog-eyze-manul-tliya.html",
-   "ru-spadini.html",
-   "blog-eyze-mavreg-livchor.html",
-   "ru-protekaet-kran.html",
-   "madrich-klali.html",
-   "sheelot.html",
-   "ru-elektrika.html",
-   "madrich-agalot.html",
-   "blog-shichpul-mafteach-multilock.html",
-   "blog-eyze-roller-livchor.html",
-   "blog-nikuy-chalonot-gvohim.html",
-   "madrich-hadabara.html",
-   "blog-eyze-berez-livchor.html",
-   "blog-omes-chashmali-rav-sheka.html",
-   "madrich-manulin.html",
-   "blog-nezila-mitzinor-gamish.html",
-   "blog-stima-bakiyor-kfitz.html",
-   "ru-vrediteli.html",
-   "pratiut.html",
-   "blog-devek-maga.html",
-   "blog-shpachtel-kir-chitzoni.html",
-   "ru-uborka.html"
-  ],
-  "alts": [
-   "אבי בחנות",
-   "Ави в магазине",
-   "אבי משכפל מפתח"
-  ]
- },
- "/images/instalazia-berez-mitbach-chrome.jpg": {
-  "pages": [
-   "blog-berez-metaftef.html",
-   "ru-remont-na-domu.html",
-   "instalazia.html",
-   "blog-eyze-berez-livchor.html"
-  ],
-  "alts": [
-   "ברז מטבח, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Кухонный смеситель в магазине «Ави Сентер», Холон",
-   "ברז מטבח כרום עם זרוע גבוהה, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/dept-manulin-t60.webp": {
-  "pages": [
-   "blog.html"
-  ],
-  "alts": [
-   "מחלקת מנעולים, אבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/dept-chomrei-binyan-t60.webp": {
-  "pages": [
-   "blog.html"
-  ],
-  "alts": [
-   "מחלקת חומרי בניין, אבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/dept-tzvia-t60.webp": {
-  "pages": [
-   "blog.html"
-  ],
-  "alts": [
-   "מחלקת צבעים, אבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/dept-bidud-t60.webp": {
-  "pages": [
-   "blog.html"
-  ],
-  "alts": [
-   "מחלקת איטום ובידוד, אבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/dept-instalazia-t60.webp": {
-  "pages": [
-   "blog.html"
-  ],
-  "alts": [
-   "מחלקת אינסטלציה, אבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/dept-klim-t60.webp": {
-  "pages": [
-   "blog.html"
-  ],
-  "alts": [
-   "מחלקת כלים, אבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/instalazia-spadini-tzinor-shirshuri-15.jpg": {
-  "pages": [
-   "blog-tikun-nezilat-mayim.html",
-   "blog-eyze-tzinor-miklachat.html",
-   "ru-santehnika.html"
-  ],
-  "alts": [
-   "צינור שזירה SPADINI, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "צינור שרשורי SPADINI באורך 1.5 מטר למקלח יד, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Шланг для душа SPADINI в магазине «Ави Сентер», Холон"
-  ]
- },
- "/images/led-nurot-luxten-megatop.jpg": {
-  "pages": [
-   "blog-kama-norot-led-lecheder.html"
-  ],
-  "alts": [
-   "נורות LED LUXTEN ו-Megatop במגוון עוצמות, כפי שנמכרות באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/tzvia-dliyim-swi-pentex.jpg": {
-  "pages": [
-   "blog-shpachtel-kir-gevs.html",
-   "ru-stroitelnye-materialy.html",
-   "madrich-tzvia.html",
-   "madrich-chomrei-binyan.html",
-   "blog-shpachtel-zman-yibush.html",
-   "ru-kraski.html",
-   "blog-chomer-letikun-kirot.html",
-   "blog-shpachtel-kir-chitzoni.html"
-  ],
-  "alts": [
-   "שפכטל וצבע אקרילי SWI ו-PENTEX, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Шпаклёвка и акриловая краска SWI и PENTEX — «Ави Сентер», Холон",
-   "Краски и шпаклёвка SWI и PENTEX в магазине «Ави Сентер», Холон",
-   "Шпаклёвка и акриловая краска SWI и PENTEX — магазин «Ави Сентер», Холон"
-  ]
- },
- "/images/shikpul-kir-maftechot-keyline-c.jpg": {
-  "pages": [
-   "ru-klyuchi.html",
-   "blog-mafteach-nishbar-bamanul.html",
-   "shikpul.html",
-   "ru.html"
-  ],
-  "alts": [
-   "Стенд с заготовками ключей KEYLINE в магазине «Ави Сентер»",
-   "קיר מפתחות KEYLINE מלא, מעל 100 סוגי ריקים באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/tzvia-golel-mikrofiber-shachor.jpg": {
-  "pages": [
-   "blog-kama-tzeva-lecheder.html",
-   "madrich-tzvia.html"
-  ],
-  "alts": [
-   "מגש וגליל מיקרופייבר שחור לצביעת קירות בבית"
-  ]
- },
- "/images/led-luxten-24w-or-cham.jpg": {
-  "pages": [
-   "madrich-led.html",
-   "ru-elektrika.html"
-  ],
-  "alts": [
-   "נורת LED LUXTEN ‏24W, אור חם 3000K, באבי סנטר טמבוריה חולון",
-   "Лампа LED LUXTEN 24 Вт, тёплый свет 3000K — магазин «Ави Сентер», Холон"
-  ]
- },
- "/images/led-timer-wise-electric-s2.jpg": {
-  "pages": [
-   "madrich-led.html",
-   "ru-elektrika.html"
-  ],
-  "alts": [
-   "שעון שבת מכני Wise Electric Timer S2 ל-24 שעות, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Таймер для шабата Wise Electric S2 — магазин «Ави Сентер», Холон"
-  ]
- },
- "/images/led-timer-intermatic-s3.jpg": {
-  "pages": [
-   "madrich-led.html",
-   "ru-elektrika.html"
-  ],
-  "alts": [
-   "שעון שבת מכני TIMER S3, 24 שעות, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Механический таймер TIMER S3 на 24 часа — магазин «Ави Сентер», Холон"
-  ]
- },
- "/images/led-shaon-shabat-timer-saco.jpg": {
-  "pages": [
-   "madrich-led.html"
-  ],
-  "alts": [
-   "שעוני שבת ושעוני זמן לשקע, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/led-kabel-marich-electro-c.jpg": {
-  "pages": [
-   "madrich-led.html",
-   "ru-elektrika.html"
-  ],
-  "alts": [
-   "כבל מאריך חשמל, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Удлинитель — магазин «Ави Сентер», Холон"
-  ]
- },
- "/images/led-rav-sheka-deko.jpg": {
-  "pages": [
-   "madrich-led.html",
-   "ru-elektrika.html",
-   "blog-omes-chashmali-rav-sheka.html"
-  ],
-  "alts": [
-   "רב-שקע DEKO עם 6 שקעים, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Сетевой фильтр DEKO на 6 розеток — магазин «Ави Сентер», Холон"
-  ]
- },
- "/images/led-tafsanim-kvalim-saco.jpg": {
-  "pages": [
-   "madrich-led.html"
-  ],
-  "alts": [
-   "תפסנים לכבלים SACO 10 מ&quot;מ, 100 יח&#x27;, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/led-chavakei-nylon-lekvalim-omega.jpg": {
-  "pages": [
-   "madrich-led.html"
-  ],
-  "alts": [
-   "חבקי ניילון לכבלים Omega מגוון מידות, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/led-mafsekei-kir-ne-ad.jpg": {
-  "pages": [
-   "madrich-led.html",
-   "ru-elektrika.html"
-  ],
-  "alts": [
-   "מפסקי קיר NE-AD, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Настенные выключатели NE-AD — магазин «Ави Сентер», Холон"
-  ]
- },
- "/images/led-shkaim-ne-ad.jpg": {
-  "pages": [
-   "madrich-led.html",
-   "ru-elektrika.html"
-  ],
-  "alts": [
-   "שקעי חשמל NE-AD, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Розетки NE-AD — магазин «Ави Сентер», Холон"
-  ]
- },
- "/images/led-rav-sheka-omega-t4.jpg": {
-  "pages": [
-   "madrich-led.html"
-  ],
-  "alts": [
-   "מפצל Omega T4 לארבעה שקעים, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/led-solelot-toshiba.jpg": {
-  "pages": [
-   "madrich-led.html",
-   "ru-elektrika.html"
-  ],
-  "alts": [
-   "סוללות Toshiba ו-GP, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Батарейки Toshiba и GP — магазин «Ави Сентер», Холон"
-  ]
- },
- "/images/led-solot-gp-alkaline.jpg": {
-  "pages": [
-   "madrich-led.html"
-  ],
-  "alts": [
-   "סוללות אלקליין GP AAA, כפי שנמכרות באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/led-solelot-toshiba-23a-27a.jpg": {
-  "pages": [
-   "madrich-led.html"
-  ],
-  "alts": [
-   "סוללות 12V Toshiba 23A ו-27A לשלטים, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/led-solelot-camelion-cr2032.jpg": {
-  "pages": [
-   "madrich-led.html"
-  ],
-  "alts": [
-   "סוללות כפתור Camelion CR2032, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/led-solelot-pkcell-lr1.jpg": {
-  "pages": [
-   "madrich-led.html"
-  ],
-  "alts": [
-   "סוללות LR1 ‏PKCELL, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/led-paamon-delet-asholoni.jpg": {
-  "pages": [
-   "madrich-led.html",
-   "ru-elektrika.html"
-  ],
-  "alts": [
-   "פעמון דלת אלחוטי OMEGA, ‏32 מנגינות, לחצן מוגן מים, באבי סנטר טמבוריה חולון",
-   "Беспроводной дверной звонок — магазин «Ави Сентер», Холон"
-  ]
- },
- "/images/led-mafzel-electro.jpg": {
-  "pages": [
-   "madrich-led.html"
-  ],
-  "alts": [
-   "מפצל חשמל ELECTRO, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/led-malcham-chashmali-sakal-30w.jpg": {
-  "pages": [
-   "madrich-led.html"
-  ],
-  "alts": [
-   "מלחם חשמלי מקצועי Sakal Electronics, 30W, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/instalazia-spadini-tzinor-metal-150.jpg": {
-  "pages": [
-   "blog-eyze-tzinor-miklachat.html"
-  ],
-  "alts": [
-   "צינור מתכת למקלחת SPADINI באורך 1.50 מטר עם מחברי פליז, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "צינור מתכת שרשורי SPADINI 1.50 מטר עם מחברי פליז ומפתח, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/instalazia-spadini-tzinor-spirala-plus.jpg": {
-  "pages": [
-   "blog-eyze-tzinor-miklachat.html"
-  ],
-  "alts": [
-   "צינור מתכת ספירלה פלוס SPADINI 1.50–1.70 מטר עם מחברי פליז, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/instalazia-spring-spidex-tzinor-mikla.jpg": {
-  "pages": [
-   "blog-eyze-tzinor-miklachat.html"
-  ],
-  "alts": [
-   "צינור מקלחת גמיש SPRING Spidex בציפוי רשת נירוסטה, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/bidud-silikon-high-tack.jpg": {
-  "pages": [
-   "blog-ovesh-bamiklachat.html",
-   "blog-silikon-o-montack.html",
-   "madrich-bidud.html",
-   "ru-stroitelnye-materialy.html",
-   "blog-itum-ambatia.html",
-   "madrich-chomrei-binyan.html",
-   "instalazia.html"
-  ],
-  "alts": [
-   "שפופרות סיליקון לאיטום, כפי שנמכרות באבי סנטר טמבוריה חולון",
-   "שפופרות סיליקון ו-High Tack, כפי שנמכרות באבי סנטר טמבוריה חולון",
-   "סיליקון לאיטום אמבטיה וכיור, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Силикон для ванны и раковины — «Ави Сентер», Холон"
-  ]
- },
- "/images/shikpul-mechona-mugan.jpg": {
-  "pages": [
-   "shikpul.html"
-  ],
-  "alts": [
-   "מכונה לשכפול מפתחות מוגנים, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/avi-mechonat-shichpul.jpg": {
-  "pages": [
-   "shikpul.html"
-  ],
-  "alts": [
-   "אבי ליד מכונת השכפול, אבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/shikpul-machinat-shichpul.jpg": {
-  "pages": [
-   "shikpul.html",
-   "ru.html",
-   "blog-shichpul-mafteach-multilock.html"
-  ],
-  "alts": [
-   "מכונת שכפול מפתחות מקצועית בחנות, כפי שמשמשת באבי סנטר טמבוריה חולון",
-   "Станок для изготовления дубликатов ключей в магазине «Ави Сентер», Холон",
-   "מכונת שכפול מפתחות, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/shikpul-shalshelet-maftech-galgal.jpg": {
-  "pages": [
-   "shikpul.html",
-   "blog-shichpul-mafteach-teivat-doar.html"
-  ],
-  "alts": [
-   "שלשלאות מפתחות מתפתלות צבעוניות, כפי שנמכרות באבי סנטר טמבוריה חולון",
-   "מחזיקי מפתחות, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/shikpul-mechona-ilco-halley.jpg": {
-  "pages": [
-   "shikpul.html"
-  ],
-  "alts": [
-   "מכונת שכפול Ilco Halley BKA 2000, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/shikpul-mechona-kod.jpg": {
-  "pages": [
-   "shikpul.html"
-  ],
-  "alts": [
-   "מכונה לשכפול מפתחות לפי קוד, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-diben-borag-herman.jpg": {
-  "pages": [
-   "blog-eyze-dibel-lekir.html",
-   "madrich-klim.html",
-   "madrich-bragim.html",
-   "ru-krepezh.html",
-   "blog-eyze-mavreg-livchor.html"
-  ],
-  "alts": [
-   "20 יחידות דיבל ובורג 5x50 מ&quot;מ Herman, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Дюбели с шурупами 5×50 мм Herman, 20 шт. — «Ави Сентер», Холон",
-   "20 יחידות דיבל ובורג Herman, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/instalazia-berez-misnan-suifit.jpg": {
-  "pages": [
-   "blog-nikuy-mesanenet-berez.html",
-   "instalazia.html"
-  ],
-  "alts": [
-   "מאריך מסתובב לברז עם חסכם (מסננת), כפי שנמכר באבי סנטר טמבוריה חולון",
-   "מאריך מסתובב עם חסכם לברז, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/shikpul-keyline-board-melo-c.jpg": {
-  "pages": [
-   "blog-shichpul-mafteach-madrich.html"
-  ],
-  "alts": [
-   "לוח בוהני מפתחות KEYLINE עם עשרות סוגי מפתחות, כפי שמוצג באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/bidud-silikon-fixall-rtv.jpg": {
-  "pages": [
-   "ru-kley-germetik.html",
-   "madrich-bidud.html",
-   "ru-remont-na-domu.html"
-  ],
-  "alts": [
-   "Прозрачный силикон FixAll RTV — магазин «Ави Сентер», Холон",
-   "סיליקון RTV שקוף FixAll, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Силикон и герметики в магазине «Ави Сентер», Холон"
-  ]
- },
- "/images/bidud-high-tack-tuba.jpg": {
-  "pages": [
-   "ru-kley-germetik.html",
-   "madrich-bidud.html"
-  ],
-  "alts": [
-   "Сверхсильный клей High Tack в тюбике — магазин «Ави Сентер», Холон",
-   "High Tack דבק עוצמתי בשפורפרת, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/hadabara-devek-maga-polystick-super33.jpg": {
-  "pages": [
-   "ru-kley-germetik.html",
-   "madrich-bidud.html"
-  ],
-  "alts": [
-   "Контактный клей Polystick Super 33 — магазин «Ави Сентер», Холон",
-   "דבק מגע פוליסטיק Super 33 בפחית, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/bidud-super-glue-extra-strong.jpg": {
-  "pages": [
-   "ru-kley-germetik.html",
-   "madrich-bidud.html"
-  ],
-  "alts": [
-   "Суперклей Extra Strong — магазин «Ави Сентер», Холон",
-   "סופר גלו Extra Strong, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/bidud-epoxy-aqua-mend.jpg": {
-  "pages": [
-   "ru-kley-germetik.html",
-   "madrich-bidud.html"
-  ],
-  "alts": [
-   "Эпоксидная шпаклёвка Aqua-Mend — магазин «Ави Сентер», Холон",
-   "מרק אפוקסי אקווה-מנד, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/bidud-gumi-atima-herman.jpg": {
-  "pages": [
-   "ru-kley-germetik.html",
-   "madrich-bidud.html"
-  ],
-  "alts": [
-   "Уплотнитель Herman P-профиль для окон и дверей — магазин «Ави Сентер», Холон",
-   "גומי אטימה Herman P-profile לחלונות ודלתות, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/manulim-onguard-832-laminated.jpg": {
-  "pages": [
-   "ru-kley-germetik.html",
-   "madrich-bidud.html"
-  ],
-  "alts": [
-   "Двусторонняя лента CEYS MONTACK Total Grip — магазин «Ави Сентер», Холон",
-   "סרט הדבקה דו-צדדי MONTACK Total Grip של CEYS, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/bidud-foam-tape-ginnva.jpg": {
-  "pages": [
-   "ru-kley-germetik.html",
-   "madrich-bidud.html"
-  ],
-  "alts": [
-   "Двусторонняя вспененная лента Ginnva 12 мм — магазин «Ави Сентер», Холон",
-   "סרט דבק דו-צדדי מקציף Ginnva 12 מ&quot;מ, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/bidud-magred-silikon-herman.jpg": {
-  "pages": [
-   "ru-kley-germetik.html",
-   "madrich-bidud.html"
-  ],
-  "alts": [
-   "Шпатель для удаления и выравнивания силикона Herman — магазин «Ави Сентер», Холон",
-   "מגרד ומיישר סיליקון Herman, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/bidud-ginnva-foam-tape.jpg": {
-  "pages": [
-   "madrich-bidud.html"
-  ],
-  "alts": [
-   "סרט דבק קצף דו-צדדי Ginnva, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/bidud-yaad-chem-pg999.jpg": {
-  "pages": [
-   "madrich-bidud.html"
-  ],
-  "alts": [
-   "דבק פלסטי PG-999 של YAAD CHEM – לעץ רך, בד, נייר וקרטון, 500 ו-1000 גרם, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/bidud-devek-epoxy-araldite-5-dakot.jpg": {
-  "pages": [
-   "madrich-bidud.html"
-  ],
-  "alts": [
-   "דבק אפוקסי Araldite מהיר 5 דקות, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/bidud-devek-epoxy-mahir-poxipol.jpg": {
-  "pages": [
-   "madrich-bidud.html"
-  ],
-  "alts": [
-   "דבק אפוקסי מהיר שקוף POXIPOL 10 דקות, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/bidud-seret-dvuku-av-hyderon.jpg": {
-  "pages": [
-   "madrich-bidud.html"
-  ],
-  "alts": [
-   "סרט הדבקה דו-צדדי עבה Hyderon, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/bidud-seret-dvuku-shakuf-vhb-fusion-luke.jpg": {
-  "pages": [
-   "madrich-bidud.html"
-  ],
-  "alts": [
-   "סרט הדבקה דו-צדדי שקוף VHB עמיד למים Fusion Luke, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/bidud-seret-dvuku-shakuf-herman-5m.jpg": {
-  "pages": [
-   "madrich-bidud.html"
-  ],
-  "alts": [
-   "סרט הדבקה דו-צדדי שקוף ומקצועי Herman 5 מטר, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/bidud-seret-bad-afor-herman.jpg": {
-  "pages": [
-   "madrich-bidud.html"
-  ],
-  "alts": [
-   "סרט בד אפור חזק Herman, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/bidud-migred-naayd-orderly.jpg": {
-  "pages": [
-   "madrich-bidud.html"
-  ],
-  "alts": [
-   "מגרד נייד עם סכיני רזרבה Orderly, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/bidud-super-glue-loctite.jpg": {
-  "pages": [
-   "madrich-bidud.html"
-  ],
-  "alts": [
-   "סופר גלו Loctite עמיד במים זוג שפופרות, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/bidud-devek-etz-elmers-carpenters.jpg": {
-  "pages": [
-   "madrich-bidud.html"
-  ],
-  "alts": [
-   "דבק עץ נגרים Elmer's Carpenter's, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/bidud-seret-dvuku-shakuf-vhb.jpg": {
-  "pages": [
-   "madrich-bidud.html"
-  ],
-  "alts": [
-   "סרט הדבקה דו-צדדי שקוף VHB עמיד למים, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/bidud-montack-ceys.jpg": {
-  "pages": [
-   "madrich-bidud.html",
-   "ru-stroitelnye-materialy.html",
-   "madrich-chomrei-binyan.html",
-   "blog-eyze-devek-lechomer.html"
-  ],
-  "alts": [
-   "דבק הרכבה MONTACK של CEYS, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Монтажный клей MONTACK от CEYS — «Ави Сентер», Холон",
-   "סרט הרכבה דו-צדדי MONTACK של ceys, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/nizila-chomrei-nikayon-durgol.jpg": {
-  "pages": [
-   "madrich-bidud.html",
-   "madrich-nizila.html",
-   "blog-avnit-bli-lifgoa-batzeva.html",
-   "ru-uborka.html"
-  ],
-  "alts": [
-   "חומרי ניקוי מקצועיים כולל Durgol, כפי שנמכרים באבי סנטר טמבוריה חולון",
-   "חומרי ניקוי מקצועיים כולל Durgol להסרת אבנית, כפי שנמכרים באבי סנטר טמבוריה חולון",
-   "Профессиональные средства для уборки, включая Durgol — магазин «Ави Сентер», Холон"
-  ]
- },
- "/images/chanut-pina-shelet-22.jpg": {
-  "pages": [
-   "shchunot.html"
-  ],
-  "alts": [
-   "השלט של אבי סנטר בפינת המרכז המסחרי, קרן היסוד 1, קריית שרת, חולון"
-  ]
- },
- "/images/chanut-pnim-sratim-devakim.jpg": {
-  "pages": [
-   "shchunot.html"
-  ],
-  "alts": [
-   "מדפי סרטי הדבקה, דבקים ואזיקונים בתוך חנות אבי סנטר טמבוריה בקריית שרת חולון"
-  ]
- },
- "/images/bayit-agalat-kniyot-prachim.jpg": {
-  "pages": [
-   "blog-eyze-agalat-kniyot.html",
-   "ru-telezhki.html",
-   "madrich-agalot.html"
-  ],
-  "alts": [
-   "עגלת קניות נוריאלי בהדפס פרחים, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Тележка для покупок Нуриэли, цветы — «Ави Сентер», Холон"
-  ]
- },
- "/images/bayit-agalat-kniyot-parparim.jpg": {
-  "pages": [
-   "blog-eyze-agalat-kniyot.html",
-   "ru-telezhki.html",
-   "madrich-agalot.html"
-  ],
-  "alts": [
-   "עגלת קניות נוריאלי בהדפס פרפרים, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Тележка для покупок Нуриэли, бабочки — «Ави Сентер», Холон"
-  ]
- },
- "/images/bayit-agalat-kniyot-yeruka.jpg": {
-  "pages": [
-   "blog-eyze-agalat-kniyot.html"
-  ],
-  "alts": [
-   "עגלת קניות נוריאלי בירוק ושחור, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/manulim-manul-herman-16mm.jpg": {
-  "pages": [
-   "blog-eyze-manul-anti-snap.html",
-   "madrich-manulin.html"
-  ],
-  "alts": [
-   "מנעול רתק Herman 16 מ&quot;מ, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "מנעול רתק Herman 16 מ&quot;מ עם 3 מפתחות, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/chanut-chazit-silca.jpg": {
-  "pages": [
-   "odot.html"
-  ],
-  "alts": [
-   "חזית החנות אבי סנטר טמבוריה, קרן היסוד 1, קריית שרת, חולון – שלט שכפול מפתחות"
-  ]
- },
- "/images/hadabara-malkodet-yetushim-herman.jpg": {
-  "pages": [
-   "blog-hadabara-bayit-madrich.html",
-   "madrich-hadabara.html"
-  ],
-  "alts": [
-   "מלכודת לוח דבק צהוב Herman ללכידת יתושים וזבובים, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/hadabara-gel-tikanim-torpedo.jpg": {
-  "pages": [
-   "blog-hadabara-bayit-madrich.html",
-   "madrich-hadabara.html",
-   "ru-vrediteli.html"
-  ],
-  "alts": [
-   "פתיון ג&#39;ל טורפדו להדברת תיקנים (ג&#39;וקים), כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Гель Torpedo от тараканов — магазин «Ави Сентер», Холон"
-  ]
- },
- "/images/hadabara-malkodet-zvuvei-perot.jpg": {
-  "pages": [
-   "blog-hadabara-bayit-madrich.html",
-   "madrich-hadabara.html",
-   "ru-vrediteli.html"
-  ],
-  "alts": [
-   "מלכודת דבק לזבובי פירות (Drosophila), כפי שנמכרת באבי סנטר טמבוריה חולון",
-   "Ловушка для плодовых мушек — магазин «Ави Сентер», Холон"
-  ]
- },
- "/images/manulim-tzilinder-keylocx.jpg": {
-  "pages": [
-   "blog-naalti-bachutz-mah-osim.html",
-   "ru-zamki.html",
-   "madrich-manulin.html"
-  ],
-  "alts": [
-   "צילינדר KeylocX לדלת כניסה, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Цилиндр KeylocX в магазине «Ави Сентер», Холон",
-   "Цилиндр KeylocX для входной двери — магазин «Ави Сентер», Холон",
-   "צילינדר KeylocX לדלת כניסה עם 3 מפתחות, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-herman-diben-4x40.jpg": {
-  "pages": [
-   "ru-stroitelnye-materialy.html",
-   "madrich-chomrei-binyan.html",
-   "madrich-klim.html",
-   "ru-instrumenty.html"
-  ],
-  "alts": [
-   "Дюбели и шурупы HERMAN 4×40 — «Ави Сентер», Холон",
-   "דיבלים וברגים HERMAN 4×40, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "דיבל 6 + בורג 4×40 Herman, 40 יחידות, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Дюбели и шурупы Herman 4×40, 40 шт. — магазин «Ави Сентер», Холон"
-  ]
- },
- "/images/tzvia-michchol-tokyo-4inch.jpg": {
-  "pages": [
-   "madrich-tzvia.html"
-  ],
-  "alts": [
-   "מברשת צבע TOKYO 4 אינץ' עם שיער טבעי 100%, כפי שנמכרת באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/tzvia-michchol-set-bordo.jpg": {
-  "pages": [
-   "madrich-tzvia.html",
-   "ru-kraski.html"
-  ],
-  "alts": [
-   "סט מברשות צבע במידות שונות למראה ולגלסתר, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Набор кистей разных размеров — магазин «Ави Сентер», Холон"
-  ]
- },
- "/images/tzvia-mivreshet-25-diy-weingarten.jpg": {
-  "pages": [
-   "madrich-tzvia.html"
-  ],
-  "alts": [
-   "מברשות צבע 2.5 אינץ׳ – D.I.Y של יעקבי ו-Weingarten, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/tzvia-mivreshet-hercules-tokyo.jpg": {
-  "pages": [
-   "madrich-tzvia.html"
-  ],
-  "alts": [
-   "מברשות צבע הרקולס 1.5 ו-2 אינץ׳ ו-TOKYO 2000 בגודל 2.5 אינץ׳, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/tzvia-mivreshet-1-diy.jpg": {
-  "pages": [
-   "madrich-tzvia.html"
-  ],
-  "alts": [
-   "מברשת צבע 1 אינץ׳ D.I.Y של יעקבי, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/tzvia-erkat-mini-roller-all.jpg": {
-  "pages": [
-   "madrich-tzvia.html",
-   "ru-kraski.html"
-  ],
-  "alts": [
-   "ערכת מיני רולר ALL עם מגש, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Мини-валик ALL с кюветой — магазин «Ави Сентер», Холон"
-  ]
- },
- "/images/tzvia-magash-roller-kachol.jpg": {
-  "pages": [
-   "madrich-tzvia.html"
-  ],
-  "alts": [
-   "מגש צבע עם רולר, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/tzvia-erkat-magash-roller.jpg": {
-  "pages": [
-   "madrich-tzvia.html",
-   "ru-kraski.html"
-  ],
-  "alts": [
-   "ערכת מגש ורולר לצביעה, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Валик с кюветой для покраски — магазин «Ави Сентер», Холон"
-  ]
- },
- "/images/tzvia-golel-decor-adom.jpg": {
-  "pages": [
-   "madrich-tzvia.html"
-  ],
-  "alts": [
-   "מגש וגליל מיקרופייבר 9 אינץ' DECOR לצביעת קירות"
-  ]
- },
- "/images/tzvia-tape-niyar-hagana.jpg": {
-  "pages": [
-   "madrich-tzvia.html"
-  ],
-  "alts": [
-   "גלילי סרט הדבקה רחב, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/tzvia-golel-super-save.jpg": {
-  "pages": [
-   "madrich-tzvia.html",
-   "blog-eyze-roller-livchor.html"
-  ],
-  "alts": [
-   "מגש וגליל מיקרופייבר 9 אינץ&#x27; Super Save לצביעת קירות",
-   "מגש וגליל מיקרופייבר 9 אינץ&#39; Super Save לצביעת קירות"
-  ]
- },
- "/images/tzvia-niyar-letesh-galil.jpg": {
-  "pages": [
-   "madrich-tzvia.html"
-  ],
-  "alts": [
-   "נייר לטש בגליל, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/tzvia-roller-conan-9.jpg": {
-  "pages": [
-   "madrich-tzvia.html"
-  ],
-  "alts": [
-   "רולר 9 אינץ׳ Conan עם ידית, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/tzvia-roler-mini-run-topman.jpg": {
-  "pages": [
-   "madrich-tzvia.html"
-  ],
-  "alts": [
-   "רולר מיני RUN TOPMAN לצביעת פינות ושטחים קטנים, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/tzvia-hammerite-metal-paint.jpg": {
-  "pages": [
-   "madrich-tzvia.html",
-   "ru-kraski.html",
-   "blog-tzviat-matechet.html"
-  ],
-  "alts": [
-   "צבע מתכת Hammerite נגד חלודה, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Краска по металлу Hammerite в магазине «Ави Сентер», Холон",
-   "Краска по металлу Hammerite от ржавчины — магазин «Ави Сентер», Холон"
-  ]
- },
- "/images/tzvia-mamis-tr-mineral.jpg": {
-  "pages": [
-   "madrich-tzvia.html",
-   "ru-kraski.html"
-  ],
-  "alts": [
-   "טינר ניטרו 21 של YAAD CHEM, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Растворитель Нитро 21 (YAAD CHEM) — магазин «Ави Сентер», Холон"
-  ]
- },
- "/images/tzvia-sprey-tzeva-okvi.jpg": {
-  "pages": [
-   "madrich-tzvia.html",
-   "ru-kraski.html"
-  ],
-  "alts": [
-   "צבע ספריי יעקבי לעץ ולמתכת, מגוון צבעים, באבי סנטר טמבוריה חולון",
-   "Аэрозольная краска Яакоби, разные цвета — магазин «Ави Сентер», Холон"
-  ]
- },
- "/images/klim-mareyot-klips-6-5-inch.jpg": {
-  "pages": [
-   "madrich-tzvia.html",
-   "blog-shpachtel-madrich.html"
-  ],
-  "alts": [
-   "מריות שפכטל KLIPS במידות 5 ו-6 אינץ&#x27;, כפי שנמכרות באבי סנטר טמבוריה חולון",
-   "מריות שפכטל KLIPS במידות 5 ו-6 אינץ', כפי שנמכרות באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/spadini-sakin-gimur-klips.jpg": {
-  "pages": [
-   "madrich-tzvia.html",
-   "blog-shpachtel-madrich.html"
-  ],
-  "alts": [
-   "סכיני שפכטל KLIPS במידות שונות, כפי שנמכרים באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/tzvia-bellissima-primer.jpg": {
-  "pages": [
-   "madrich-tzvia.html",
-   "blog-primer-lifney-tzviya.html"
-  ],
-  "alts": [
-   "פריימר אוניברסלי Bellissima Base D-A, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/tzvia-onetime-red-band.jpg": {
-  "pages": [
-   "madrich-tzvia.html",
-   "blog-shpachtel-madrich.html"
-  ],
-  "alts": [
-   "שפכטל מוכן לשימוש Red Devil OneTime, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/tzvia-denber-topcolor-polydor.jpg": {
-  "pages": [
-   "madrich-tzvia.html"
-  ],
-  "alts": [
-   "צבע עליון Denber – טופקולור ופולידור, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/tzvia-hammerite-mitachti-chum.jpg": {
-  "pages": [
-   "madrich-tzvia.html"
-  ],
-  "alts": [
-   "Hammerite צבע למתכת ישירות על חלודה – מתכתי חום, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/tzvia-hammerite-chalak-lavan.jpg": {
-  "pages": [
-   "madrich-tzvia.html"
-  ],
-  "alts": [
-   "Hammerite צבע למתכת ישירות על חלודה – חלק לבן, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/tzvia-hammerite-chalak-shachor.jpg": {
-  "pages": [
-   "madrich-tzvia.html"
-  ],
-  "alts": [
-   "Hammerite צבע למתכת ישירות על חלודה – חלק שחור, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/tzvia-tzeva-tambur-supercryl-matt-plus-5l.jpg": {
-  "pages": [
-   "madrich-tzvia.html"
-  ],
-  "alts": [
-   "צבע טמבור סופרקריל מט+ לבן 5 ליטר, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/tzvia-dli-super-sid-swi.jpg": {
-  "pages": [
-   "madrich-tzvia.html"
-  ],
-  "alts": [
-   "סופר סיד צבע סיד לקירות ותקרות SWI, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/tzvia-dli-anti-mold-swi.jpg": {
-  "pages": [
-   "madrich-tzvia.html"
-  ],
-  "alts": [
-   "צבע אנטי-מולד נגד עובש ופטריות SWI, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/tzvia-yeriyat-niylon-ginnva.jpg": {
-  "pages": [
-   "madrich-tzvia.html",
-   "ru-kraski.html"
-  ],
-  "alts": [
-   "יריעת ניילון להגנה על רצפה בזמן צביעה, כפי שנמכרת באבי סנטר טמבוריה חולון",
-   "Плёнка для защиты пола при покраске — магазин «Ави Сентер», Холон"
-  ]
- },
- "/images/tzvia-michol-katan-kachol.jpg": {
-  "pages": [
-   "madrich-tzvia.html"
-  ],
-  "alts": [
-   "מכחול צביעה קטן בידית כחולה לפינות ולעבודות עדינות, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/tzvia-set-michcholim-6.jpg": {
-  "pages": [
-   "madrich-tzvia.html"
-  ],
-  "alts": [
-   "סט 6 מכחולים לאומנות ולתיקונים קטנים, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/tzvia-ginnva-al-telachlech.jpg": {
-  "pages": [
-   "madrich-tzvia.html"
-  ],
-  "alts": [
-   "Ginnva &quot;אל תלכלך&quot; – יריעת כיסוי עם סרט דביק, 20 מטר (מילוי), באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/binyan-klips-mariya-10.jpg": {
-  "pages": [
-   "madrich-chomrei-binyan.html"
-  ],
-  "alts": [
-   "מרית שפכטל Klips 10 אינץ׳, להב פלדת פחמן, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/binyan-klips-mariya-8.jpg": {
-  "pages": [
-   "madrich-chomrei-binyan.html"
-  ],
-  "alts": [
-   "מרית שפכטל Klips 8 אינץ׳, להב פלדת פחמן, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/binyan-klips-mariya-6-5.jpg": {
-  "pages": [
-   "madrich-chomrei-binyan.html"
-  ],
-  "alts": [
-   "מריות שפכטל Klips 6 ו-5 אינץ׳, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/binyan-klips-mariya-5-4.jpg": {
-  "pages": [
-   "madrich-chomrei-binyan.html"
-  ],
-  "alts": [
-   "מריות שפכטל Klips 5 ו-4 אינץ׳, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/binyan-klips-mariya-3-2.jpg": {
-  "pages": [
-   "madrich-chomrei-binyan.html"
-  ],
-  "alts": [
-   "מריות שפכטל Klips 3 ו-2 אינץ׳, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/binyan-roveh-akrilit-tsivonit-swi.jpg": {
-  "pages": [
-   "madrich-chomrei-binyan.html"
-  ],
-  "alts": [
-   "רובה אקרילית צבעונית לאריחים SWI, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/binyan-roveh-tsivonit-mister-fix-117.jpg": {
-  "pages": [
-   "madrich-chomrei-binyan.html"
-  ],
-  "alts": [
-   "רובה צבעונית אקרילית מיסטר פיקס 117, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/binyan-sak-tiach-klasimo-x-tambur-5kg.jpg": {
-  "pages": [
-   "madrich-chomrei-binyan.html"
-  ],
-  "alts": [
-   "קלסימו X טמבור לתיקון חורים וסדקים בטיח 5 ק"
-  ]
- },
- "/images/dept-shikpul.jpg": {
-  "pages": [
-   "index.html"
-  ],
-  "alts": [
-   "שכפול מפתחות – אבי סנטר חולון"
-  ]
- },
- "/images/dept-manulin.jpg": {
-  "pages": [
-   "index.html"
-  ],
-  "alts": [
-   "מנעולים וצילינדרים – אבי סנטר חולון"
-  ]
- },
- "/images/dept-instalazia.jpg": {
-  "pages": [
-   "index.html"
-  ],
-  "alts": [
-   "אינסטלציה – אבי סנטר חולון"
-  ]
- },
- "/images/dept-spadini.jpg": {
-  "pages": [
-   "index.html"
-  ],
-  "alts": [
-   "SPADINI – אבי סנטר חולון"
-  ]
- },
- "/images/dept-tzvia.jpg": {
-  "pages": [
-   "index.html"
-  ],
-  "alts": [
-   "צבע וצביעה – אבי סנטר חולון"
-  ]
- },
- "/images/dept-bidud.jpg": {
-  "pages": [
-   "index.html"
-  ],
-  "alts": [
-   "דבקים ואיטום – אבי סנטר חולון"
-  ]
- },
- "/images/dept-led.jpg": {
-  "pages": [
-   "index.html"
-  ],
-  "alts": [
-   "חשמל ותאורה – אבי סנטר חולון"
-  ]
- },
- "/images/dept-klim.jpg": {
-  "pages": [
-   "index.html"
-  ],
-  "alts": [
-   "כלי עבודה – אבי סנטר חולון"
-  ]
- },
- "/images/dept-bragim.jpg": {
-  "pages": [
-   "index.html"
-  ],
-  "alts": [
-   "ברגים ופרזול – אבי סנטר חולון"
-  ]
- },
- "/images/dept-chomrei-binyan.jpg": {
-  "pages": [
-   "index.html"
-  ],
-  "alts": [
-   "חומרי בניין – אבי סנטר חולון"
-  ]
- },
- "/images/dept-gina.jpg": {
-  "pages": [
-   "index.html"
-  ],
-  "alts": [
-   "גינה והשקיה – אבי סנטר חולון"
-  ]
- },
- "/images/dept-hadabara.jpg": {
-  "pages": [
-   "index.html"
-  ],
-  "alts": [
-   "הדברה – אבי סנטר חולון"
-  ]
- },
- "/images/dept-nizila.jpg": {
-  "pages": [
-   "index.html"
-  ],
-  "alts": [
-   "ניקיון – אבי סנטר חולון"
-  ]
- },
- "/images/dept-agalot.jpg": {
-  "pages": [
-   "index.html"
-  ],
-  "alts": [
-   "עגלות וכביסה – אבי סנטר חולון"
-  ]
- },
- "/images/dept-klali.jpg": {
-  "pages": [
-   "index.html"
-  ],
-  "alts": [
-   "אביזרים לבית – אבי סנטר חולון"
-  ]
- },
- "/images/dept-tikunim.jpg": {
-  "pages": [
-   "index.html"
-  ],
-  "alts": [
-   "תיקונים עד הבית – אבי סנטר חולון"
-  ]
- },
- "/images/bayit-agalat-kniyot-hachaviv.jpg": {
-  "pages": [
-   "ru-telezhki.html",
-   "madrich-agalot.html"
-  ],
-  "alts": [
-   "Клетчатая тележка «Хахавив» — «Ави Сентер», Холон",
-   "עגלת קניות משובצת החביב, תוצרת ישראל, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/bayit-mitkan-yibush-kvisa.jpg": {
-  "pages": [
-   "ru-telezhki.html",
-   "madrich-agalot.html"
-  ],
-  "alts": [
-   "Сушилки для белья Нуриэли — «Ави Сентер», Холон",
-   "מתקני ייבוש כביסה מאלומיניום של נוריאלי, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/bayit-chevel-kvisa-metal.jpg": {
-  "pages": [
-   "ru-telezhki.html",
-   "madrich-agalot.html"
-  ],
-  "alts": [
-   "Металлическая бельевая верёвка в оплётке — «Ави Сентер», Холон",
-   "חבל כביסה מתכתי מצופה, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/bayit-chavlei-kvisa.jpg": {
-  "pages": [
-   "ru-telezhki.html",
-   "madrich-agalot.html"
-  ],
-  "alts": [
-   "Бельевые верёвки — «Ави Сентер», Холон",
-   "חבלי כביסה, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/bayit-atvei-kvisa-etz.jpg": {
-  "pages": [
-   "ru-telezhki.html",
-   "madrich-agalot.html"
-  ],
-  "alts": [
-   "Деревянные прищепки — «Ави Сентер», Холон",
-   "אטבי כביסה מעץ, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/bayit-atvei-kvisa-plastik.jpg": {
-  "pages": [
-   "ru-telezhki.html",
-   "madrich-agalot.html"
-  ],
-  "alts": [
-   "Пластиковые прищепки — «Ави Сентер», Холон",
-   "אטבי כביסה מפלסטיק, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/spadini-rosh-miklachat-agol.jpg": {
-  "pages": [
-   "madrich-spadini.html",
-   "ru-spadini.html"
-  ],
-  "alts": [
-   "ראש מקלחת עגול SPADINI, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Круглая лейка душа SPADINI — «Ави Сентер», Холон"
-  ]
- },
- "/images/spadini-set-miklachat-kir-mahleif.jpg": {
-  "pages": [
-   "madrich-spadini.html",
-   "ru-spadini.html"
-  ],
-  "alts": [
-   "סט מקלחת קיר עם ראש מקלחת מסאז' רב-תכליתי SPADINI, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Настенный душевой набор SPADINI с массажной лейкой — «Ави Сентер», Холон"
-  ]
- },
- "/images/instalazia-spadini-booster.jpg": {
-  "pages": [
-   "madrich-spadini.html",
-   "blog-lachatz-mayim-chalash-bemikla.html",
-   "ru.html",
-   "ru-spadini.html"
-  ],
-  "alts": [
-   "מקלח יד SPADINI בוסטר מגביר לחץ עם כדוריות סינון, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Лейки для душа SPADINI в магазине «Ави Сентер»",
-   "«Бустер»: усилитель напора — «Ави Сентер», Холон"
-  ]
- },
- "/images/instalazia-spadini-dallas-set.jpg": {
-  "pages": [
-   "madrich-spadini.html",
-   "blog-lehachlif-mazlef-mikla.html",
-   "ru-spadini.html"
-  ],
-  "alts": [
-   "מערכת רחצה SPADINI דאלאס עם צינור ומתלה בהדבקה, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "«Даллас»: набор с держателем — «Ави Сентер», Холон"
-  ]
- },
- "/images/instalazia-spadini-harmonia.jpg": {
-  "pages": [
-   "madrich-spadini.html",
-   "blog-lehachlif-mazlef-mikla.html",
-   "ru-santehnika.html",
-   "ru-spadini.html"
-  ],
-  "alts": [
-   "מקלח יד SPADINI הרמוניה, 5 מצבי זרימה, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Лейка для душа SPADINI в магазине «Ави Сентер», Холон",
-   "«Гармония»: 5 режимов — «Ави Сентер», Холон"
-  ]
- },
- "/images/instalazia-spadini-vegas.jpg": {
-  "pages": [
-   "madrich-spadini.html",
-   "blog-lehachlif-mazlef-mikla.html",
-   "ru-spadini.html"
-  ],
-  "alts": [
-   "מקלח יד SPADINI וגאס טורבו מסאז', 3 מצבים, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "«Вегас»: турбо-массаж — «Ави Сентер», Холон"
-  ]
- },
- "/images/instalazia-spadini-alpha-touch.jpg": {
-  "pages": [
-   "madrich-spadini.html",
-   "ru-spadini.html"
-  ],
-  "alts": [
-   "מקלח יד SPADINI אלפא טאץ' טורבו מסאז', כפי שנמכר באבי סנטר טמבוריה חולון",
-   "«Альфа Тач» — «Ави Сентер», Холон"
-  ]
- },
- "/images/instalazia-spadini-dolphin-plus-chrome.jpg": {
-  "pages": [
-   "madrich-spadini.html",
-   "instalazia.html",
-   "blog-mezalef-bide-hatkana.html"
-  ],
-  "alts": [
-   "מערכת בידה SPADINI דולפין פלוס בכרום, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "ספאדיני דולפין פלוס – מזלף בידה בגימור כרום עם צינור ספירלה, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/instalazia-spadini-la-rocca-plus.jpg": {
-  "pages": [
-   "madrich-spadini.html",
-   "blog-kiyor-mitbach-mitnakez-leat.html"
-  ],
-  "alts": [
-   "מסננת וונטיל SPADINI לה רוקה פלוס לכיור מטבח אמריקאי, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/instalazia-spadini-dallas.jpg": {
-  "pages": [
-   "madrich-spadini.html"
-  ],
-  "alts": [
-   "מקלח יד SPADINI דאלאס עם מיתזי סיליקון לניקוי אבנית, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/instalazia-spadini-alpha-touch-set.jpg": {
-  "pages": [
-   "madrich-spadini.html"
-  ],
-  "alts": [
-   "מערכת רחצה SPADINI אלפא טאץ', 5 מצבי זרימה, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/instalazia-spadini-dolphin-plus-white.jpg": {
-  "pages": [
-   "madrich-spadini.html"
-  ],
-  "alts": [
-   "מערכת בידה SPADINI דולפין פלוס בלבן-כתום, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/spadini-dolphin-plus-bide.jpg": {
-  "pages": [
-   "madrich-spadini.html"
-  ],
-  "alts": [
-   "מערכת מזלף בידה SPADINI דולפין פלוס, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/spadini-dolphin-top-plus.jpg": {
-  "pages": [
-   "madrich-spadini.html"
-  ],
-  "alts": [
-   "מערכת SPADINI דולפין טופ פלוס, צינור ספירלה 2 מ&#x27;, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/instalazia-tzinor-lachatz-rashafim.jpg": {
-  "pages": [
-   "blog-lachatz-mayim-chalash-bemikla.html",
-   "instalazia.html"
-  ],
-  "alts": [
-   "צינור לחץ משוריין רשפים לחיבור ברז/מכונת כביסה, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/instalazia-mazlef-spadini.jpg": {
-  "pages": [
-   "blog-lachatz-mayim-chalash-bemikla.html",
-   "blog-lehachlif-mazlef-mikla.html",
-   "instalazia.html"
-  ],
-  "alts": [
-   "מזלף מקלחת SPADINI עם פיות סיליקון Anti-Calc, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "מזלף מקלחת SPADINI עם צינור שזירה, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/instalazia-misnan-berez-filtro.jpg": {
-  "pages": [
-   "blog-lachatz-mayim-chalash-bemikla.html",
-   "instalazia.html"
-  ],
-  "alts": [
-   "מסנן מים לברז (Filtro de Agua) שתופס חלקיקי אבנית וחלודה, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-mad-hakif-uvit-mavreg.jpg": {
-  "pages": [
-   "madrich-klim.html",
-   "ru-instrumenty.html"
-  ],
-  "alts": [
-   "סרטי מדידה ומברגי טעינה מהירה 6-ב-1, כפי שנמכרים באבי סנטר טמבוריה חולון",
-   "Рулетки и быстрозарядные отвёртки 6-в-1, в продаже в магазине «Ави Сентер», Холон"
-  ]
- },
- "/images/klim-set-mafteachot-alen-conan-9.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "סט מפתחות אלן Conan, 9 יח' עד 10 מ"
-  ]
- },
- "/images/klim-set-mafteachot-alen-conan-arukim.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "סט ביטים Torx (T10–T50) Conan, 9 יח׳, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-set-tzvatot-orderly.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "סט 3 צבתות מקצועיות ORDERLY, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-combination-tool-orderly.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "פלאייר משולב (קומבינציה) ORDERLY, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-mafteach-shvedi-smith.jpg": {
-  "pages": [
-   "madrich-klim.html",
-   "ru-instrumenty.html"
-  ],
-  "alts": [
-   "מפתח שוודי מתכוונן SMITH, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Разводной ключ SMITH — магазин «Ави Сентер», Холон"
-  ]
- },
- "/images/klim-set-mini-pliers-orderly.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "סט 3 מיני-פלאיירים ORDERLY, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-pliers-hunter-6inch.jpg": {
-  "pages": [
-   "madrich-klim.html",
-   "ru-instrumenty.html"
-  ],
-  "alts": [
-   "פלאיירים Hunter 6 אינץ׳: חיתוך, קומבינציה ומחודד, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Кусачки Hunter в магазине «Ави Сентер», Холон"
-  ]
- },
- "/images/klim-plaier-tzinorot-conan.jpg": {
-  "pages": [
-   "madrich-klim.html",
-   "ru-instrumenty.html"
-  ],
-  "alts": [
-   "פלאייר צינורות מתכוונן Conan 10 אינץ׳, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Трубный ключ Conan 10&quot; — магазин «Ави Сентер», Холон"
-  ]
- },
- "/images/klim-set-mafteach-alan-hunter.jpg": {
-  "pages": [
-   "madrich-klim.html",
-   "ru-instrumenty.html"
-  ],
-  "alts": [
-   "סט מפתחות אלן Hunter Hex Key Set, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Набор шестигранников Hunter — магазин «Ави Сентер», Холон",
-   "Набор шестигранных ключей Hunter Hex Key Set, в продаже в магазине «Ави Сентер», Холон"
-  ]
- },
- "/images/klim-pliers-chituch-conan.jpg": {
-  "pages": [
-   "madrich-klim.html",
-   "ru-instrumenty.html"
-  ],
-  "alts": [
-   "פלייר חיתוך אלכסוני CONAN, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Кусачки диагональные CONAN, в продаже в магазине «Ави Сентер», Холон"
-  ]
- },
- "/images/klim-pliers-set-elmec.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "סט פלייר תלת-תכליתי Elmec, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-plaier-chituch-conan.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "פלאייר חיתוך Conan, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-plaier-chituch-tzahov.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "פלאייר חיתוך עם ידיות מבודדות, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-plaier-alachsoni-hunter.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "פלאייר חיתוך אלכסוני Hunter 6 אינץ׳, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-plaier-mechudad.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "פלאייר מחודד, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-plaier-neila-smith.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "פלאייר נעילה SMITH, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-mafteach-bragim-mitkaven-herman-12.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "מפתח ברגים מתכוונן 12 אינץ' Herman, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-set-mavreggim-alen-conan.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "סט מפתחות אלן Conan 9 יחידות, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-metrim-mitgalgelim.jpg": {
-  "pages": [
-   "madrich-klim.html",
-   "ru-instrumenty.html"
-  ],
-  "alts": [
-   "מטרים מתגלגלים 3, 5 ו-7.5 מטר, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Рулетки 3, 5 и 7,5 м — магазин «Ави Сентер», Холон",
-   "Рулетки 3, 5 и 7.5 метра, в продаже в магазине «Ави Сентер», Холон"
-  ]
- },
- "/images/klim-pales-mayim-katzar.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "פלס מים קצר, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-set-izmelim-conan.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "סט 4 איזמלי עץ מקצועיים Conan, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-disk-chituch-yahalom.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "דיסק חיתוך יהלום 4.5 אינץ&#39;, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-mivreshet-plaz-makdeach.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "מברשת פליז לניקוי חלודה למקדחה, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-makdeach-madregot-conan.jpg": {
-  "pages": [
-   "madrich-klim.html",
-   "ru-instrumenty.html"
-  ],
-  "alts": [
-   "מקדח מדרגות Conan, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Ступенчатое сверло Conan — магазин «Ави Сентер», Холон"
-  ]
- },
- "/images/klim-masor-barzel.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "מסור ברזל (מסגרת), כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-chotech-tsinorot-miktsoi.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "חותך צינורות מקצועי, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-lahavei-masor-metal-cnbos-t318a.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "להבי מסור דקופז למתכת HSS CNBOS T318A, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-lahavei-masor-metal-cnbos.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "5 להבי מסור דקופז למתכת HSS, CNBOS, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-disk-yahalom-turbo-conan-45.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "דיסק יהלום טורבו Conan 4.5 אינץ', כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-herman-borag-masger.jpg": {
-  "pages": [
-   "madrich-klim.html",
-   "madrich-bragim.html",
-   "ru-krepezh.html"
-  ],
-  "alts": [
-   "ברגים ארוכים עם דיבלים למסגרות Herman, כפי שנמכרים באבי סנטר טמבוריה חולון",
-   "Длинные шурупы с дюбелями для рам Herman — «Ави Сентер», Холон"
-  ]
- },
- "/images/klim-herman-borag-gips-4x18.jpg": {
-  "pages": [
-   "madrich-klim.html",
-   "madrich-bragim.html",
-   "ru-krepezh.html"
-  ],
-  "alts": [
-   "ברגים 4×18 מ״מ Herman, 80 יחידות, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Шурупы 4×18 мм Herman, 80 шт. — «Ави Сентер», Холон"
-  ]
- },
- "/images/klim-herman-diben-4-5x45.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "דיבל 7 + בורג 4.5×45 Herman, 30 יחידות, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-meshajef-hunter-350w.jpg": {
-  "pages": [
-   "madrich-klim.html",
-   "ru-instrumenty.html"
-  ],
-  "alts": [
-   "משייף אקסצנטרי Hunter 350W, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Эксцентриковая шлифмашина Hunter 350W — магазин «Ави Сентер», Холон"
-  ]
- },
- "/images/klim-wd40-rust-spray.jpg": {
-  "pages": [
-   "madrich-klim.html",
-   "ru-instrumenty.html"
-  ],
-  "alts": [
-   "שמן חודר WD-40 להברגה תקועה וחלודה, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Проникающая смазка WD-40 — магазин «Ави Сентер», Холон",
-   "Проникающее масло WD-40 для ржавых резьб, в продаже в магазине «Ави Сентер», Холон"
-  ]
- },
- "/images/klim-mavear-gaz-flame-gun.jpg": {
-  "pages": [
-   "madrich-klim.html",
-   "ru-instrumenty.html"
-  ],
-  "alts": [
-   "מבער גז Flame Gun עד 1000 מעלות, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Газовая горелка Flame Gun до 1000°C, в продаже в магазине «Ави Сентер», Холон"
-  ]
- },
- "/images/klim-malchetzet-pop-nitim.jpg": {
-  "pages": [
-   "madrich-klim.html",
-   "ru-instrumenty.html"
-  ],
-  "alts": [
-   "מלחצת פופ-ניטים ידנית 2.4-4.8 מ&quot;מ, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Ручной заклёпочник 2.4-4.8 мм, в продаже в магазине «Ави Сентер», Холон"
-  ]
- },
- "/images/klim-magredet-orderly.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "סט מגרדות ניידות Orderly Portable Scraper Set, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-misparaim-aviation-conan.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "מספריים לגזירת פח (Aviation Snips) CONAN, כפי שנמכרים באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-misparaim-gina-conan.jpg": {
-  "pages": [
-   "madrich-klim.html",
-   "ru-sad.html",
-   "madrich-gina.html"
-  ],
-  "alts": [
-   "מזמרה לגינה CONAN, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Секатор CONAN — магазин «Ави Сентер», Холон"
-  ]
- },
- "/images/klim-butagaz-lemavear.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "מיכל גז (בלון גז קטן) למבער, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-makatzim-brico.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "מציתים ארוכים וגמישים Brico, כפי שנמכרים באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-mashchezet-shulchan.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "משחזת שולחן להשחזת כלים, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-aziqonim.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "אזיקונים (רצועות קשירה) בכמה אורכים, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-ekdach-sikot-conan-14.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "אקדח סיכות Conan 14, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-mivreshet-til-megulvenet.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "מברשת תיל מגולוונת לניקוי יסודות, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-sikot-shchizut-conan-8mm.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "סיכות שחיזה 8 מ"
-  ]
- },
- "/images/klim-even-hashchaza-orderly-6.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "אבן השחזה 6 אינץ' Orderly, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-akdach-devek-cham-hunter-78w.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "אקדח דבק חם 78W Hunter, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-malcham-chashmali-sakal-30w.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "מלחם חשמלי 30W Sakal Electronics, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-mashevet-sheiva-ydanit-dp14.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "משאבת שאיבה ידנית DP-14, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-akdach-seret-smith-tape-dispenser.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "אקדח לסרט הדבקה Smith Tape Dispenser, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-akdach-sikot-conan-14mm.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "אקדח סיכות מקצועי 14 מ"
-  ]
- },
- "/images/klim-akdach-lehava-crownman.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "אקדח להבה Crownman עד 1300 מעלות, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-mishkafey-magen-conan.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "משקפי מגן בטיחות Conan, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-set-mavreggim-dyuk-power-9128.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "סט מברגי דיוק לאלקטרוניקה Power 9128, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-pakakim-ivrur-afor-katom.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "פקקי אוורור פלסטיק אפור-כתום, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-mivreshot-til-etz.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "מברשות תיל עץ לניקוי 2 דגמים, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-pakak-universali-herman.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "פקק אוניברסלי Herman, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-migred-naayd-orderly.jpg": {
-  "pages": [
-   "madrich-klim.html"
-  ],
-  "alts": [
-   "סט מגרד נייד עם סכיני רזרבה Orderly, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/instalazia-spadini-mefatzel.jpg": {
-  "pages": [
-   "ru-santehnika.html",
-   "blog-nezila-bashrutim-mah-osim.html",
-   "instalazia.html"
-  ],
-  "alts": [
-   "Механизм заполнения бачка унитаза SPADINI — магазин «Ави Сентер», Холон",
-   "מנגנון מילוי למיכל אסלה SPADINI, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/spadini-mazlefim-anti-calc.jpg": {
-  "pages": [
-   "ru-santehnika.html"
-  ],
-  "alts": [
-   "Лейки для душа SPADINI Anti-Calc — магазин «Ави Сентер», Холон"
-  ]
- },
- "/images/instalazia-tzinor-miklachat-spring-spidex.jpg": {
-  "pages": [
-   "ru-santehnika.html",
-   "instalazia.html"
-  ],
-  "alts": [
-   "Гибкий шланг для душа Spring Spidex — магазин «Ави Сентер», Холон",
-   "צינור מקלחת גמיש Spring Spidex 5.5 נטו, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/instalazia-moshav-aslah-spadini.jpg": {
-  "pages": [
-   "ru-santehnika.html",
-   "instalazia.html"
-  ],
-  "alts": [
-   "Сиденье для унитаза SPADINI S-5 — магазин «Ави Сентер», Холон",
-   "מושב אסלה SPADINI S-5 טורנדו, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/instalazia-kfitz-biyuv-miktzoi.jpg": {
-  "pages": [
-   "ru-santehnika.html",
-   "instalazia.html"
-  ],
-  "alts": [
-   "Трос для прочистки засоров — магазин «Ави Сентер», Холон",
-   "קפיץ ביוב מקצועי גמיש לפתיחת סתימות, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/instalazia-berez-zaviti-kisner.jpg": {
-  "pages": [
-   "ru-santehnika.html",
-   "instalazia.html"
-  ],
-  "alts": [
-   "Угловой кран Kisner с выходом для посудомойки — магазин «Ави Сентер», Холон",
-   "ברז זוויתי דו-כיווני Kisner ליציאה למדיח, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/instalazia-berez-kadur-kisner.jpg": {
-  "pages": [
-   "ru-santehnika.html",
-   "instalazia.html"
-  ],
-  "alts": [
-   "Угловой шаровой кран Kisner — магазин «Ави Сентер», Холон",
-   "ברז זווית כדורי Kisner, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/instalazia-berez-rechitza-spring.jpg": {
-  "pages": [
-   "ru-santehnika.html",
-   "instalazia.html"
-  ],
-  "alts": [
-   "Кран для стиральной машины Spring — магазин «Ави Сентер», Холон",
-   "ברז כביסה סטנדרטי Spring לחיבור מכונת כביסה, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/instalazia-yadit-berez-spring-zug.jpg": {
-  "pages": [
-   "ru-santehnika.html",
-   "instalazia.html"
-  ],
-  "alts": [
-   "Пара ручек для крана Spring (хром) — магазин «Ави Сентер», Холон",
-   "זוג ידיות ברז כרום Spring (חם/קר), כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/chanut-pnim-tzinorot-klim.jpg": {
-  "pages": [
-   "ru.html"
-  ],
-  "alts": [
-   "Сантехника и инструменты на полках магазина «Ави Сентер»"
-  ]
- },
- "/images/instalazia-berez-nituk-spring.jpg": {
-  "pages": [
-   "blog-nezila-bashrutim-mah-osim.html",
-   "instalazia.html"
-  ],
-  "alts": [
-   "ברז ניתוק (מסוט אסלה) Spring, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/instalazia-spring-spidex-pullout.jpg": {
-  "pages": [
-   "instalazia.html"
-  ],
-  "alts": [
-   "צינור מתכת גמיש SPRING Spidex לברז נשלף, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/instalazia-berez-mesanen-drainer.jpg": {
-  "pages": [
-   "instalazia.html"
-  ],
-  "alts": [
-   "מסנן מים Spring Chrome Drainer לפיית ברז, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/instalazia-yadit-braz-spring-bodedet.jpg": {
-  "pages": [
-   "instalazia.html"
-  ],
-  "alts": [
-   "ידית ברז כרום Spring בודדת, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/instalazia-spadini-gilyon-kit.jpg": {
-  "pages": [
-   "instalazia.html"
-  ],
-  "alts": [
-   "מנגנון מילוי (גליון) למיכל הדחה סמוי SPADINI, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/instalazia-mezalef-bide-dolphin.jpg": {
-  "pages": [
-   "instalazia.html",
-   "blog-mezalef-bide-hatkana.html"
-  ],
-  "alts": [
-   "מערכת מזלף בידה לאסלה עם צינור שזירה מסולסל, כפי שנמכרת באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/spadini-set-rosh-miklachat-tzinor.jpg": {
-  "pages": [
-   "instalazia.html"
-  ],
-  "alts": [
-   "סט ראש מקלחת עם צינור גמיש, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/instalazia-spadini-mini-sap-silikon.jpg": {
-  "pages": [
-   "instalazia.html"
-  ],
-  "alts": [
-   "ספאדיני מיני ספ סיליקון גמיש – ספ מים לכיור ולמקלחת, 1 מטר, עם דבק דו-צדדי, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/instalazia-spadini-dolphin-top-plus-chrome.jpg": {
-  "pages": [
-   "instalazia.html"
-  ],
-  "alts": [
-   "ספאדיני דולפין טופ פלוס – מזלף בידה בגימור כרום, צינור ספירלה 2 מ׳, עם דבק דו-צדדי, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/instalazia-spadini-spirala-plus-220.jpg": {
-  "pages": [
-   "instalazia.html"
-  ],
-  "alts": [
-   "צינור מתכת ספירלה פלוס SPADINI 2.00–2.20 מ׳ עם מחברי פליז ומפתח, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/instalazia-tzinor-metal-sfirala-kfula-m.jpg": {
-  "pages": [
-   "instalazia.html"
-  ],
-  "alts": [
-   "צינור מתכת מחוזק בספירלה כפולה, 1.5 מ׳, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/instalazia-rosh-miklachat-klasik-plus.jpg": {
-  "pages": [
-   "instalazia.html"
-  ],
-  "alts": [
-   "סט ראש מקלחת ומוט תליה קלאסיק פלוס ספאדיני, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/instalazia-tzinorot-pvc.jpg": {
-  "pages": [
-   "instalazia.html"
-  ],
-  "alts": [
-   "אביזרי צנרת PVC לאינסטלציה, כפי שנמכרים באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/nezila-tzinor-shezira-gamish.jpg": {
-  "pages": [
-   "instalazia.html",
-   "blog-nezila-mitzinor-gamish.html"
-  ],
-  "alts": [
-   "צינור שזירה גמיש לחץ משוריין, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/instalazia-dolphin-top-plus-ozgos.jpg": {
-  "pages": [
-   "instalazia.html"
-  ],
-  "alts": [
-   "מערכת דולפין טופ פלוס עוזגום, צינור ספירלה 2 מ&#x27;, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/instalazia-spadini-siphon-symphony.jpg": {
-  "pages": [
-   "instalazia.html"
-  ],
-  "alts": [
-   "ספאדיני סימפוניה – סיפון לכיור רחצה 1¼ עם צינור הורקה, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/instalazia-mitzaref-universali-spadini-tornado.jpg": {
-  "pages": [
-   "instalazia.html"
-  ],
-  "alts": [
-   "מצרף אוניברסלי ספאדיני טורנדו 3/8 אינץ', כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/instalazia-spadini-patra.jpg": {
-  "pages": [
-   "instalazia.html"
-  ],
-  "alts": [
-   "מכשיר SPADINI Patra לחיסכון במים, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/instalazia-dolphin-ozgos.jpg": {
-  "pages": [
-   "instalazia.html"
-  ],
-  "alts": [
-   "מערכת דולפין עוזגום לשטיפה הגיינית, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/instalazia-machzik-nyar-tualet-mikka-spadini.jpg": {
-  "pages": [
-   "instalazia.html"
-  ],
-  "alts": [
-   "מחזיק נייר טואלט כרום ספאדיני מיקקה, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/instalazia-pakak-universali-herman.jpg": {
-  "pages": [
-   "instalazia.html"
-  ],
-  "alts": [
-   "פקק אוניברסלי Herman, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/instalazia-ozgum-dolphin-top-plus.jpg": {
-  "pages": [
-   "blog-mezalef-bide-hatkana.html"
-  ],
-  "alts": [
-   "מערכת דולפין טופ פלוס של עוזגום עם צינור ספירלה 2 מטר, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/instalazia-ozgum-dolphin.jpg": {
-  "pages": [
-   "blog-mezalef-bide-hatkana.html"
-  ],
-  "alts": [
-   "מערכת דולפין של עוזגום עם צינור קלוע, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/manulim-tzilinder-magnum.jpg": {
-  "pages": [
-   "ru-zamki.html",
-   "blog-hachlafat-tzilinder.html",
-   "madrich-manulin.html"
-  ],
-  "alts": [
-   "Цилиндр Magnum в магазине «Ави Сентер», Холон",
-   "Цилиндр Magnum, 5 ключей в комплекте — магазин «Ави Сентер», Холон",
-   "צילינדר Magnum עם 5 מפתחות כלולים, מוצג בחנות אבי סנטר טמבוריה"
-  ]
- },
- "/images/manulim-tzilinder-nabob-7pin.jpg": {
-  "pages": [
-   "ru-zamki.html",
-   "madrich-manulin.html"
-  ],
-  "alts": [
-   "Цилиндр NABOB, 7 штифтов — магазин «Ави Сентер», Холон",
-   "צילינדר NABOB 7 Tumbler Pin System, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/manulim-salda-anti-snap.jpg": {
-  "pages": [
-   "ru-zamki.html",
-   "madrich-manulin.html"
-  ],
-  "alts": [
-   "Цилиндры SALDA Anti-Snap — магазин «Ави Сентер», Холон",
-   "צילינדר SALDA Anti-Snap להגנה מפני פריצה, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/manulim-manul-alba.jpg": {
-  "pages": [
-   "ru-zamki.html",
-   "madrich-manulin.html"
-  ],
-  "alts": [
-   "Навесной замок ALBA — магазин «Ави Сентер», Холон",
-   "מנעול תליה ALBA איכותי, מוצג בחנות אבי סנטר טמבוריה"
-  ]
- },
- "/images/manulim-manul-tzofen.jpg": {
-  "pages": [
-   "ru-zamki.html",
-   "madrich-manulin.html"
-  ],
-  "alts": [
-   "Кодовый замок Herman без ключа — магазин «Ави Сентер», Холон",
-   "מנעול צופן (קומבינציה) Herman ללא מפתח, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/manulim-onguard-premium.jpg": {
-  "pages": [
-   "ru-zamki.html",
-   "madrich-manulin.html"
-  ],
-  "alts": [
-   "Навесной замок OnGuard Premium — магазин «Ави Сентер», Холон",
-   "מנעול תליה OnGuard Premium Security, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/gina-tzinor-gina.jpg": {
-  "pages": [
-   "ru-sad.html",
-   "madrich-gina.html"
-  ],
-  "alts": [
-   "Садовый шланг — магазин «Ави Сентер», Холон",
-   "צינור גינה, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klali-vavim-s-nirosta.jpg": {
-  "pages": [
-   "ru-sad.html",
-   "madrich-gina.html",
-   "madrich-bragim.html",
-   "ru-krepezh.html",
-   "ru-tovary-dlya-doma.html",
-   "madrich-klali.html"
-  ],
-  "alts": [
-   "S-крючки из нержавейки для кашпо — магазин «Ави Сентер», Холон",
-   "ווי תלייה מנירוסטה בצורת S לתליית עציצים וכלים, כפי שנמכרים באבי סנטר טמבוריה חולון",
-   "ווי תלייה מנירוסטה בצורת S, כפי שנמכרים באבי סנטר טמבוריה חולון",
-   "S-образные крючки из нержавеющей стали — «Ави Сентер», Холон"
-  ]
- },
- "/images/gina-chaslazon-adama.jpg": {
-  "pages": [
-   "ru-sad.html",
-   "madrich-gina.html"
-  ],
-  "alts": [
-   "Средство от улиток ADAMA, 500 г — магазин «Ави Сентер», Холон",
-   "חסלזון ADAMA 500 גרם להדברת חלזונות ושבלולים, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/nizila-matlit-microfiber-set.jpg": {
-  "pages": [
-   "madrich-nizila.html",
-   "ru-uborka.html"
-  ],
-  "alts": [
-   "3 מטליות מיקרופייבר Mrs Omega לכל סוגי הרצפות, באבי סנטר טמבוריה חולון",
-   "Набор салфеток из микрофибры — магазин «Ави Сентер», Холон"
-  ]
- },
- "/images/nizila-mivreshet-aslah-vileda.jpg": {
-  "pages": [
-   "madrich-nizila.html",
-   "ru-uborka.html"
-  ],
-  "alts": [
-   "מערכת מברשת אסלה Vileda PowerBrush עם מעמד, כפי שנמכרת באבי סנטר טמבוריה חולון",
-   "Ёршик для унитаза Vileda PowerBrush — магазин «Ави Сентер», Холон"
-  ]
- },
- "/images/nizila-omeded-mivreshet-aslah-shayish.jpg": {
-  "pages": [
-   "madrich-nizila.html"
-  ],
-  "alts": [
-   "מעמד מברשת אסלה בגימור שיש, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/nizila-matlit-vileda-rainbow.jpg": {
-  "pages": [
-   "madrich-nizila.html"
-  ],
-  "alts": [
-   "מטליות ניקוי Vileda Rainbow, כפי שנמכרות באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/nizila-matateim-mivreshot.jpg": {
-  "pages": [
-   "madrich-nizila.html"
-  ],
-  "alts": [
-   "מטאטאים ומברשות רצפה, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/nizila-rashei-matate.jpg": {
-  "pages": [
-   "madrich-nizila.html"
-  ],
-  "alts": [
-   "ראשי מטאטא בצבעים, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/nizila-matateim-magavim.jpg": {
-  "pages": [
-   "madrich-nizila.html"
-  ],
-  "alts": [
-   "מטאטאים ומגבים לרצפה, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/nizila-dliim-mivreshot-asla.jpg": {
-  "pages": [
-   "madrich-nizila.html"
-  ],
-  "alts": [
-   "דליים בכמה צבעים ומברשות אסלה, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/nizila-vileda-magav-chalonot.jpg": {
-  "pages": [
-   "madrich-nizila.html"
-  ],
-  "alts": [
-   "מגב ידני לחלונות Vileda, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/nizila-tavlit-nikuy-aslah-hepi.jpg": {
-  "pages": [
-   "madrich-nizila.html"
-  ],
-  "alts": [
-   "טבליות ניקוי לאסלה Hepi בניחוח אוקיינוס, כפי שנמכרות באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/nizila-vilon-miklachat-bad.jpg": {
-  "pages": [
-   "madrich-nizila.html",
-   "ru-uborka.html"
-  ],
-  "alts": [
-   "וילון מקלחת בד, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Тканевая шторка для душа — магазин «Ави Сентер», Холон"
-  ]
- },
- "/images/nizila-mesanen-kiyor-11cm.jpg": {
-  "pages": [
-   "madrich-nizila.html"
-  ],
-  "alts": [
-   "מסננת נירוסטה לכיור, קוטר חיצוני 11.3 ס&quot;מ, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/nizila-mesanen-kiyor-inox.jpg": {
-  "pages": [
-   "madrich-nizila.html",
-   "ru-uborka.html"
-  ],
-  "alts": [
-   "מסנן כיור מנירוסטה, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Фильтр-сетка для раковины из нержавейки — магазин «Ави Сентер», Холон"
-  ]
- },
- "/images/nizila-soda-kavistit-pkicha.jpg": {
-  "pages": [
-   "madrich-nizila.html",
-   "ru-uborka.html"
-  ],
-  "alts": [
-   "סודה קאוסטית לפתיחת סתימות, כפי שנמכרת באבי סנטר טמבוריה חולון",
-   "Каустическая сода для прочистки засоров — магазин «Ави Сентер», Холон"
-  ]
- },
- "/images/nizila-mellerud-avnit.jpg": {
-  "pages": [
-   "madrich-nizila.html",
-   "ru-uborka.html"
-  ],
-  "alts": [
-   "Mellerud השיפוצניק MAX, חומר ניקוי חזק לרצפות על בסיס חומצה, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Mellerud — средство для очистки после ремонта — магазин «Ави Сентер», Холон"
-  ]
- },
- "/images/nizila-carbona-avnit.jpg": {
-  "pages": [
-   "madrich-nizila.html"
-  ],
-  "alts": [
-   "Carbona לניקוי שטיחים וריפודים, עם מברשת, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/nizila-nakoy-zchuchit-halonga.jpg": {
-  "pages": [
-   "madrich-nizila.html",
-   "ru-uborka.html"
-  ],
-  "alts": [
-   "מנקה זכוכית ומראות בהתזה, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Средство для стёкол и зеркал — магазин «Ави Сентер», Холон"
-  ]
- },
- "/images/nizila-poliboy-nikuy-rehitim.jpg": {
-  "pages": [
-   "madrich-nizila.html"
-  ],
-  "alts": [
-   "Poliboy פוליטורה לניקוי ריהוט עץ, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/nizila-mivreshot-yad.jpg": {
-  "pages": [
-   "madrich-nizila.html"
-  ],
-  "alts": [
-   "מברשות ניקוי ידניות, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/nizila-lint-roller.jpg": {
-  "pages": [
-   "madrich-nizila.html"
-  ],
-  "alts": [
-   "רולר להסרת מוך ושערות, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/nizila-yaa-plastik.jpg": {
-  "pages": [
-   "madrich-nizila.html"
-  ],
-  "alts": [
-   "יעה (כף אשפה) מפלסטיק, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/nizila-drain-out-potei-stimot.jpg": {
-  "pages": [
-   "madrich-nizila.html",
-   "blog-stima-bakiyor-kfitz.html"
-  ],
-  "alts": [
-   "פותח סתימות Drain Out, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/nizila-bakbuk-rissus.jpg": {
-  "pages": [
-   "madrich-nizila.html"
-  ],
-  "alts": [
-   "בקבוק ריסוס, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/nizila-durgol-forte.jpg": {
-  "pages": [
-   "madrich-nizila.html"
-  ],
-  "alts": [
-   "durgol FORTE – מסיר אבנית וכתמים מאסלות ומשתנות, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/nizila-durgol-mesir-even.jpg": {
-  "pages": [
-   "madrich-nizila.html"
-  ],
-  "alts": [
-   "durgol מסיר אבן למכשירים ביתיים – קומקום ומכונת קפה, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/nizila-durgol-miklachon.jpg": {
-  "pages": [
-   "madrich-nizila.html"
-  ],
-  "alts": [
-   "דורגול מקלחון – לזכוכית המקלחון, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/nizila-chaluda-out.jpg": {
-  "pages": [
-   "madrich-nizila.html"
-  ],
-  "alts": [
-   "חלודה OUT – ג׳ל להסרת כתמי חלודה, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/nizila-chalonix-brak.jpg": {
-  "pages": [
-   "madrich-nizila.html"
-  ],
-  "alts": [
-   "חלוניX ברק קריסטלי – מנקה שמשות, 1 ליטר, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/nizila-mellerud-ovesh.jpg": {
-  "pages": [
-   "madrich-nizila.html"
-  ],
-  "alts": [
-   "Mellerud משמיד עובש, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/nizila-mellerud-mazgan.jpg": {
-  "pages": [
-   "madrich-nizila.html"
-  ],
-  "alts": [
-   "Mellerud ניקוי וטיהור המזגן, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/nizila-fit-original.jpg": {
-  "pages": [
-   "madrich-nizila.html"
-  ],
-  "alts": [
-   "fit Original – נוזל לניקוי כלים, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/nizila-carbona-ripud-shtichim.jpg": {
-  "pages": [
-   "madrich-nizila.html"
-  ],
-  "alts": [
-   "קרבונה – מסיר כתמים מריפוד ושטיחים, עם מברשת, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/nizila-soda-kaustit-yaad-chem.jpg": {
-  "pages": [
-   "madrich-nizila.html"
-  ],
-  "alts": [
-   "סודה קאוסטית של YAAD CHEM, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/gina-ekdach-hashkaya.jpg": {
-  "pages": [
-   "madrich-gina.html"
-  ],
-  "alts": [
-   "אקדח השקיה עם מחברים מהירים, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klali-ecco-glide-rehitim.jpg": {
-  "pages": [
-   "madrich-bragim.html",
-   "madrich-klali.html"
-  ],
-  "alts": [
-   "מגני רגלי רהיטים ECCO Stick עגולים, כפי שנמכרים באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/bragim-brgei-igun-beton.jpg": {
-  "pages": [
-   "madrich-bragim.html",
-   "ru-krepezh.html"
-  ],
-  "alts": [
-   "ברגי עיגון מתפשטים לבטון, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Анкерные болты для бетона — «Ави Сентер», Холон"
-  ]
- },
- "/images/bragim-mivchar-bragei-etz.jpg": {
-  "pages": [
-   "madrich-bragim.html",
-   "ru-krepezh.html"
-  ],
-  "alts": [
-   "ברגים לעץ ולדיבלים במגוון מידות, באבי סנטר טמבוריה חולון",
-   "Шурупы по дереву и под дюбель разных размеров — «Ави Сентер», Холон"
-  ]
- },
- "/images/bragim-kufsat-bragim-philips.jpg": {
-  "pages": [
-   "madrich-bragim.html",
-   "ru-krepezh.html"
-  ],
-  "alts": [
-   "ברגי פיליפס שטוחי ראש בקופסה, באבי סנטר טמבוריה חולון",
-   "Шурупы Phillips с плоской головкой в коробке — «Ави Сентер», Холон"
-  ]
- },
- "/images/bragim-vavei-boreg-ein.jpg": {
-  "pages": [
-   "madrich-bragim.html",
-   "ru-krepezh.html"
-  ],
-  "alts": [
-   "ווי בורג – עין וקרס, באבי סנטר טמבוריה חולון",
-   "Ввинчиваемые крючки — кольцо и крюк — «Ави Сентер», Холон"
-  ]
- },
- "/images/bragim-vavei-l.jpg": {
-  "pages": [
-   "madrich-bragim.html"
-  ],
-  "alts": [
-   "ווי L להברגה, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/bragim-masmerim-titibi.jpg": {
-  "pages": [
-   "madrich-bragim.html"
-  ],
-  "alts": [
-   "מסמרי פלדה מוקשים titibi, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/bragim-ogney-filips-mechaniim.jpg": {
-  "pages": [
-   "madrich-bragim.html"
-  ],
-  "alts": [
-   "עוגני פיליפס מכניים לבטון, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/berez-yadiyot-krom-spring.jpg": {
-  "pages": [
-   "blog-tikun-nezila-beberez.html"
-  ],
-  "alts": [
-   "זוג ידיות ברז פנינה כרום SPRING, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klali-vavim-nidbakim.jpg": {
-  "pages": [
-   "ru-tovary-dlya-doma.html",
-   "madrich-klali.html"
-  ],
-  "alts": [
-   "Клейкие крючки для стены — «Ави Сентер», Холон",
-   "ווים נדבקים לקיר, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klali-vavim-nirosta-nidbakim.jpg": {
-  "pages": [
-   "ru-tovary-dlya-doma.html",
-   "blog-vavim-nidbakim.html",
-   "madrich-klali.html"
-  ],
-  "alts": [
-   "Клейкие крючки из нержавеющей стали — «Ави Сентер», Холон",
-   "ווים נדבקים מנירוסטה, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klali-misparayim.jpg": {
-  "pages": [
-   "ru-tovary-dlya-doma.html",
-   "madrich-klali.html"
-  ],
-  "alts": [
-   "Ножницы для дома и офиса — «Ави Сентер», Холон",
-   "מספריים לבית ולמשרד, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klali-shatichon-ambatia.jpg": {
-  "pages": [
-   "ru-tovary-dlya-doma.html",
-   "madrich-klali.html"
-  ],
-  "alts": [
-   "Противоскользящий коврик для ванной — «Ави Сентер», Холон",
-   "שטיחון אמבטיה מונע החלקה, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klali-yadit-achiza-herman.jpg": {
-  "pages": [
-   "ru-tovary-dlya-doma.html",
-   "madrich-klali.html"
-  ],
-  "alts": [
-   "Ручка-поручень Herman — «Ави Сентер», Холон",
-   "ידית אחיזה Herman, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klali-atvei-kvisa-tzivoniyim.jpg": {
-  "pages": [
-   "ru-tovary-dlya-doma.html",
-   "madrich-klali.html"
-  ],
-  "alts": [
-   "Цветные пластиковые прищепки — «Ави Сентер», Холон",
-   "אטבי כביסה מפלסטיק בצבעים, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klali-potchan-bakbukim-etz.jpg": {
-  "pages": [
-   "ru-tovary-dlya-doma.html",
-   "madrich-klali.html"
-  ],
-  "alts": [
-   "Открывалка с деревянной ручкой — «Ави Сентер», Холон",
-   "פותחן בקבוקים עם ידית עץ, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/instalazia-spadini-la-rocca-masnenet.jpg": {
-  "pages": [
-   "blog-kiyor-mitbach-mitnakez-leat.html"
-  ],
-  "alts": [
-   "מסננת נירוסטה SPADINI לה רוקה לכיור מטבח אמריקאי, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/manulim-onguard-827-laminated.jpg": {
-  "pages": [
-   "blog-eyze-manul-tliya.html",
-   "madrich-manulin.html"
-  ],
-  "alts": [
-   "מנעול תלייה מפלדה בשכבות (למינציה) OnGuard 827 עם הגנת Bump Blok, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "מנעול תלייה מפלדה בשכבות OnGuard 827 עם הגנת Bump Blok, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klali-vavim-nirosta-nidbakim-2.jpg": {
-  "pages": [
-   "madrich-klali.html"
-  ],
-  "alts": [
-   "ווים נדבקים מנירוסטה, בלי קידוח, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klali-klipsim-kviseh.jpg": {
-  "pages": [
-   "madrich-klali.html"
-  ],
-  "alts": [
-   "קליפסי כביסה צבעוניים לתלייה, כפי שנמכרים באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-mashpech-plastik.jpg": {
-  "pages": [
-   "madrich-klali.html"
-  ],
-  "alts": [
-   "משפכי פלסטיק בכמה גדלים, כפי שנמכרים באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klali-tzeva-bdim-ideal.jpg": {
-  "pages": [
-   "madrich-klali.html"
-  ],
-  "alts": [
-   "צבע לבדים IDEAL לכביסה במכונה, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klali-chevel-kalua.jpg": {
-  "pages": [
-   "madrich-klali.html"
-  ],
-  "alts": [
-   "חבל קלוע, נמכר לפי מטר, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klali-vavim-nidbakim-2kg.jpg": {
-  "pages": [
-   "madrich-klali.html"
-  ],
-  "alts": [
-   "ווים נדבקים עד 2 ק&quot;ג, בלי קידוח, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klali-ideal-tseva-badim-marine.jpg": {
-  "pages": [
-   "madrich-klali.html"
-  ],
-  "alts": [
-   "IDEAL צבע לבדים הכול-באחד – כחול נייבי, לכותנה, פשתן, משי וויסקוזה, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klali-ideal-tseva-badim-chocolat.jpg": {
-  "pages": [
-   "madrich-klali.html"
-  ],
-  "alts": [
-   "IDEAL צבע לבדים הכול-באחד – חום שוקולד, לכותנה, פשתן, משי וויסקוזה, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klali-chevel-rav-tachliti.jpg": {
-  "pages": [
-   "madrich-klali.html"
-  ],
-  "alts": [
-   "חבל רב-תכליתי לבן-כחול-אדום 1 מטר, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klali-kos-rav-paamit-camptown.jpg": {
-  "pages": [
-   "madrich-klali.html"
-  ],
-  "alts": [
-   "כוס קפה רב-פעמית ידידותית לסביבה CAMPTOWN, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klali-seret-kirtsuf-nikoy-yesodi.jpg": {
-  "pages": [
-   "madrich-klali.html"
-  ],
-  "alts": [
-   "סרט קרצוף לניקוי יסודי של משטחים 1 מטר, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klali-mivreshot-ritspa-shlosha-sugim.jpg": {
-  "pages": [
-   "madrich-klali.html"
-  ],
-  "alts": [
-   "ראשי מברשת רצפה להחלפה 3 סוגים, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klali-sechava-ritspa-milenium.jpg": {
-  "pages": [
-   "madrich-klali.html"
-  ],
-  "alts": [
-   "סחבת רצפה סחיטה מילניום סקוויג'י, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klali-mechonat-tisporet-kemei.jpg": {
-  "pages": [
-   "madrich-klali.html"
-  ],
-  "alts": [
-   "מכונת תספורת מקצועית Kemei עם טעינת USB, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klali-boks-hazrama-gold-sat-a7.jpg": {
-  "pages": [
-   "madrich-klali.html"
-  ],
-  "alts": [
-   "מקלט הזרמה 8K Gold Sat A7, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klali-refidot-leved-agulot-ecco-gdolot.jpg": {
-  "pages": [
-   "madrich-klali.html"
-  ],
-  "alts": [
-   "רפידות לבד עגולות דביקות גדולות להגנת רצפה ECCO, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klali-refidot-gumi-meruba-ecco-stick.jpg": {
-  "pages": [
-   "madrich-klali.html"
-  ],
-  "alts": [
-   "רפידות גומי מרובעות נגד החלקה ECCO Stick, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klali-refidot-leved-agulot-hyderon-16.jpg": {
-  "pages": [
-   "madrich-klali.html"
-  ],
-  "alts": [
-   "רפידות לבד עגולות דביקות Hyderon סט 16, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klali-misparot-gova-metal-krom.jpg": {
-  "pages": [
-   "madrich-klali.html"
-  ],
-  "alts": [
-   "ספרות מספור בית מתכת כרום, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klali-refidot-leved-agulot-ecco.jpg": {
-  "pages": [
-   "madrich-klali.html"
-  ],
-  "alts": [
-   "רפידות לבד עגולות דביקות ECCO, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/bayit-agalat-kniyot-nurieli-teluya.jpg": {
-  "pages": [
-   "madrich-agalot.html"
-  ],
-  "alts": [
-   "עגלת קניות נוריאלי ומתקני ייבוש כביסה, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/agalot-nurieli-mitkan-yibush-kt027a.jpg": {
-  "pages": [
-   "madrich-agalot.html"
-  ],
-  "alts": [
-   "מתקן לייבוש כביסה נוריאלי KT-027A, ציפוי אל-חלד, 180×55×105 ס&quot;מ, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/agalot-atvei-kvisa-yarok-katom.jpg": {
-  "pages": [
-   "madrich-agalot.html"
-  ],
-  "alts": [
-   "אטבי כביסה פלסטיק ירוק וכתום, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/bayit-magev-chalonot-teleskopi.jpg": {
-  "pages": [
-   "madrich-agalot.html",
-   "blog-nikuy-chalonot-gvohim.html"
-  ],
-  "alts": [
-   "מגבי חלונות עם מוט טלסקופי, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/bayit-vileda-powerbrush.jpg": {
-  "pages": [
-   "madrich-agalot.html"
-  ],
-  "alts": [
-   "סט מברשת אסלה Vileda PowerBrush, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/bayit-mivreshot-asla.jpg": {
-  "pages": [
-   "madrich-agalot.html"
-  ],
-  "alts": [
-   "מברשות אסלה Plastart, SPADINI ו-Vileda, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/bayit-mivreshet-asla-shayish.jpg": {
-  "pages": [
-   "madrich-agalot.html"
-  ],
-  "alts": [
-   "מברשות אסלה בעיצוב שיש, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/bayit-kolavim-etz.jpg": {
-  "pages": [
-   "madrich-agalot.html"
-  ],
-  "alts": [
-   "קולבי עץ, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/bayit-mitle-vavim-delet.jpg": {
-  "pages": [
-   "madrich-agalot.html"
-  ],
-  "alts": [
-   "מתלה ווים לדלת, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/hadabara-malkodet-luach-devek.jpg": {
-  "pages": [
-   "madrich-hadabara.html",
-   "ru-vrediteli.html"
-  ],
-  "alts": [
-   "מלכודת לוח דבק צהוב Herman ללכידת מזיקים מעופפים, 10 מלכודות עם חוט תלייה",
-   "Жёлтая клеевая ловушка Herman для насекомых — магазин «Ави Сентер», Холон"
-  ]
- },
- "/images/hadabara-gel-nemalim-topgel.jpg": {
-  "pages": [
-   "madrich-hadabara.html",
-   "ru-vrediteli.html"
-  ],
-  "alts": [
-   "פתיון ג&#39;ל TopGel להדברת נמלת האש הקטנה ונמלים אחרות, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Гель TopGel от муравьёв — магазин «Ави Сентер», Холон"
-  ]
- },
- "/images/hadabara-herman-malkodet-devek-achbarim.jpg": {
-  "pages": [
-   "madrich-hadabara.html",
-   "ru-vrediteli.html"
-  ],
-  "alts": [
-   "מלכודת דבק לעכברים HERMAN, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Клеевая ловушка HERMAN для мышей — магазин «Ави Сентер», Холон"
-  ]
- },
- "/images/hadabara-karat-malkodet-devek-achbarim.jpg": {
-  "pages": [
-   "madrich-hadabara.html"
-  ],
-  "alts": [
-   "מלכודת דבק לעכברים KARAT, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/hadabara-klips-magen-mivasem-aron-relevi.jpg": {
-  "pages": [
-   "madrich-hadabara.html"
-  ],
-  "alts": [
-   "קליפס מגן עש ומבשם ריח לבנדר לארון בגדים Relevi, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/manulim-herman-64mm.jpg": {
-  "pages": [
-   "madrich-manulin.html"
-  ],
-  "alts": [
-   "מנעול תליה Herman 64 מ&quot;מ, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/manulim-kevel-ofanaim-herman-adom.jpg": {
-  "pages": [
-   "madrich-manulin.html"
-  ],
-  "alts": [
-   "מנעול כבל לאופניים Herman, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/manulim-alba-shackle-arokh-1.jpg": {
-  "pages": [
-   "madrich-manulin.html"
-  ],
-  "alts": [
-   "מנעול תליה ALBA עם רתק ארוך, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/manulim-dynamic-pro-rav-bariach.jpg": {
-  "pages": [
-   "madrich-manulin.html"
-  ],
-  "alts": [
-   "צילינדר רב-בריח DYNAMIC PRO, 3 מפתחות, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/manulim-manul-taliya-rb.jpg": {
-  "pages": [
-   "madrich-manulin.html"
-  ],
-  "alts": [
-   "מנעול תליה פליז רב-בריח RB-100, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/manulim-manul-tzofen-geco.jpg": {
-  "pages": [
-   "madrich-manulin.html"
-  ],
-  "alts": [
-   "מנעול תליה עם צופן, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/manulim-onguard-865-aluminium.jpg": {
-  "pages": [
-   "madrich-manulin.html"
-  ],
-  "alts": [
-   "מנעול תליה אלומיניום OnGuard 865 עם רתק ארוך, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/manulim-padlock-50mm-gold-2.jpg": {
-  "pages": [
-   "madrich-manulin.html"
-  ],
-  "alts": [
-   "מנעול תליה 50 מ&quot;מ בגימור זהב, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/manulim-herman-44mm-mafteach.jpg": {
-  "pages": [
-   "madrich-manulin.html"
-  ],
-  "alts": [
-   "מנעול תלייה ALBA עם מפתחות, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/manulim-alba-n40.jpg": {
-  "pages": [
-   "madrich-manulin.html"
-  ],
-  "alts": [
-   "מנעול תלייה פליז Herman, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/manulim-alba-shackle-mafteach.jpg": {
-  "pages": [
-   "madrich-manulin.html"
-  ],
-  "alts": [
-   "מנעול תליה ALBA עם מפתחות, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/manulim-alba-n50.jpg": {
-  "pages": [
-   "madrich-manulin.html"
-  ],
-  "alts": [
-   "מנעול תליה ALBA N50, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/manulim-herman-15mm.jpg": {
-  "pages": [
-   "madrich-manulin.html"
-  ],
-  "alts": [
-   "מנעול תלייה Herman עם רתק מוקשה, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/manulim-padlock-50mm-gold.jpg": {
-  "pages": [
-   "madrich-manulin.html"
-  ],
-  "alts": [
-   "מנעול תליה זהב 50 מ&quot;מ, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/manulim-doberman-8034-tzofen.jpg": {
-  "pages": [
-   "madrich-manulin.html"
-  ],
-  "alts": [
-   "מנעול כבל עם צופן Doberman 8034, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/manulim-onguard-827.jpg": {
-  "pages": [
-   "madrich-manulin.html"
-  ],
-  "alts": [
-   "מנעול תליה OnGuard 827 פלדה מרובדת, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/manulim-onguard-832.jpg": {
-  "pages": [
-   "madrich-manulin.html"
-  ],
-  "alts": [
-   "מנעול תליה OnGuard 832 פלדה מרובדת, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/manulim-manul-delet-herman.jpg": {
-  "pages": [
-   "madrich-manulin.html"
-  ],
-  "alts": [
-   "ידית בטחון לדלת Herman בצבע לבן, כפי שנמכרת באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/manulim-kevel-spirala-herman.jpg": {
-  "pages": [
-   "madrich-manulin.html"
-  ],
-  "alts": [
-   "מנעול כבל ספירלי Herman עם מפתח, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/manulim-parsa-herman-245.jpg": {
-  "pages": [
-   "madrich-manulin.html"
-  ],
-  "alts": [
-   "מנעול פרסה ארוך Herman 245 מ&quot;מ, באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/dvakim-adhestick-devek-maga.jpg": {
-  "pages": [
-   "blog-devek-maga.html"
-  ],
-  "alts": [
-   "דבק מגע Adhestick לכל מטרה 50 מ״ל, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/dvakim-hercules-devek-maga-103.jpg": {
-  "pages": [
-   "blog-devek-maga.html"
-  ],
-  "alts": [
-   "דבק מגע סופר 103 של הרקולס, כפי שנמכר באבי סנטר טמבוריה חולון"
-  ]
- },
- "/images/klim-set-alen-hunter.jpg": {
-  "pages": [
-   "madrich-klim.html",
-   "ru-instrumenty.html"
-  ],
-  "alts": [
-   "סט מפתחות אלן Hunter, כפי שנמכר באבי סנטר טמבוריה חולון",
-   "Набор шестигранников Hunter в магазине «Ави Сентер», Холон"
-  ]
- }
+  "/images/icon-whatsapp-v58.png": {
+    "pages": [
+      "blog-hashkaya-mirpeset.html",
+      "blog-berez-metaftef.html",
+      "blog.html",
+      "ru-protechka-gibkij-shlang.html",
+      "blog-tikun-nezilat-mayim.html",
+      "blog-kama-norot-led-lecheder.html",
+      "blog-shpachtel-kir-gevs.html",
+      "ru-klyuchi.html",
+      "blog-mafteach-nishbar-bamanul.html",
+      "blog-kama-tzeva-lecheder.html",
+      "madrich-led.html",
+      "blog-eyze-tzinor-miklachat.html",
+      "ru-kakoj-dyubel.html",
+      "blog-ovesh-bamiklachat.html",
+      "shikpul.html",
+      "blog-eyze-dibel-lekir.html",
+      "blog-silikon-o-montack.html",
+      "blog-nikuy-mesanenet-berez.html",
+      "blog-shichpul-mafteach-madrich.html",
+      "tikunim.html",
+      "ru-kley-germetik.html",
+      "blog-melet-tit-o-devek-keramika.html",
+      "madrich-bidud.html",
+      "shchunot.html",
+      "blog-eyze-agalat-kniyot.html",
+      "blog-eyze-manul-anti-snap.html",
+      "odot.html",
+      "blog-hadabara-bayit-madrich.html",
+      "takanon.html",
+      "blog-naalti-bachutz-mah-osim.html",
+      "ru-stroitelnye-materialy.html",
+      "ru-remont-na-domu.html",
+      "madrich-tzvia.html",
+      "blog-itum-ambatia.html",
+      "madrich-chomrei-binyan.html",
+      "ru-zamena-cilindra.html",
+      "index.html",
+      "ru-telezhki.html",
+      "blog-shpachtel-zman-yibush.html",
+      "ru-kraski.html",
+      "ru-navesnoj-zamok.html",
+      "madrich-spadini.html",
+      "ru-zamena-lejki-dusha.html",
+      "ru-germetizaciya-vanny.html",
+      "blog-lachatz-mayim-chalash-bemikla.html",
+      "blog-eyze-devek-lechomer.html",
+      "ru-skolko-kraski.html",
+      "blog-primer-lifney-tzviya.html",
+      "madrich-klim.html",
+      "blog-lehachlif-mazlef-mikla.html",
+      "ru-santehnika.html",
+      "blog-shpachtel-madrich.html",
+      "ru.html",
+      "blog-nezila-bashrutim-mah-osim.html",
+      "instalazia.html",
+      "blog-mezalef-bide-hatkana.html",
+      "ru-zamki.html",
+      "ru-sad.html",
+      "blog-hachlafat-tzilinder.html",
+      "madrich-nizila.html",
+      "madrich-gina.html",
+      "blog-avnit-bli-lifgoa-batzeva.html",
+      "ru-instrumenty.html",
+      "blog-shichpul-mafteach-teivat-doar.html",
+      "blog-chomer-letikun-kirot.html",
+      "negishut.html",
+      "ru-slovar.html",
+      "madrich-bragim.html",
+      "ru-dublikat-multlok.html",
+      "ru-krepezh.html",
+      "blog-tikun-nezila-beberez.html",
+      "ru-tovary-dlya-doma.html",
+      "blog-tzviat-matechet.html",
+      "ru-rakovina-medlenno-stekaet.html",
+      "blog-vavim-nidbakim.html",
+      "blog-kiyor-mitbach-mitnakez-leat.html",
+      "blog-eyze-manul-tliya.html",
+      "ru-spadini.html",
+      "blog-eyze-mavreg-livchor.html",
+      "ru-protekaet-kran.html",
+      "madrich-klali.html",
+      "sheelot.html",
+      "ru-elektrika.html",
+      "madrich-agalot.html",
+      "blog-shichpul-mafteach-multilock.html",
+      "blog-eyze-roller-livchor.html",
+      "blog-nikuy-chalonot-gvohim.html",
+      "madrich-hadabara.html",
+      "blog-eyze-berez-livchor.html",
+      "blog-omes-chashmali-rav-sheka.html",
+      "madrich-manulin.html",
+      "blog-nezila-mitzinor-gamish.html",
+      "blog-stima-bakiyor-kfitz.html",
+      "ru-vrediteli.html",
+      "pratiut.html",
+      "blog-devek-maga.html",
+      "blog-shpachtel-kir-chitzoni.html",
+      "ru-uborka.html"
+    ],
+    "alts": [
+      "WhatsApp"
+    ]
+  },
+  "/images/icon-waze-v58.png": {
+    "pages": [
+      "blog-hashkaya-mirpeset.html",
+      "blog-berez-metaftef.html",
+      "blog.html",
+      "ru-protechka-gibkij-shlang.html",
+      "blog-tikun-nezilat-mayim.html",
+      "blog-kama-norot-led-lecheder.html",
+      "blog-shpachtel-kir-gevs.html",
+      "ru-klyuchi.html",
+      "blog-mafteach-nishbar-bamanul.html",
+      "blog-kama-tzeva-lecheder.html",
+      "madrich-led.html",
+      "blog-eyze-tzinor-miklachat.html",
+      "ru-kakoj-dyubel.html",
+      "blog-ovesh-bamiklachat.html",
+      "shikpul.html",
+      "blog-eyze-dibel-lekir.html",
+      "blog-silikon-o-montack.html",
+      "blog-nikuy-mesanenet-berez.html",
+      "blog-shichpul-mafteach-madrich.html",
+      "tikunim.html",
+      "ru-kley-germetik.html",
+      "blog-melet-tit-o-devek-keramika.html",
+      "madrich-bidud.html",
+      "shchunot.html",
+      "blog-eyze-agalat-kniyot.html",
+      "blog-eyze-manul-anti-snap.html",
+      "odot.html",
+      "blog-hadabara-bayit-madrich.html",
+      "takanon.html",
+      "blog-naalti-bachutz-mah-osim.html",
+      "ru-stroitelnye-materialy.html",
+      "ru-remont-na-domu.html",
+      "madrich-tzvia.html",
+      "blog-itum-ambatia.html",
+      "madrich-chomrei-binyan.html",
+      "404.html",
+      "ru-zamena-cilindra.html",
+      "index.html",
+      "ru-telezhki.html",
+      "blog-shpachtel-zman-yibush.html",
+      "ru-kraski.html",
+      "ru-navesnoj-zamok.html",
+      "madrich-spadini.html",
+      "ru-zamena-lejki-dusha.html",
+      "ru-germetizaciya-vanny.html",
+      "blog-lachatz-mayim-chalash-bemikla.html",
+      "blog-eyze-devek-lechomer.html",
+      "ru-skolko-kraski.html",
+      "blog-primer-lifney-tzviya.html",
+      "madrich-klim.html",
+      "blog-lehachlif-mazlef-mikla.html",
+      "ru-santehnika.html",
+      "blog-shpachtel-madrich.html",
+      "ru.html",
+      "blog-nezila-bashrutim-mah-osim.html",
+      "instalazia.html",
+      "blog-mezalef-bide-hatkana.html",
+      "ru-zamki.html",
+      "ru-sad.html",
+      "blog-hachlafat-tzilinder.html",
+      "madrich-nizila.html",
+      "madrich-gina.html",
+      "blog-avnit-bli-lifgoa-batzeva.html",
+      "ru-instrumenty.html",
+      "blog-shichpul-mafteach-teivat-doar.html",
+      "blog-chomer-letikun-kirot.html",
+      "negishut.html",
+      "ru-slovar.html",
+      "madrich-bragim.html",
+      "ru-dublikat-multlok.html",
+      "ru-krepezh.html",
+      "blog-tikun-nezila-beberez.html",
+      "ru-tovary-dlya-doma.html",
+      "blog-tzviat-matechet.html",
+      "ru-rakovina-medlenno-stekaet.html",
+      "blog-vavim-nidbakim.html",
+      "blog-kiyor-mitbach-mitnakez-leat.html",
+      "blog-eyze-manul-tliya.html",
+      "ru-spadini.html",
+      "blog-eyze-mavreg-livchor.html",
+      "ru-protekaet-kran.html",
+      "madrich-klali.html",
+      "sheelot.html",
+      "ru-elektrika.html",
+      "madrich-agalot.html",
+      "blog-shichpul-mafteach-multilock.html",
+      "blog-eyze-roller-livchor.html",
+      "blog-nikuy-chalonot-gvohim.html",
+      "madrich-hadabara.html",
+      "blog-eyze-berez-livchor.html",
+      "blog-omes-chashmali-rav-sheka.html",
+      "madrich-manulin.html",
+      "blog-nezila-mitzinor-gamish.html",
+      "blog-stima-bakiyor-kfitz.html",
+      "ru-vrediteli.html",
+      "pratiut.html",
+      "blog-devek-maga.html",
+      "blog-shpachtel-kir-chitzoni.html",
+      "ru-uborka.html"
+    ],
+    "alts": [
+      "Waze",
+      "Маршрут в Waze",
+      "נווטו בוויז"
+    ]
+  },
+  "/images/klali-mazleif-gina-colorfulyard.jpg": {
+    "pages": [
+      "blog-hashkaya-mirpeset.html",
+      "ru-sad.html",
+      "madrich-gina.html",
+      "madrich-klali.html"
+    ],
+    "alts": [
+      "מתז גינה רב-תכליתי Colorfulyard עם ידית, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Многофункциональный распылитель Colorfulyard — магазин «Ави Сентер», Холон"
+    ]
+  },
+  "/images/avi-meshachpel-mafteach.jpg": {
+    "pages": [
+      "blog-hashkaya-mirpeset.html",
+      "blog-berez-metaftef.html",
+      "ru-protechka-gibkij-shlang.html",
+      "blog-tikun-nezilat-mayim.html",
+      "blog-kama-norot-led-lecheder.html",
+      "blog-shpachtel-kir-gevs.html",
+      "ru-klyuchi.html",
+      "blog-mafteach-nishbar-bamanul.html",
+      "blog-kama-tzeva-lecheder.html",
+      "blog-eyze-tzinor-miklachat.html",
+      "ru-kakoj-dyubel.html",
+      "blog-ovesh-bamiklachat.html",
+      "shikpul.html",
+      "blog-eyze-dibel-lekir.html",
+      "blog-silikon-o-montack.html",
+      "blog-nikuy-mesanenet-berez.html",
+      "blog-shichpul-mafteach-madrich.html",
+      "blog-melet-tit-o-devek-keramika.html",
+      "blog-eyze-agalat-kniyot.html",
+      "blog-eyze-manul-anti-snap.html",
+      "odot.html",
+      "blog-hadabara-bayit-madrich.html",
+      "blog-naalti-bachutz-mah-osim.html",
+      "blog-itum-ambatia.html",
+      "ru-zamena-cilindra.html",
+      "blog-shpachtel-zman-yibush.html",
+      "ru-navesnoj-zamok.html",
+      "ru-zamena-lejki-dusha.html",
+      "ru-germetizaciya-vanny.html",
+      "blog-lachatz-mayim-chalash-bemikla.html",
+      "blog-eyze-devek-lechomer.html",
+      "ru-skolko-kraski.html",
+      "blog-primer-lifney-tzviya.html",
+      "blog-lehachlif-mazlef-mikla.html",
+      "blog-shpachtel-madrich.html",
+      "blog-nezila-bashrutim-mah-osim.html",
+      "blog-mezalef-bide-hatkana.html",
+      "blog-hachlafat-tzilinder.html",
+      "blog-avnit-bli-lifgoa-batzeva.html",
+      "blog-shichpul-mafteach-teivat-doar.html",
+      "blog-chomer-letikun-kirot.html",
+      "ru-dublikat-multlok.html",
+      "blog-tikun-nezila-beberez.html",
+      "blog-tzviat-matechet.html",
+      "ru-rakovina-medlenno-stekaet.html",
+      "blog-vavim-nidbakim.html",
+      "blog-kiyor-mitbach-mitnakez-leat.html",
+      "blog-eyze-manul-tliya.html",
+      "blog-eyze-mavreg-livchor.html",
+      "ru-protekaet-kran.html",
+      "blog-shichpul-mafteach-multilock.html",
+      "blog-eyze-roller-livchor.html",
+      "blog-nikuy-chalonot-gvohim.html",
+      "blog-eyze-berez-livchor.html",
+      "blog-omes-chashmali-rav-sheka.html",
+      "blog-nezila-mitzinor-gamish.html",
+      "blog-stima-bakiyor-kfitz.html",
+      "blog-devek-maga.html",
+      "blog-shpachtel-kir-chitzoni.html"
+    ],
+    "alts": [
+      "אבי, בעל החנות",
+      "Ави, владелец магазина",
+      "Ави делает дубликат ключа в магазине «Ави Сентер», Холон",
+      "אבי משכפל מפתח במכונה",
+      "אבי משכפל מפתח בחנות, אבי סנטר טמבוריה חולון",
+      "אבי, בעל החנות, משכפל מפתח במכונה באבי סנטר, חולון"
+    ]
+  },
+  "/images/gina-omega-tzinor-kfitz.jpg": {
+    "pages": [
+      "blog-hashkaya-mirpeset.html",
+      "ru-sad.html",
+      "madrich-gina.html"
+    ],
+    "alts": [
+      "צינור השקיה קפיצי OMEGA עד 7.5 מטר, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Спиральный шланг OMEGA 7,5 м — магазин «Ави Сентер», Холон"
+    ]
+  },
+  "/images/avi-meshachpel-mafteach-v59.webp": {
+    "pages": [
+      "blog-hashkaya-mirpeset.html",
+      "blog-berez-metaftef.html",
+      "blog.html",
+      "ru-protechka-gibkij-shlang.html",
+      "blog-tikun-nezilat-mayim.html",
+      "blog-kama-norot-led-lecheder.html",
+      "blog-shpachtel-kir-gevs.html",
+      "ru-klyuchi.html",
+      "blog-mafteach-nishbar-bamanul.html",
+      "blog-kama-tzeva-lecheder.html",
+      "madrich-led.html",
+      "blog-eyze-tzinor-miklachat.html",
+      "ru-kakoj-dyubel.html",
+      "blog-ovesh-bamiklachat.html",
+      "shikpul.html",
+      "blog-eyze-dibel-lekir.html",
+      "blog-silikon-o-montack.html",
+      "blog-nikuy-mesanenet-berez.html",
+      "blog-shichpul-mafteach-madrich.html",
+      "tikunim.html",
+      "ru-kley-germetik.html",
+      "blog-melet-tit-o-devek-keramika.html",
+      "madrich-bidud.html",
+      "shchunot.html",
+      "blog-eyze-agalat-kniyot.html",
+      "blog-eyze-manul-anti-snap.html",
+      "odot.html",
+      "blog-hadabara-bayit-madrich.html",
+      "takanon.html",
+      "blog-naalti-bachutz-mah-osim.html",
+      "ru-stroitelnye-materialy.html",
+      "ru-remont-na-domu.html",
+      "madrich-tzvia.html",
+      "blog-itum-ambatia.html",
+      "madrich-chomrei-binyan.html",
+      "ru-zamena-cilindra.html",
+      "index.html",
+      "ru-telezhki.html",
+      "blog-shpachtel-zman-yibush.html",
+      "ru-kraski.html",
+      "ru-navesnoj-zamok.html",
+      "madrich-spadini.html",
+      "ru-zamena-lejki-dusha.html",
+      "ru-germetizaciya-vanny.html",
+      "blog-lachatz-mayim-chalash-bemikla.html",
+      "blog-eyze-devek-lechomer.html",
+      "ru-skolko-kraski.html",
+      "blog-primer-lifney-tzviya.html",
+      "madrich-klim.html",
+      "blog-lehachlif-mazlef-mikla.html",
+      "ru-santehnika.html",
+      "blog-shpachtel-madrich.html",
+      "ru.html",
+      "blog-nezila-bashrutim-mah-osim.html",
+      "instalazia.html",
+      "blog-mezalef-bide-hatkana.html",
+      "ru-zamki.html",
+      "ru-sad.html",
+      "blog-hachlafat-tzilinder.html",
+      "madrich-nizila.html",
+      "madrich-gina.html",
+      "blog-avnit-bli-lifgoa-batzeva.html",
+      "ru-instrumenty.html",
+      "blog-shichpul-mafteach-teivat-doar.html",
+      "blog-chomer-letikun-kirot.html",
+      "negishut.html",
+      "ru-slovar.html",
+      "madrich-bragim.html",
+      "ru-dublikat-multlok.html",
+      "ru-krepezh.html",
+      "blog-tikun-nezila-beberez.html",
+      "ru-tovary-dlya-doma.html",
+      "blog-tzviat-matechet.html",
+      "ru-rakovina-medlenno-stekaet.html",
+      "blog-vavim-nidbakim.html",
+      "blog-kiyor-mitbach-mitnakez-leat.html",
+      "blog-eyze-manul-tliya.html",
+      "ru-spadini.html",
+      "blog-eyze-mavreg-livchor.html",
+      "ru-protekaet-kran.html",
+      "madrich-klali.html",
+      "sheelot.html",
+      "ru-elektrika.html",
+      "madrich-agalot.html",
+      "blog-shichpul-mafteach-multilock.html",
+      "blog-eyze-roller-livchor.html",
+      "blog-nikuy-chalonot-gvohim.html",
+      "madrich-hadabara.html",
+      "blog-eyze-berez-livchor.html",
+      "blog-omes-chashmali-rav-sheka.html",
+      "madrich-manulin.html",
+      "blog-nezila-mitzinor-gamish.html",
+      "blog-stima-bakiyor-kfitz.html",
+      "ru-vrediteli.html",
+      "pratiut.html",
+      "blog-devek-maga.html",
+      "blog-shpachtel-kir-chitzoni.html",
+      "ru-uborka.html"
+    ],
+    "alts": [
+      "אבי בחנות",
+      "Ави в магазине",
+      "אבי משכפל מפתח"
+    ]
+  },
+  "/images/instalazia-berez-mitbach-chrome.jpg": {
+    "pages": [
+      "blog-berez-metaftef.html",
+      "ru-remont-na-domu.html",
+      "instalazia.html",
+      "blog-eyze-berez-livchor.html"
+    ],
+    "alts": [
+      "ברז מטבח, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Кухонный смеситель в магазине «Ави Сентер», Холон",
+      "ברז מטבח כרום עם זרוע גבוהה, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/dept-manulin-t60.webp": {
+    "pages": [
+      "blog.html"
+    ],
+    "alts": [
+      "מחלקת מנעולים, אבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/dept-chomrei-binyan-t60.webp": {
+    "pages": [
+      "blog.html"
+    ],
+    "alts": [
+      "מחלקת חומרי בניין, אבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/dept-tzvia-t60.webp": {
+    "pages": [
+      "blog.html"
+    ],
+    "alts": [
+      "מחלקת צבעים, אבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/dept-bidud-t60.webp": {
+    "pages": [
+      "blog.html"
+    ],
+    "alts": [
+      "מחלקת איטום ובידוד, אבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/dept-instalazia-t60.webp": {
+    "pages": [
+      "blog.html"
+    ],
+    "alts": [
+      "מחלקת אינסטלציה, אבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/dept-klim-t60.webp": {
+    "pages": [
+      "blog.html"
+    ],
+    "alts": [
+      "מחלקת כלים, אבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/instalazia-spadini-tzinor-shirshuri-15.jpg": {
+    "pages": [
+      "blog-tikun-nezilat-mayim.html",
+      "blog-eyze-tzinor-miklachat.html",
+      "ru-santehnika.html"
+    ],
+    "alts": [
+      "צינור שזירה SPADINI, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "צינור שרשורי SPADINI באורך 1.5 מטר למקלח יד, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Шланг для душа SPADINI в магазине «Ави Сентер», Холон"
+    ]
+  },
+  "/images/led-nurot-luxten-megatop.jpg": {
+    "pages": [
+      "blog-kama-norot-led-lecheder.html"
+    ],
+    "alts": [
+      "נורות LED LUXTEN ו-Megatop במגוון עוצמות, כפי שנמכרות באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/tzvia-dliyim-swi-pentex.jpg": {
+    "pages": [
+      "blog-shpachtel-kir-gevs.html",
+      "ru-stroitelnye-materialy.html",
+      "madrich-tzvia.html",
+      "madrich-chomrei-binyan.html",
+      "blog-shpachtel-zman-yibush.html",
+      "ru-kraski.html",
+      "blog-chomer-letikun-kirot.html",
+      "blog-shpachtel-kir-chitzoni.html"
+    ],
+    "alts": [
+      "שפכטל וצבע אקרילי SWI ו-PENTEX, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Шпаклёвка и акриловая краска SWI и PENTEX — «Ави Сентер», Холон",
+      "Краски и шпаклёвка SWI и PENTEX в магазине «Ави Сентер», Холон",
+      "Шпаклёвка и акриловая краска SWI и PENTEX — магазин «Ави Сентер», Холон"
+    ]
+  },
+  "/images/shikpul-kir-maftechot-keyline-c.jpg": {
+    "pages": [
+      "ru-klyuchi.html",
+      "blog-mafteach-nishbar-bamanul.html",
+      "shikpul.html",
+      "ru.html"
+    ],
+    "alts": [
+      "Стенд с заготовками ключей KEYLINE в магазине «Ави Сентер»",
+      "קיר מפתחות KEYLINE מלא, מעל 100 סוגי ריקים באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/tzvia-golel-mikrofiber-shachor.jpg": {
+    "pages": [
+      "blog-kama-tzeva-lecheder.html",
+      "madrich-tzvia.html"
+    ],
+    "alts": [
+      "מגש וגליל מיקרופייבר שחור לצביעת קירות בבית"
+    ]
+  },
+  "/images/led-luxten-24w-or-cham.jpg": {
+    "pages": [
+      "madrich-led.html",
+      "ru-elektrika.html"
+    ],
+    "alts": [
+      "נורת LED LUXTEN ‏24W, אור חם 3000K, באבי סנטר טמבוריה חולון",
+      "Лампа LED LUXTEN 24 Вт, тёплый свет 3000K — магазин «Ави Сентер», Холон"
+    ]
+  },
+  "/images/led-timer-wise-electric-s2.jpg": {
+    "pages": [
+      "madrich-led.html",
+      "ru-elektrika.html"
+    ],
+    "alts": [
+      "שעון שבת מכני Wise Electric Timer S2 ל-24 שעות, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Таймер для шабата Wise Electric S2 — магазин «Ави Сентер», Холон"
+    ]
+  },
+  "/images/led-timer-intermatic-s3.jpg": {
+    "pages": [
+      "madrich-led.html",
+      "ru-elektrika.html"
+    ],
+    "alts": [
+      "שעון שבת מכני TIMER S3, 24 שעות, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Механический таймер TIMER S3 на 24 часа — магазин «Ави Сентер», Холон"
+    ]
+  },
+  "/images/led-shaon-shabat-timer-saco.jpg": {
+    "pages": [
+      "madrich-led.html"
+    ],
+    "alts": [
+      "שעוני שבת ושעוני זמן לשקע, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/led-kabel-marich-electro-c.jpg": {
+    "pages": [
+      "madrich-led.html",
+      "ru-elektrika.html"
+    ],
+    "alts": [
+      "כבל מאריך חשמל, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Удлинитель — магазин «Ави Сентер», Холон"
+    ]
+  },
+  "/images/led-rav-sheka-deko.jpg": {
+    "pages": [
+      "madrich-led.html",
+      "ru-elektrika.html",
+      "blog-omes-chashmali-rav-sheka.html"
+    ],
+    "alts": [
+      "רב-שקע DEKO עם 6 שקעים, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Сетевой фильтр DEKO на 6 розеток — магазин «Ави Сентер», Холон"
+    ]
+  },
+  "/images/led-tafsanim-kvalim-saco.jpg": {
+    "pages": [
+      "madrich-led.html"
+    ],
+    "alts": [
+      "תפסנים לכבלים SACO 10 מ&quot;מ, 100 יח&#x27;, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/led-chavakei-nylon-lekvalim-omega.jpg": {
+    "pages": [
+      "madrich-led.html"
+    ],
+    "alts": [
+      "חבקי ניילון לכבלים Omega מגוון מידות, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/led-mafsekei-kir-ne-ad.jpg": {
+    "pages": [
+      "madrich-led.html",
+      "ru-elektrika.html"
+    ],
+    "alts": [
+      "מפסקי קיר NE-AD, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Настенные выключатели NE-AD — магазин «Ави Сентер», Холон"
+    ]
+  },
+  "/images/led-shkaim-ne-ad.jpg": {
+    "pages": [
+      "madrich-led.html",
+      "ru-elektrika.html"
+    ],
+    "alts": [
+      "שקעי חשמל NE-AD, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Розетки NE-AD — магазин «Ави Сентер», Холон"
+    ]
+  },
+  "/images/led-rav-sheka-omega-t4.jpg": {
+    "pages": [
+      "madrich-led.html"
+    ],
+    "alts": [
+      "מפצל Omega T4 לארבעה שקעים, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/led-solelot-toshiba.jpg": {
+    "pages": [
+      "madrich-led.html",
+      "ru-elektrika.html"
+    ],
+    "alts": [
+      "סוללות Toshiba ו-GP, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Батарейки Toshiba и GP — магазин «Ави Сентер», Холон"
+    ]
+  },
+  "/images/led-solot-gp-alkaline.jpg": {
+    "pages": [
+      "madrich-led.html"
+    ],
+    "alts": [
+      "סוללות אלקליין GP AAA, כפי שנמכרות באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/led-solelot-toshiba-23a-27a.jpg": {
+    "pages": [
+      "madrich-led.html"
+    ],
+    "alts": [
+      "סוללות 12V Toshiba 23A ו-27A לשלטים, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/led-solelot-camelion-cr2032.jpg": {
+    "pages": [
+      "madrich-led.html"
+    ],
+    "alts": [
+      "סוללות כפתור Camelion CR2032, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/led-solelot-pkcell-lr1.jpg": {
+    "pages": [
+      "madrich-led.html"
+    ],
+    "alts": [
+      "סוללות LR1 ‏PKCELL, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/led-paamon-delet-asholoni.jpg": {
+    "pages": [
+      "madrich-led.html",
+      "ru-elektrika.html"
+    ],
+    "alts": [
+      "פעמון דלת אלחוטי OMEGA, ‏32 מנגינות, לחצן מוגן מים, באבי סנטר טמבוריה חולון",
+      "Беспроводной дверной звонок — магазин «Ави Сентер», Холон"
+    ]
+  },
+  "/images/led-mafzel-electro.jpg": {
+    "pages": [
+      "madrich-led.html"
+    ],
+    "alts": [
+      "מפצל חשמל ELECTRO, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/led-malcham-chashmali-sakal-30w.jpg": {
+    "pages": [
+      "madrich-led.html"
+    ],
+    "alts": [
+      "מלחם חשמלי מקצועי Sakal Electronics, 30W, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/instalazia-spadini-tzinor-metal-150.jpg": {
+    "pages": [
+      "blog-eyze-tzinor-miklachat.html"
+    ],
+    "alts": [
+      "צינור מתכת למקלחת SPADINI באורך 1.50 מטר עם מחברי פליז, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "צינור מתכת שרשורי SPADINI 1.50 מטר עם מחברי פליז ומפתח, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/instalazia-spadini-tzinor-spirala-plus.jpg": {
+    "pages": [
+      "blog-eyze-tzinor-miklachat.html"
+    ],
+    "alts": [
+      "צינור מתכת ספירלה פלוס SPADINI 1.50–1.70 מטר עם מחברי פליז, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/instalazia-spring-spidex-tzinor-mikla.jpg": {
+    "pages": [
+      "blog-eyze-tzinor-miklachat.html"
+    ],
+    "alts": [
+      "צינור מקלחת גמיש SPRING Spidex בציפוי רשת נירוסטה, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/bidud-silikon-high-tack.jpg": {
+    "pages": [
+      "blog-ovesh-bamiklachat.html",
+      "blog-silikon-o-montack.html",
+      "madrich-bidud.html",
+      "ru-stroitelnye-materialy.html",
+      "blog-itum-ambatia.html",
+      "madrich-chomrei-binyan.html",
+      "instalazia.html"
+    ],
+    "alts": [
+      "שפופרות סיליקון לאיטום, כפי שנמכרות באבי סנטר טמבוריה חולון",
+      "שפופרות סיליקון ו-High Tack, כפי שנמכרות באבי סנטר טמבוריה חולון",
+      "סיליקון לאיטום אמבטיה וכיור, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Силикон для ванны и раковины — «Ави Сентер», Холон"
+    ]
+  },
+  "/images/shikpul-mechona-mugan.jpg": {
+    "pages": [
+      "shikpul.html"
+    ],
+    "alts": [
+      "מכונה לשכפול מפתחות מוגנים, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/avi-mechonat-shichpul.jpg": {
+    "pages": [
+      "shikpul.html"
+    ],
+    "alts": [
+      "אבי ליד מכונת השכפול, אבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/shikpul-machinat-shichpul.jpg": {
+    "pages": [
+      "shikpul.html",
+      "ru.html",
+      "blog-shichpul-mafteach-multilock.html"
+    ],
+    "alts": [
+      "מכונת שכפול מפתחות מקצועית בחנות, כפי שמשמשת באבי סנטר טמבוריה חולון",
+      "Станок для изготовления дубликатов ключей в магазине «Ави Сентер», Холон",
+      "מכונת שכפול מפתחות, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/shikpul-shalshelet-maftech-galgal.jpg": {
+    "pages": [
+      "shikpul.html",
+      "blog-shichpul-mafteach-teivat-doar.html"
+    ],
+    "alts": [
+      "שלשלאות מפתחות מתפתלות צבעוניות, כפי שנמכרות באבי סנטר טמבוריה חולון",
+      "מחזיקי מפתחות, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/shikpul-mechona-ilco-halley.jpg": {
+    "pages": [
+      "shikpul.html"
+    ],
+    "alts": [
+      "מכונת שכפול Ilco Halley BKA 2000, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/shikpul-mechona-kod.jpg": {
+    "pages": [
+      "shikpul.html"
+    ],
+    "alts": [
+      "מכונה לשכפול מפתחות לפי קוד, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klim-diben-borag-herman.jpg": {
+    "pages": [
+      "blog-eyze-dibel-lekir.html",
+      "madrich-klim.html",
+      "madrich-bragim.html",
+      "ru-krepezh.html",
+      "blog-eyze-mavreg-livchor.html"
+    ],
+    "alts": [
+      "20 יחידות דיבל ובורג 5x50 מ&quot;מ Herman, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Дюбели с шурупами 5×50 мм Herman, 20 шт. — «Ави Сентер», Холон",
+      "20 יחידות דיבל ובורג Herman, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/instalazia-berez-misnan-suifit.jpg": {
+    "pages": [
+      "blog-nikuy-mesanenet-berez.html",
+      "instalazia.html"
+    ],
+    "alts": [
+      "מאריך מסתובב לברז עם חסכם (מסננת), כפי שנמכר באבי סנטר טמבוריה חולון",
+      "מאריך מסתובב עם חסכם לברז, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/shikpul-keyline-board-melo-c.jpg": {
+    "pages": [
+      "blog-shichpul-mafteach-madrich.html"
+    ],
+    "alts": [
+      "לוח בוהני מפתחות KEYLINE עם עשרות סוגי מפתחות, כפי שמוצג באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/bidud-silikon-fixall-rtv.jpg": {
+    "pages": [
+      "ru-kley-germetik.html",
+      "madrich-bidud.html",
+      "ru-remont-na-domu.html"
+    ],
+    "alts": [
+      "Прозрачный силикон FixAll RTV — магазин «Ави Сентер», Холон",
+      "סיליקון RTV שקוף FixAll, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Силикон и герметики в магазине «Ави Сентер», Холон"
+    ]
+  },
+  "/images/bidud-high-tack-tuba.jpg": {
+    "pages": [
+      "ru-kley-germetik.html",
+      "madrich-bidud.html"
+    ],
+    "alts": [
+      "Сверхсильный клей High Tack в тюбике — магазин «Ави Сентер», Холон",
+      "High Tack דבק עוצמתי בשפורפרת, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/hadabara-devek-maga-polystick-super33.jpg": {
+    "pages": [
+      "ru-kley-germetik.html",
+      "madrich-bidud.html"
+    ],
+    "alts": [
+      "Контактный клей Polystick Super 33 — магазин «Ави Сентер», Холон",
+      "דבק מגע פוליסטיק Super 33 בפחית, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/bidud-super-glue-extra-strong.jpg": {
+    "pages": [
+      "ru-kley-germetik.html",
+      "madrich-bidud.html"
+    ],
+    "alts": [
+      "Суперклей Extra Strong — магазин «Ави Сентер», Холон",
+      "סופר גלו Extra Strong, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/bidud-epoxy-aqua-mend.jpg": {
+    "pages": [
+      "ru-kley-germetik.html",
+      "madrich-bidud.html"
+    ],
+    "alts": [
+      "Эпоксидная шпаклёвка Aqua-Mend — магазин «Ави Сентер», Холон",
+      "מרק אפוקסי אקווה-מנד, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/bidud-gumi-atima-herman.jpg": {
+    "pages": [
+      "ru-kley-germetik.html",
+      "madrich-bidud.html"
+    ],
+    "alts": [
+      "Уплотнитель Herman P-профиль для окон и дверей — магазин «Ави Сентер», Холон",
+      "גומי אטימה Herman P-profile לחלונות ודלתות, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/manulim-onguard-832-laminated.jpg": {
+    "pages": [
+      "ru-kley-germetik.html",
+      "madrich-bidud.html"
+    ],
+    "alts": [
+      "Двусторонняя лента CEYS MONTACK Total Grip — магазин «Ави Сентер», Холон",
+      "סרט הדבקה דו-צדדי MONTACK Total Grip של CEYS, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/bidud-foam-tape-ginnva.jpg": {
+    "pages": [
+      "ru-kley-germetik.html",
+      "madrich-bidud.html"
+    ],
+    "alts": [
+      "Двусторонняя вспененная лента Ginnva 12 мм — магазин «Ави Сентер», Холон",
+      "סרט דבק דו-צדדי מקציף Ginnva 12 מ&quot;מ, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/bidud-magred-silikon-herman.jpg": {
+    "pages": [
+      "ru-kley-germetik.html",
+      "madrich-bidud.html"
+    ],
+    "alts": [
+      "Шпатель для удаления и выравнивания силикона Herman — магазин «Ави Сентер», Холон",
+      "מגרד ומיישר סיליקון Herman, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/bidud-ginnva-foam-tape.jpg": {
+    "pages": [
+      "madrich-bidud.html"
+    ],
+    "alts": [
+      "סרט דבק קצף דו-צדדי Ginnva, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/bidud-yaad-chem-pg999.jpg": {
+    "pages": [
+      "madrich-bidud.html"
+    ],
+    "alts": [
+      "דבק פלסטי PG-999 של YAAD CHEM – לעץ רך, בד, נייר וקרטון, 500 ו-1000 גרם, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/bidud-devek-epoxy-araldite-5-dakot.jpg": {
+    "pages": [
+      "madrich-bidud.html"
+    ],
+    "alts": [
+      "דבק אפוקסי Araldite מהיר 5 דקות, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/bidud-devek-epoxy-mahir-poxipol.jpg": {
+    "pages": [
+      "madrich-bidud.html"
+    ],
+    "alts": [
+      "דבק אפוקסי מהיר שקוף POXIPOL 10 דקות, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/bidud-seret-dvuku-av-hyderon.jpg": {
+    "pages": [
+      "madrich-bidud.html"
+    ],
+    "alts": [
+      "סרט הדבקה דו-צדדי עבה Hyderon, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/bidud-seret-dvuku-shakuf-vhb-fusion-luke.jpg": {
+    "pages": [
+      "madrich-bidud.html"
+    ],
+    "alts": [
+      "סרט הדבקה דו-צדדי שקוף VHB עמיד למים Fusion Luke, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/bidud-seret-dvuku-shakuf-herman-5m.jpg": {
+    "pages": [
+      "madrich-bidud.html"
+    ],
+    "alts": [
+      "סרט הדבקה דו-צדדי שקוף ומקצועי Herman 5 מטר, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/bidud-seret-bad-afor-herman.jpg": {
+    "pages": [
+      "madrich-bidud.html"
+    ],
+    "alts": [
+      "סרט בד אפור חזק Herman, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/bidud-migred-naayd-orderly.jpg": {
+    "pages": [
+      "madrich-bidud.html"
+    ],
+    "alts": [
+      "מגרד נייד עם סכיני רזרבה Orderly, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/bidud-super-glue-loctite.jpg": {
+    "pages": [
+      "madrich-bidud.html"
+    ],
+    "alts": [
+      "סופר גלו Loctite עמיד במים זוג שפופרות, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/bidud-devek-etz-elmers-carpenters.jpg": {
+    "pages": [
+      "madrich-bidud.html"
+    ],
+    "alts": [
+      "דבק עץ נגרים Elmer's Carpenter's, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/bidud-montack-ceys.jpg": {
+    "pages": [
+      "madrich-bidud.html",
+      "ru-stroitelnye-materialy.html",
+      "madrich-chomrei-binyan.html",
+      "blog-eyze-devek-lechomer.html"
+    ],
+    "alts": [
+      "דבק הרכבה MONTACK של CEYS, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Монтажный клей MONTACK от CEYS — «Ави Сентер», Холон",
+      "סרט הרכבה דו-צדדי MONTACK של ceys, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/nizila-chomrei-nikayon-durgol.jpg": {
+    "pages": [
+      "madrich-bidud.html",
+      "madrich-nizila.html",
+      "blog-avnit-bli-lifgoa-batzeva.html",
+      "ru-uborka.html"
+    ],
+    "alts": [
+      "חומרי ניקוי מקצועיים כולל Durgol, כפי שנמכרים באבי סנטר טמבוריה חולון",
+      "חומרי ניקוי מקצועיים כולל Durgol להסרת אבנית, כפי שנמכרים באבי סנטר טמבוריה חולון",
+      "Профессиональные средства для уборки, включая Durgol — магазин «Ави Сентер», Холон"
+    ]
+  },
+  "/images/chanut-pina-shelet-22.jpg": {
+    "pages": [
+      "shchunot.html"
+    ],
+    "alts": [
+      "השלט של אבי סנטר בפינת המרכז המסחרי, קרן היסוד 1, קריית שרת, חולון"
+    ]
+  },
+  "/images/chanut-pnim-sratim-devakim.jpg": {
+    "pages": [
+      "shchunot.html"
+    ],
+    "alts": [
+      "מדפי סרטי הדבקה, דבקים ואזיקונים בתוך חנות אבי סנטר טמבוריה בקריית שרת חולון"
+    ]
+  },
+  "/images/bayit-agalat-kniyot-prachim.jpg": {
+    "pages": [
+      "blog-eyze-agalat-kniyot.html",
+      "ru-telezhki.html",
+      "madrich-agalot.html"
+    ],
+    "alts": [
+      "עגלת קניות נוריאלי בהדפס פרחים, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Тележка для покупок Нуриэли, цветы — «Ави Сентер», Холон"
+    ]
+  },
+  "/images/bayit-agalat-kniyot-parparim.jpg": {
+    "pages": [
+      "blog-eyze-agalat-kniyot.html",
+      "ru-telezhki.html",
+      "madrich-agalot.html"
+    ],
+    "alts": [
+      "עגלת קניות נוריאלי בהדפס פרפרים, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Тележка для покупок Нуриэли, бабочки — «Ави Сентер», Холон"
+    ]
+  },
+  "/images/bayit-agalat-kniyot-yeruka.jpg": {
+    "pages": [
+      "blog-eyze-agalat-kniyot.html"
+    ],
+    "alts": [
+      "עגלת קניות נוריאלי בירוק ושחור, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/manulim-manul-herman-16mm.jpg": {
+    "pages": [
+      "blog-eyze-manul-anti-snap.html",
+      "madrich-manulin.html"
+    ],
+    "alts": [
+      "מנעול רתק Herman 16 מ&quot;מ, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "מנעול רתק Herman 16 מ&quot;מ עם 3 מפתחות, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/chanut-chazit-silca.jpg": {
+    "pages": [
+      "odot.html"
+    ],
+    "alts": [
+      "חזית החנות אבי סנטר טמבוריה, קרן היסוד 1, קריית שרת, חולון – שלט שכפול מפתחות"
+    ]
+  },
+  "/images/hadabara-malkodet-yetushim-herman.jpg": {
+    "pages": [
+      "blog-hadabara-bayit-madrich.html",
+      "madrich-hadabara.html"
+    ],
+    "alts": [
+      "מלכודת לוח דבק צהוב Herman ללכידת יתושים וזבובים, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/hadabara-gel-tikanim-torpedo.jpg": {
+    "pages": [
+      "blog-hadabara-bayit-madrich.html",
+      "madrich-hadabara.html",
+      "ru-vrediteli.html"
+    ],
+    "alts": [
+      "פתיון ג&#39;ל טורפדו להדברת תיקנים (ג&#39;וקים), כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Гель Torpedo от тараканов — магазин «Ави Сентер», Холон"
+    ]
+  },
+  "/images/hadabara-malkodet-zvuvei-perot.jpg": {
+    "pages": [
+      "blog-hadabara-bayit-madrich.html",
+      "madrich-hadabara.html",
+      "ru-vrediteli.html"
+    ],
+    "alts": [
+      "מלכודת דבק לזבובי פירות (Drosophila), כפי שנמכרת באבי סנטר טמבוריה חולון",
+      "Ловушка для плодовых мушек — магазин «Ави Сентер», Холон"
+    ]
+  },
+  "/images/manulim-tzilinder-keylocx.jpg": {
+    "pages": [
+      "blog-naalti-bachutz-mah-osim.html",
+      "ru-zamki.html",
+      "madrich-manulin.html"
+    ],
+    "alts": [
+      "צילינדר KeylocX לדלת כניסה, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Цилиндр KeylocX в магазине «Ави Сентер», Холон",
+      "Цилиндр KeylocX для входной двери — магазин «Ави Сентер», Холон",
+      "צילינדר KeylocX לדלת כניסה עם 3 מפתחות, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klim-herman-diben-4x40.jpg": {
+    "pages": [
+      "ru-stroitelnye-materialy.html",
+      "madrich-chomrei-binyan.html",
+      "madrich-klim.html",
+      "ru-instrumenty.html"
+    ],
+    "alts": [
+      "Дюбели и шурупы HERMAN 4×40 — «Ави Сентер», Холон",
+      "דיבלים וברגים HERMAN 4×40, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "דיבל 6 + בורג 4×40 Herman, 40 יחידות, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Дюбели и шурупы Herman 4×40, 40 шт. — магазин «Ави Сентер», Холон"
+    ]
+  },
+  "/images/tzvia-michchol-tokyo-4inch.jpg": {
+    "pages": [
+      "madrich-tzvia.html"
+    ],
+    "alts": [
+      "מברשת צבע TOKYO 4 אינץ' עם שיער טבעי 100%, כפי שנמכרת באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/tzvia-michchol-set-bordo.jpg": {
+    "pages": [
+      "madrich-tzvia.html",
+      "ru-kraski.html"
+    ],
+    "alts": [
+      "סט מברשות צבע במידות שונות למראה ולגלסתר, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Набор кистей разных размеров — магазин «Ави Сентер», Холон"
+    ]
+  },
+  "/images/tzvia-mivreshet-25-diy-weingarten.jpg": {
+    "pages": [
+      "madrich-tzvia.html"
+    ],
+    "alts": [
+      "מברשות צבע 2.5 אינץ׳ – D.I.Y של יעקבי ו-Weingarten, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/tzvia-mivreshet-hercules-tokyo.jpg": {
+    "pages": [
+      "madrich-tzvia.html"
+    ],
+    "alts": [
+      "מברשות צבע הרקולס 1.5 ו-2 אינץ׳ ו-TOKYO 2000 בגודל 2.5 אינץ׳, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/tzvia-mivreshet-1-diy.jpg": {
+    "pages": [
+      "madrich-tzvia.html"
+    ],
+    "alts": [
+      "מברשת צבע 1 אינץ׳ D.I.Y של יעקבי, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/tzvia-erkat-mini-roller-all.jpg": {
+    "pages": [
+      "madrich-tzvia.html",
+      "ru-kraski.html"
+    ],
+    "alts": [
+      "ערכת מיני רולר ALL עם מגש, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Мини-валик ALL с кюветой — магазин «Ави Сентер», Холон"
+    ]
+  },
+  "/images/tzvia-magash-roller-kachol.jpg": {
+    "pages": [
+      "madrich-tzvia.html"
+    ],
+    "alts": [
+      "מגש צבע עם רולר, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/tzvia-erkat-magash-roller.jpg": {
+    "pages": [
+      "madrich-tzvia.html",
+      "ru-kraski.html"
+    ],
+    "alts": [
+      "ערכת מגש ורולר לצביעה, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Валик с кюветой для покраски — магазин «Ави Сентер», Холон"
+    ]
+  },
+  "/images/tzvia-golel-decor-adom.jpg": {
+    "pages": [
+      "madrich-tzvia.html"
+    ],
+    "alts": [
+      "מגש וגליל מיקרופייבר 9 אינץ' DECOR לצביעת קירות"
+    ]
+  },
+  "/images/tzvia-tape-niyar-hagana.jpg": {
+    "pages": [
+      "madrich-tzvia.html"
+    ],
+    "alts": [
+      "גלילי סרט הדבקה רחב, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/tzvia-golel-super-save.jpg": {
+    "pages": [
+      "madrich-tzvia.html",
+      "blog-eyze-roller-livchor.html"
+    ],
+    "alts": [
+      "מגש וגליל מיקרופייבר 9 אינץ&#x27; Super Save לצביעת קירות",
+      "מגש וגליל מיקרופייבר 9 אינץ&#39; Super Save לצביעת קירות"
+    ]
+  },
+  "/images/tzvia-niyar-letesh-galil.jpg": {
+    "pages": [
+      "madrich-tzvia.html"
+    ],
+    "alts": [
+      "נייר לטש בגליל, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/tzvia-roller-conan-9.jpg": {
+    "pages": [
+      "madrich-tzvia.html"
+    ],
+    "alts": [
+      "רולר 9 אינץ׳ Conan עם ידית, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/tzvia-roler-mini-run-topman.jpg": {
+    "pages": [
+      "madrich-tzvia.html"
+    ],
+    "alts": [
+      "רולר מיני RUN TOPMAN לצביעת פינות ושטחים קטנים, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/tzvia-hammerite-metal-paint.jpg": {
+    "pages": [
+      "madrich-tzvia.html",
+      "ru-kraski.html",
+      "blog-tzviat-matechet.html"
+    ],
+    "alts": [
+      "צבע מתכת Hammerite נגד חלודה, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Краска по металлу Hammerite в магазине «Ави Сентер», Холон",
+      "Краска по металлу Hammerite от ржавчины — магазин «Ави Сентер», Холон"
+    ]
+  },
+  "/images/tzvia-mamis-tr-mineral.jpg": {
+    "pages": [
+      "madrich-tzvia.html",
+      "ru-kraski.html"
+    ],
+    "alts": [
+      "טינר ניטרו 21 של YAAD CHEM, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Растворитель Нитро 21 (YAAD CHEM) — магазин «Ави Сентер», Холон"
+    ]
+  },
+  "/images/tzvia-sprey-tzeva-okvi.jpg": {
+    "pages": [
+      "madrich-tzvia.html",
+      "ru-kraski.html"
+    ],
+    "alts": [
+      "צבע ספריי יעקבי לעץ ולמתכת, מגוון צבעים, באבי סנטר טמבוריה חולון",
+      "Аэрозольная краска Яакоби, разные цвета — магазин «Ави Сентер», Холон"
+    ]
+  },
+  "/images/klim-mareyot-klips-6-5-inch.jpg": {
+    "pages": [
+      "madrich-tzvia.html",
+      "blog-shpachtel-madrich.html"
+    ],
+    "alts": [
+      "מריות שפכטל KLIPS במידות 5 ו-6 אינץ&#x27;, כפי שנמכרות באבי סנטר טמבוריה חולון",
+      "מריות שפכטל KLIPS במידות 5 ו-6 אינץ', כפי שנמכרות באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/spadini-sakin-gimur-klips.jpg": {
+    "pages": [
+      "madrich-tzvia.html",
+      "blog-shpachtel-madrich.html"
+    ],
+    "alts": [
+      "סכיני שפכטל KLIPS במידות שונות, כפי שנמכרים באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/tzvia-bellissima-primer.jpg": {
+    "pages": [
+      "madrich-tzvia.html",
+      "blog-primer-lifney-tzviya.html"
+    ],
+    "alts": [
+      "פריימר אוניברסלי Bellissima Base D-A, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/tzvia-onetime-red-band.jpg": {
+    "pages": [
+      "madrich-tzvia.html",
+      "blog-shpachtel-madrich.html"
+    ],
+    "alts": [
+      "שפכטל מוכן לשימוש Red Devil OneTime, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/tzvia-denber-topcolor-polydor.jpg": {
+    "pages": [
+      "madrich-tzvia.html"
+    ],
+    "alts": [
+      "צבע עליון Denber – טופקולור ופולידור, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/tzvia-hammerite-mitachti-chum.jpg": {
+    "pages": [
+      "madrich-tzvia.html"
+    ],
+    "alts": [
+      "Hammerite צבע למתכת ישירות על חלודה – מתכתי חום, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/tzvia-hammerite-chalak-lavan.jpg": {
+    "pages": [
+      "madrich-tzvia.html"
+    ],
+    "alts": [
+      "Hammerite צבע למתכת ישירות על חלודה – חלק לבן, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/tzvia-hammerite-chalak-shachor.jpg": {
+    "pages": [
+      "madrich-tzvia.html"
+    ],
+    "alts": [
+      "Hammerite צבע למתכת ישירות על חלודה – חלק שחור, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/tzvia-tzeva-tambur-supercryl-matt-plus-5l.jpg": {
+    "pages": [
+      "madrich-tzvia.html"
+    ],
+    "alts": [
+      "צבע טמבור סופרקריל מט+ לבן 5 ליטר, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/tzvia-dli-super-sid-swi.jpg": {
+    "pages": [
+      "madrich-tzvia.html"
+    ],
+    "alts": [
+      "סופר סיד צבע סיד לקירות ותקרות SWI, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/tzvia-dli-anti-mold-swi.jpg": {
+    "pages": [
+      "madrich-tzvia.html"
+    ],
+    "alts": [
+      "צבע אנטי-מולד נגד עובש ופטריות SWI, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/tzvia-yeriyat-niylon-ginnva.jpg": {
+    "pages": [
+      "madrich-tzvia.html",
+      "ru-kraski.html"
+    ],
+    "alts": [
+      "יריעת ניילון להגנה על רצפה בזמן צביעה, כפי שנמכרת באבי סנטר טמבוריה חולון",
+      "Плёнка для защиты пола при покраске — магазин «Ави Сентер», Холон"
+    ]
+  },
+  "/images/tzvia-michol-katan-kachol.jpg": {
+    "pages": [
+      "madrich-tzvia.html"
+    ],
+    "alts": [
+      "מכחול צביעה קטן בידית כחולה לפינות ולעבודות עדינות, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/tzvia-set-michcholim-6.jpg": {
+    "pages": [
+      "madrich-tzvia.html"
+    ],
+    "alts": [
+      "סט 6 מכחולים לאומנות ולתיקונים קטנים, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/tzvia-ginnva-al-telachlech.jpg": {
+    "pages": [
+      "madrich-tzvia.html"
+    ],
+    "alts": [
+      "Ginnva &quot;אל תלכלך&quot; – יריעת כיסוי עם סרט דביק, 20 מטר (מילוי), באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/binyan-klips-mariya-10.jpg": {
+    "pages": [
+      "madrich-chomrei-binyan.html"
+    ],
+    "alts": [
+      "מרית שפכטל Klips 10 אינץ׳, להב פלדת פחמן, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/binyan-klips-mariya-8.jpg": {
+    "pages": [
+      "madrich-chomrei-binyan.html"
+    ],
+    "alts": [
+      "מרית שפכטל Klips 8 אינץ׳, להב פלדת פחמן, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/binyan-klips-mariya-6-5.jpg": {
+    "pages": [
+      "madrich-chomrei-binyan.html"
+    ],
+    "alts": [
+      "מריות שפכטל Klips 6 ו-5 אינץ׳, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/binyan-klips-mariya-5-4.jpg": {
+    "pages": [
+      "madrich-chomrei-binyan.html"
+    ],
+    "alts": [
+      "מריות שפכטל Klips 5 ו-4 אינץ׳, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/binyan-klips-mariya-3-2.jpg": {
+    "pages": [
+      "madrich-chomrei-binyan.html"
+    ],
+    "alts": [
+      "מריות שפכטל Klips 3 ו-2 אינץ׳, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/binyan-roveh-akrilit-tsivonit-swi.jpg": {
+    "pages": [
+      "madrich-chomrei-binyan.html"
+    ],
+    "alts": [
+      "רובה אקרילית צבעונית לאריחים SWI, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/binyan-roveh-tsivonit-mister-fix-117.jpg": {
+    "pages": [
+      "madrich-chomrei-binyan.html"
+    ],
+    "alts": [
+      "רובה צבעונית אקרילית מיסטר פיקס 117, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/binyan-sak-tiach-klasimo-x-tambur-5kg.jpg": {
+    "pages": [
+      "madrich-chomrei-binyan.html"
+    ],
+    "alts": [
+      "קלסימו X טמבור לתיקון חורים וסדקים בטיח 5 ק"
+    ]
+  },
+  "/images/dept-shikpul.jpg": {
+    "pages": [
+      "index.html"
+    ],
+    "alts": [
+      "שכפול מפתחות – אבי סנטר חולון"
+    ]
+  },
+  "/images/dept-manulin.jpg": {
+    "pages": [
+      "index.html"
+    ],
+    "alts": [
+      "מנעולים וצילינדרים – אבי סנטר חולון"
+    ]
+  },
+  "/images/dept-instalazia.jpg": {
+    "pages": [
+      "index.html"
+    ],
+    "alts": [
+      "אינסטלציה – אבי סנטר חולון"
+    ]
+  },
+  "/images/dept-spadini.jpg": {
+    "pages": [
+      "index.html"
+    ],
+    "alts": [
+      "SPADINI – אבי סנטר חולון"
+    ]
+  },
+  "/images/dept-tzvia.jpg": {
+    "pages": [
+      "index.html"
+    ],
+    "alts": [
+      "צבע וצביעה – אבי סנטר חולון"
+    ]
+  },
+  "/images/dept-bidud.jpg": {
+    "pages": [
+      "index.html"
+    ],
+    "alts": [
+      "דבקים ואיטום – אבי סנטר חולון"
+    ]
+  },
+  "/images/dept-led.jpg": {
+    "pages": [
+      "index.html"
+    ],
+    "alts": [
+      "חשמל ותאורה – אבי סנטר חולון"
+    ]
+  },
+  "/images/dept-klim.jpg": {
+    "pages": [
+      "index.html"
+    ],
+    "alts": [
+      "כלי עבודה – אבי סנטר חולון"
+    ]
+  },
+  "/images/dept-bragim.jpg": {
+    "pages": [
+      "index.html"
+    ],
+    "alts": [
+      "ברגים ופרזול – אבי סנטר חולון"
+    ]
+  },
+  "/images/dept-chomrei-binyan.jpg": {
+    "pages": [
+      "index.html"
+    ],
+    "alts": [
+      "חומרי בניין – אבי סנטר חולון"
+    ]
+  },
+  "/images/dept-gina.jpg": {
+    "pages": [
+      "index.html"
+    ],
+    "alts": [
+      "גינה והשקיה – אבי סנטר חולון"
+    ]
+  },
+  "/images/dept-hadabara.jpg": {
+    "pages": [
+      "index.html"
+    ],
+    "alts": [
+      "הדברה – אבי סנטר חולון"
+    ]
+  },
+  "/images/dept-nizila.jpg": {
+    "pages": [
+      "index.html"
+    ],
+    "alts": [
+      "ניקיון – אבי סנטר חולון"
+    ]
+  },
+  "/images/dept-agalot.jpg": {
+    "pages": [
+      "index.html"
+    ],
+    "alts": [
+      "עגלות וכביסה – אבי סנטר חולון"
+    ]
+  },
+  "/images/dept-klali.jpg": {
+    "pages": [
+      "index.html"
+    ],
+    "alts": [
+      "אביזרים לבית – אבי סנטר חולון"
+    ]
+  },
+  "/images/dept-tikunim.jpg": {
+    "pages": [
+      "index.html"
+    ],
+    "alts": [
+      "תיקונים עד הבית – אבי סנטר חולון"
+    ]
+  },
+  "/images/bayit-agalat-kniyot-hachaviv.jpg": {
+    "pages": [
+      "ru-telezhki.html",
+      "madrich-agalot.html"
+    ],
+    "alts": [
+      "Клетчатая тележка «Хахавив» — «Ави Сентер», Холон",
+      "עגלת קניות משובצת החביב, תוצרת ישראל, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/bayit-mitkan-yibush-kvisa.jpg": {
+    "pages": [
+      "ru-telezhki.html",
+      "madrich-agalot.html"
+    ],
+    "alts": [
+      "Сушилки для белья Нуриэли — «Ави Сентер», Холон",
+      "מתקני ייבוש כביסה מאלומיניום של נוריאלי, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/bayit-chevel-kvisa-metal.jpg": {
+    "pages": [
+      "ru-telezhki.html",
+      "madrich-agalot.html"
+    ],
+    "alts": [
+      "Металлическая бельевая верёвка в оплётке — «Ави Сентер», Холон",
+      "חבל כביסה מתכתי מצופה, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/bayit-chavlei-kvisa.jpg": {
+    "pages": [
+      "ru-telezhki.html",
+      "madrich-agalot.html"
+    ],
+    "alts": [
+      "Бельевые верёвки — «Ави Сентер», Холон",
+      "חבלי כביסה, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/bayit-atvei-kvisa-etz.jpg": {
+    "pages": [
+      "ru-telezhki.html",
+      "madrich-agalot.html"
+    ],
+    "alts": [
+      "Деревянные прищепки — «Ави Сентер», Холон",
+      "אטבי כביסה מעץ, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/bayit-atvei-kvisa-plastik.jpg": {
+    "pages": [
+      "ru-telezhki.html",
+      "madrich-agalot.html"
+    ],
+    "alts": [
+      "Пластиковые прищепки — «Ави Сентер», Холон",
+      "אטבי כביסה מפלסטיק, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/spadini-rosh-miklachat-agol.jpg": {
+    "pages": [
+      "madrich-spadini.html",
+      "ru-spadini.html"
+    ],
+    "alts": [
+      "ראש מקלחת עגול SPADINI, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Круглая лейка душа SPADINI — «Ави Сентер», Холон"
+    ]
+  },
+  "/images/spadini-set-miklachat-kir-mahleif.jpg": {
+    "pages": [
+      "madrich-spadini.html",
+      "ru-spadini.html"
+    ],
+    "alts": [
+      "סט מקלחת קיר עם ראש מקלחת מסאז' רב-תכליתי SPADINI, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Настенный душевой набор SPADINI с массажной лейкой — «Ави Сентер», Холон"
+    ]
+  },
+  "/images/instalazia-spadini-booster.jpg": {
+    "pages": [
+      "madrich-spadini.html",
+      "blog-lachatz-mayim-chalash-bemikla.html",
+      "ru.html",
+      "ru-spadini.html"
+    ],
+    "alts": [
+      "מקלח יד SPADINI בוסטר מגביר לחץ עם כדוריות סינון, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Лейки для душа SPADINI в магазине «Ави Сентер»",
+      "«Бустер»: усилитель напора — «Ави Сентер», Холон"
+    ]
+  },
+  "/images/instalazia-spadini-dallas-set.jpg": {
+    "pages": [
+      "madrich-spadini.html",
+      "blog-lehachlif-mazlef-mikla.html",
+      "ru-spadini.html"
+    ],
+    "alts": [
+      "מערכת רחצה SPADINI דאלאס עם צינור ומתלה בהדבקה, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "«Даллас»: набор с держателем — «Ави Сентер», Холон"
+    ]
+  },
+  "/images/instalazia-spadini-harmonia.jpg": {
+    "pages": [
+      "madrich-spadini.html",
+      "blog-lehachlif-mazlef-mikla.html",
+      "ru-santehnika.html",
+      "ru-spadini.html"
+    ],
+    "alts": [
+      "מקלח יד SPADINI הרמוניה, 5 מצבי זרימה, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Лейка для душа SPADINI в магазине «Ави Сентер», Холон",
+      "«Гармония»: 5 режимов — «Ави Сентер», Холон"
+    ]
+  },
+  "/images/instalazia-spadini-vegas.jpg": {
+    "pages": [
+      "madrich-spadini.html",
+      "blog-lehachlif-mazlef-mikla.html",
+      "ru-spadini.html"
+    ],
+    "alts": [
+      "מקלח יד SPADINI וגאס טורבו מסאז', 3 מצבים, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "«Вегас»: турбо-массаж — «Ави Сентер», Холон"
+    ]
+  },
+  "/images/instalazia-spadini-alpha-touch.jpg": {
+    "pages": [
+      "madrich-spadini.html",
+      "ru-spadini.html"
+    ],
+    "alts": [
+      "מקלח יד SPADINI אלפא טאץ' טורבו מסאז', כפי שנמכר באבי סנטר טמבוריה חולון",
+      "«Альфа Тач» — «Ави Сентер», Холон"
+    ]
+  },
+  "/images/instalazia-spadini-dolphin-plus-chrome.jpg": {
+    "pages": [
+      "madrich-spadini.html",
+      "instalazia.html",
+      "blog-mezalef-bide-hatkana.html"
+    ],
+    "alts": [
+      "מערכת בידה SPADINI דולפין פלוס בכרום, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "ספאדיני דולפין פלוס – מזלף בידה בגימור כרום עם צינור ספירלה, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/instalazia-spadini-la-rocca-plus.jpg": {
+    "pages": [
+      "madrich-spadini.html",
+      "blog-kiyor-mitbach-mitnakez-leat.html"
+    ],
+    "alts": [
+      "מסננת וונטיל SPADINI לה רוקה פלוס לכיור מטבח אמריקאי, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/instalazia-spadini-dallas.jpg": {
+    "pages": [
+      "madrich-spadini.html"
+    ],
+    "alts": [
+      "מקלח יד SPADINI דאלאס עם מיתזי סיליקון לניקוי אבנית, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/instalazia-spadini-alpha-touch-set.jpg": {
+    "pages": [
+      "madrich-spadini.html"
+    ],
+    "alts": [
+      "מערכת רחצה SPADINI אלפא טאץ', 5 מצבי זרימה, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/instalazia-spadini-dolphin-plus-white.jpg": {
+    "pages": [
+      "madrich-spadini.html"
+    ],
+    "alts": [
+      "מערכת בידה SPADINI דולפין פלוס בלבן-כתום, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/spadini-dolphin-plus-bide.jpg": {
+    "pages": [
+      "madrich-spadini.html"
+    ],
+    "alts": [
+      "מערכת מזלף בידה SPADINI דולפין פלוס, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/spadini-dolphin-top-plus.jpg": {
+    "pages": [
+      "madrich-spadini.html"
+    ],
+    "alts": [
+      "מערכת SPADINI דולפין טופ פלוס, צינור ספירלה 2 מ&#x27;, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/instalazia-tzinor-lachatz-rashafim.jpg": {
+    "pages": [
+      "blog-lachatz-mayim-chalash-bemikla.html",
+      "instalazia.html"
+    ],
+    "alts": [
+      "צינור לחץ משוריין רשפים לחיבור ברז/מכונת כביסה, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/instalazia-mazlef-spadini.jpg": {
+    "pages": [
+      "blog-lachatz-mayim-chalash-bemikla.html",
+      "blog-lehachlif-mazlef-mikla.html",
+      "instalazia.html"
+    ],
+    "alts": [
+      "מזלף מקלחת SPADINI עם פיות סיליקון Anti-Calc, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "מזלף מקלחת SPADINI עם צינור שזירה, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/instalazia-misnan-berez-filtro.jpg": {
+    "pages": [
+      "blog-lachatz-mayim-chalash-bemikla.html",
+      "instalazia.html"
+    ],
+    "alts": [
+      "מסנן מים לברז (Filtro de Agua) שתופס חלקיקי אבנית וחלודה, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klim-mad-hakif-uvit-mavreg.jpg": {
+    "pages": [
+      "madrich-klim.html",
+      "ru-instrumenty.html"
+    ],
+    "alts": [
+      "סרטי מדידה ומברגי טעינה מהירה 6-ב-1, כפי שנמכרים באבי סנטר טמבוריה חולון",
+      "Рулетки и быстрозарядные отвёртки 6-в-1, в продаже в магазине «Ави Сентер», Холон"
+    ]
+  },
+  "/images/klim-set-mafteachot-alen-conan-9.jpg": {
+    "pages": [
+      "madrich-klim.html"
+    ],
+    "alts": [
+      "סט מפתחות אלן Conan, 9 יח' עד 10 מ"
+    ]
+  },
+  "/images/klim-set-mafteachot-alen-conan-arukim.jpg": {
+    "pages": [
+      "madrich-klim.html"
+    ],
+    "alts": [
+      "סט ביטים Torx (T10–T50) Conan, 9 יח׳, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klim-set-tzvatot-orderly.jpg": {
+    "pages": [
+      "madrich-klim.html"
+    ],
+    "alts": [
+      "סט 3 צבתות מקצועיות ORDERLY, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klim-combination-tool-orderly.jpg": {
+    "pages": [
+      "madrich-klim.html"
+    ],
+    "alts": [
+      "פלאייר משולב (קומבינציה) ORDERLY, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klim-mafteach-shvedi-smith.jpg": {
+    "pages": [
+      "madrich-klim.html",
+      "ru-instrumenty.html"
+    ],
+    "alts": [
+      "מפתח שוודי מתכוונן SMITH, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Разводной ключ SMITH — магазин «Ави Сентер», Холон"
+    ]
+  },
+  "/images/klim-set-mini-pliers-orderly.jpg": {
+    "pages": [
+      "madrich-klim.html"
+    ],
+    "alts": [
+      "סט 3 מיני-פלאיירים ORDERLY, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klim-pliers-hunter-6inch.jpg": {
+    "pages": [
+      "madrich-klim.html",
+      "ru-instrumenty.html"
+    ],
+    "alts": [
+      "פלאיירים Hunter 6 אינץ׳: חיתוך, קומבינציה ומחודד, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Кусачки Hunter в магазине «Ави Сентер», Холон"
+    ]
+  },
+  "/images/klim-plaier-tzinorot-conan.jpg": {
+    "pages": [
+      "madrich-klim.html",
+      "ru-instrumenty.html"
+    ],
+    "alts": [
+      "פלאייר צינורות מתכוונן Conan 10 אינץ׳, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Трубный ключ Conan 10&quot; — магазин «Ави Сентер», Холон"
+    ]
+  },
+  "/images/klim-set-mafteach-alan-hunter.jpg": {
+    "pages": [
+      "madrich-klim.html",
+      "ru-instrumenty.html"
+    ],
+    "alts": [
+      "סט מפתחות אלן Hunter Hex Key Set, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Набор шестигранников Hunter — магазин «Ави Сентер», Холон",
+      "Набор шестигранных ключей Hunter Hex Key Set, в продаже в магазине «Ави Сентер», Холон"
+    ]
+  },
+  "/images/klim-pliers-chituch-conan.jpg": {
+    "pages": [
+      "madrich-klim.html",
+      "ru-instrumenty.html"
+    ],
+    "alts": [
+      "פלייר חיתוך אלכסוני CONAN, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Кусачки диагональные CONAN, в продаже в магазине «Ави Сентер», Холон"
+    ]
+  },
+  "/images/klim-pliers-set-elmec.jpg": {
+    "pages": [
+      "madrich-klim.html"
+    ],
+    "alts": [
+      "סט פלייר תלת-תכליתי Elmec, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klim-plaier-chituch-tzahov.jpg": {
+    "pages": [
+      "madrich-klim.html"
+    ],
+    "alts": [
+      "פלאייר חיתוך עם ידיות מבודדות, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klim-plaier-alachsoni-hunter.jpg": {
+    "pages": [
+      "madrich-klim.html"
+    ],
+    "alts": [
+      "פלאייר חיתוך אלכסוני Hunter 6 אינץ׳, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klim-plaier-mechudad.jpg": {
+    "pages": [
+      "madrich-klim.html"
+    ],
+    "alts": [
+      "פלאייר מחודד, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klim-plaier-neila-smith.jpg": {
+    "pages": [
+      "madrich-klim.html"
+    ],
+    "alts": [
+      "פלאייר נעילה SMITH, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klim-mafteach-bragim-mitkaven-herman-12.jpg": {
+    "pages": [
+      "madrich-klim.html"
+    ],
+    "alts": [
+      "מפתח ברגים מתכוונן 12 אינץ' Herman, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klim-metrim-mitgalgelim.jpg": {
+    "pages": [
+      "madrich-klim.html",
+      "ru-instrumenty.html"
+    ],
+    "alts": [
+      "מטרים מתגלגלים 3, 5 ו-7.5 מטר, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Рулетки 3, 5 и 7,5 м — магазин «Ави Сентер», Холон",
+      "Рулетки 3, 5 и 7.5 метра, в продаже в магазине «Ави Сентер», Холон"
+    ]
+  },
+  "/images/klim-pales-mayim-katzar.jpg": {
+    "pages": [
+      "madrich-klim.html"
+    ],
+    "alts": [
+      "פלס מים קצר, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klim-set-izmelim-conan.jpg": {
+    "pages": [
+      "madrich-klim.html"
+    ],
+    "alts": [
+      "סט 4 איזמלי עץ מקצועיים Conan, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klim-disk-chituch-yahalom.jpg": {
+    "pages": [
+      "madrich-klim.html"
+    ],
+    "alts": [
+      "דיסק חיתוך יהלום 4.5 אינץ&#39;, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klim-mivreshet-plaz-makdeach.jpg": {
+    "pages": [
+      "madrich-klim.html"
+    ],
+    "alts": [
+      "מברשת פליז לניקוי חלודה למקדחה, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klim-makdeach-madregot-conan.jpg": {
+    "pages": [
+      "madrich-klim.html",
+      "ru-instrumenty.html"
+    ],
+    "alts": [
+      "מקדח מדרגות Conan, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Ступенчатое сверло Conan — магазин «Ави Сентер», Холон"
+    ]
+  },
+  "/images/klim-masor-barzel.jpg": {
+    "pages": [
+      "madrich-klim.html"
+    ],
+    "alts": [
+      "מסור ברזל (מסגרת), כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klim-chotech-tsinorot-miktsoi.jpg": {
+    "pages": [
+      "madrich-klim.html"
+    ],
+    "alts": [
+      "חותך צינורות מקצועי, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klim-lahavei-masor-metal-cnbos.jpg": {
+    "pages": [
+      "madrich-klim.html"
+    ],
+    "alts": [
+      "5 להבי מסור דקופז למתכת HSS, CNBOS, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klim-disk-yahalom-turbo-conan-45.jpg": {
+    "pages": [
+      "madrich-klim.html"
+    ],
+    "alts": [
+      "דיסק יהלום טורבו Conan 4.5 אינץ', כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klim-herman-borag-masger.jpg": {
+    "pages": [
+      "madrich-klim.html",
+      "madrich-bragim.html",
+      "ru-krepezh.html"
+    ],
+    "alts": [
+      "ברגים ארוכים עם דיבלים למסגרות Herman, כפי שנמכרים באבי סנטר טמבוריה חולון",
+      "Длинные шурупы с дюбелями для рам Herman — «Ави Сентер», Холон"
+    ]
+  },
+  "/images/klim-herman-borag-gips-4x18.jpg": {
+    "pages": [
+      "madrich-klim.html",
+      "madrich-bragim.html",
+      "ru-krepezh.html"
+    ],
+    "alts": [
+      "ברגים 4×18 מ״מ Herman, 80 יחידות, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Шурупы 4×18 мм Herman, 80 шт. — «Ави Сентер», Холон"
+    ]
+  },
+  "/images/klim-herman-diben-4-5x45.jpg": {
+    "pages": [
+      "madrich-klim.html"
+    ],
+    "alts": [
+      "דיבל 7 + בורג 4.5×45 Herman, 30 יחידות, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klim-meshajef-hunter-350w.jpg": {
+    "pages": [
+      "madrich-klim.html",
+      "ru-instrumenty.html"
+    ],
+    "alts": [
+      "משייף אקסצנטרי Hunter 350W, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Эксцентриковая шлифмашина Hunter 350W — магазин «Ави Сентер», Холон"
+    ]
+  },
+  "/images/klim-wd40-rust-spray.jpg": {
+    "pages": [
+      "madrich-klim.html",
+      "ru-instrumenty.html"
+    ],
+    "alts": [
+      "שמן חודר WD-40 להברגה תקועה וחלודה, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Проникающая смазка WD-40 — магазин «Ави Сентер», Холон",
+      "Проникающее масло WD-40 для ржавых резьб, в продаже в магазине «Ави Сентер», Холон"
+    ]
+  },
+  "/images/klim-mavear-gaz-flame-gun.jpg": {
+    "pages": [
+      "madrich-klim.html",
+      "ru-instrumenty.html"
+    ],
+    "alts": [
+      "מבער גז Flame Gun עד 1000 מעלות, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Газовая горелка Flame Gun до 1000°C, в продаже в магазине «Ави Сентер», Холон"
+    ]
+  },
+  "/images/klim-malchetzet-pop-nitim.jpg": {
+    "pages": [
+      "madrich-klim.html",
+      "ru-instrumenty.html"
+    ],
+    "alts": [
+      "מלחצת פופ-ניטים ידנית 2.4-4.8 מ&quot;מ, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Ручной заклёпочник 2.4-4.8 мм, в продаже в магазине «Ави Сентер», Холон"
+    ]
+  },
+  "/images/klim-misparaim-aviation-conan.jpg": {
+    "pages": [
+      "madrich-klim.html"
+    ],
+    "alts": [
+      "מספריים לגזירת פח (Aviation Snips) CONAN, כפי שנמכרים באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klim-misparaim-gina-conan.jpg": {
+    "pages": [
+      "madrich-klim.html",
+      "ru-sad.html",
+      "madrich-gina.html"
+    ],
+    "alts": [
+      "מזמרה לגינה CONAN, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Секатор CONAN — магазин «Ави Сентер», Холон"
+    ]
+  },
+  "/images/klim-butagaz-lemavear.jpg": {
+    "pages": [
+      "madrich-klim.html"
+    ],
+    "alts": [
+      "מיכל גז (בלון גז קטן) למבער, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klim-makatzim-brico.jpg": {
+    "pages": [
+      "madrich-klim.html"
+    ],
+    "alts": [
+      "מציתים ארוכים וגמישים Brico, כפי שנמכרים באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klim-mashchezet-shulchan.jpg": {
+    "pages": [
+      "madrich-klim.html"
+    ],
+    "alts": [
+      "משחזת שולחן להשחזת כלים, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klim-aziqonim.jpg": {
+    "pages": [
+      "madrich-klim.html"
+    ],
+    "alts": [
+      "אזיקונים (רצועות קשירה) בכמה אורכים, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klim-mivreshet-til-megulvenet.jpg": {
+    "pages": [
+      "madrich-klim.html"
+    ],
+    "alts": [
+      "מברשת תיל מגולוונת לניקוי יסודות, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klim-sikot-shchizut-conan-8mm.jpg": {
+    "pages": [
+      "madrich-klim.html"
+    ],
+    "alts": [
+      "סיכות שחיזה 8 מ"
+    ]
+  },
+  "/images/klim-even-hashchaza-orderly-6.jpg": {
+    "pages": [
+      "madrich-klim.html"
+    ],
+    "alts": [
+      "אבן השחזה 6 אינץ' Orderly, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klim-akdach-devek-cham-hunter-78w.jpg": {
+    "pages": [
+      "madrich-klim.html"
+    ],
+    "alts": [
+      "אקדח דבק חם 78W Hunter, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klim-malcham-chashmali-sakal-30w.jpg": {
+    "pages": [
+      "madrich-klim.html"
+    ],
+    "alts": [
+      "מלחם חשמלי 30W Sakal Electronics, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klim-mashevet-sheiva-ydanit-dp14.jpg": {
+    "pages": [
+      "madrich-klim.html"
+    ],
+    "alts": [
+      "משאבת שאיבה ידנית DP-14, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klim-akdach-seret-smith-tape-dispenser.jpg": {
+    "pages": [
+      "madrich-klim.html"
+    ],
+    "alts": [
+      "אקדח לסרט הדבקה Smith Tape Dispenser, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klim-akdach-sikot-conan-14mm.jpg": {
+    "pages": [
+      "madrich-klim.html"
+    ],
+    "alts": [
+      "אקדח סיכות מקצועי 14 מ"
+    ]
+  },
+  "/images/klim-akdach-lehava-crownman.jpg": {
+    "pages": [
+      "madrich-klim.html"
+    ],
+    "alts": [
+      "אקדח להבה Crownman עד 1300 מעלות, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klim-mishkafey-magen-conan.jpg": {
+    "pages": [
+      "madrich-klim.html"
+    ],
+    "alts": [
+      "משקפי מגן בטיחות Conan, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klim-set-mavreggim-dyuk-power-9128.jpg": {
+    "pages": [
+      "madrich-klim.html"
+    ],
+    "alts": [
+      "סט מברגי דיוק לאלקטרוניקה Power 9128, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klim-pakakim-ivrur-afor-katom.jpg": {
+    "pages": [
+      "madrich-klim.html"
+    ],
+    "alts": [
+      "פקקי אוורור פלסטיק אפור-כתום, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klim-mivreshot-til-etz.jpg": {
+    "pages": [
+      "madrich-klim.html"
+    ],
+    "alts": [
+      "מברשות תיל עץ לניקוי 2 דגמים, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klim-pakak-universali-herman.jpg": {
+    "pages": [
+      "madrich-klim.html"
+    ],
+    "alts": [
+      "פקק אוניברסלי Herman, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klim-migred-naayd-orderly.jpg": {
+    "pages": [
+      "madrich-klim.html"
+    ],
+    "alts": [
+      "סט מגרד נייד עם סכיני רזרבה Orderly, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/instalazia-spadini-mefatzel.jpg": {
+    "pages": [
+      "ru-santehnika.html",
+      "blog-nezila-bashrutim-mah-osim.html",
+      "instalazia.html"
+    ],
+    "alts": [
+      "Механизм заполнения бачка унитаза SPADINI — магазин «Ави Сентер», Холон",
+      "מנגנון מילוי למיכל אסלה SPADINI, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/spadini-mazlefim-anti-calc.jpg": {
+    "pages": [
+      "ru-santehnika.html"
+    ],
+    "alts": [
+      "Лейки для душа SPADINI Anti-Calc — магазин «Ави Сентер», Холон"
+    ]
+  },
+  "/images/instalazia-tzinor-miklachat-spring-spidex.jpg": {
+    "pages": [
+      "ru-santehnika.html",
+      "instalazia.html"
+    ],
+    "alts": [
+      "Гибкий шланг для душа Spring Spidex — магазин «Ави Сентер», Холон",
+      "צינור מקלחת גמיש Spring Spidex 5.5 נטו, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/instalazia-moshav-aslah-spadini.jpg": {
+    "pages": [
+      "ru-santehnika.html",
+      "instalazia.html"
+    ],
+    "alts": [
+      "Сиденье для унитаза SPADINI S-5 — магазин «Ави Сентер», Холон",
+      "מושב אסלה SPADINI S-5 טורנדו, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/instalazia-kfitz-biyuv-miktzoi.jpg": {
+    "pages": [
+      "ru-santehnika.html",
+      "instalazia.html"
+    ],
+    "alts": [
+      "Трос для прочистки засоров — магазин «Ави Сентер», Холон",
+      "קפיץ ביוב מקצועי גמיש לפתיחת סתימות, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/instalazia-berez-zaviti-kisner.jpg": {
+    "pages": [
+      "ru-santehnika.html",
+      "instalazia.html"
+    ],
+    "alts": [
+      "Угловой кран Kisner с выходом для посудомойки — магазин «Ави Сентер», Холон",
+      "ברז זוויתי דו-כיווני Kisner ליציאה למדיח, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/instalazia-berez-kadur-kisner.jpg": {
+    "pages": [
+      "ru-santehnika.html",
+      "instalazia.html"
+    ],
+    "alts": [
+      "Угловой шаровой кран Kisner — магазин «Ави Сентер», Холон",
+      "ברז זווית כדורי Kisner, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/instalazia-berez-rechitza-spring.jpg": {
+    "pages": [
+      "ru-santehnika.html",
+      "instalazia.html"
+    ],
+    "alts": [
+      "Кран для стиральной машины Spring — магазин «Ави Сентер», Холон",
+      "ברז כביסה סטנדרטי Spring לחיבור מכונת כביסה, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/instalazia-yadit-berez-spring-zug.jpg": {
+    "pages": [
+      "ru-santehnika.html",
+      "instalazia.html"
+    ],
+    "alts": [
+      "Пара ручек для крана Spring (хром) — магазин «Ави Сентер», Холон",
+      "זוג ידיות ברז כרום Spring (חם/קר), כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/chanut-pnim-tzinorot-klim.jpg": {
+    "pages": [
+      "ru.html"
+    ],
+    "alts": [
+      "Сантехника и инструменты на полках магазина «Ави Сентер»"
+    ]
+  },
+  "/images/instalazia-berez-nituk-spring.jpg": {
+    "pages": [
+      "blog-nezila-bashrutim-mah-osim.html",
+      "instalazia.html"
+    ],
+    "alts": [
+      "ברז ניתוק (מסוט אסלה) Spring, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/instalazia-spring-spidex-pullout.jpg": {
+    "pages": [
+      "instalazia.html"
+    ],
+    "alts": [
+      "צינור מתכת גמיש SPRING Spidex לברז נשלף, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/instalazia-berez-mesanen-drainer.jpg": {
+    "pages": [
+      "instalazia.html"
+    ],
+    "alts": [
+      "מסנן מים Spring Chrome Drainer לפיית ברז, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/instalazia-yadit-braz-spring-bodedet.jpg": {
+    "pages": [
+      "instalazia.html"
+    ],
+    "alts": [
+      "ידית ברז כרום Spring בודדת, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/instalazia-spadini-gilyon-kit.jpg": {
+    "pages": [
+      "instalazia.html"
+    ],
+    "alts": [
+      "מנגנון מילוי (גליון) למיכל הדחה סמוי SPADINI, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/instalazia-mezalef-bide-dolphin.jpg": {
+    "pages": [
+      "instalazia.html",
+      "blog-mezalef-bide-hatkana.html"
+    ],
+    "alts": [
+      "מערכת מזלף בידה לאסלה עם צינור שזירה מסולסל, כפי שנמכרת באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/spadini-set-rosh-miklachat-tzinor.jpg": {
+    "pages": [
+      "instalazia.html"
+    ],
+    "alts": [
+      "סט ראש מקלחת עם צינור גמיש, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/instalazia-spadini-mini-sap-silikon.jpg": {
+    "pages": [
+      "instalazia.html"
+    ],
+    "alts": [
+      "ספאדיני מיני ספ סיליקון גמיש – ספ מים לכיור ולמקלחת, 1 מטר, עם דבק דו-צדדי, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/instalazia-spadini-dolphin-top-plus-chrome.jpg": {
+    "pages": [
+      "instalazia.html"
+    ],
+    "alts": [
+      "ספאדיני דולפין טופ פלוס – מזלף בידה בגימור כרום, צינור ספירלה 2 מ׳, עם דבק דו-צדדי, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/instalazia-spadini-spirala-plus-220.jpg": {
+    "pages": [
+      "instalazia.html"
+    ],
+    "alts": [
+      "צינור מתכת ספירלה פלוס SPADINI 2.00–2.20 מ׳ עם מחברי פליז ומפתח, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/instalazia-tzinor-metal-sfirala-kfula-m.jpg": {
+    "pages": [
+      "instalazia.html"
+    ],
+    "alts": [
+      "צינור מתכת מחוזק בספירלה כפולה, 1.5 מ׳, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/instalazia-rosh-miklachat-klasik-plus.jpg": {
+    "pages": [
+      "instalazia.html"
+    ],
+    "alts": [
+      "סט ראש מקלחת ומוט תליה קלאסיק פלוס ספאדיני, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/instalazia-tzinorot-pvc.jpg": {
+    "pages": [
+      "instalazia.html"
+    ],
+    "alts": [
+      "אביזרי צנרת PVC לאינסטלציה, כפי שנמכרים באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/nezila-tzinor-shezira-gamish.jpg": {
+    "pages": [
+      "instalazia.html",
+      "blog-nezila-mitzinor-gamish.html"
+    ],
+    "alts": [
+      "צינור שזירה גמיש לחץ משוריין, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/instalazia-dolphin-top-plus-ozgos.jpg": {
+    "pages": [
+      "instalazia.html"
+    ],
+    "alts": [
+      "מערכת דולפין טופ פלוס עוזגום, צינור ספירלה 2 מ&#x27;, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/instalazia-spadini-siphon-symphony.jpg": {
+    "pages": [
+      "instalazia.html"
+    ],
+    "alts": [
+      "ספאדיני סימפוניה – סיפון לכיור רחצה 1¼ עם צינור הורקה, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/instalazia-mitzaref-universali-spadini-tornado.jpg": {
+    "pages": [
+      "instalazia.html"
+    ],
+    "alts": [
+      "מצרף אוניברסלי ספאדיני טורנדו 3/8 אינץ', כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/instalazia-spadini-patra.jpg": {
+    "pages": [
+      "instalazia.html"
+    ],
+    "alts": [
+      "מכשיר SPADINI Patra לחיסכון במים, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/instalazia-dolphin-ozgos.jpg": {
+    "pages": [
+      "instalazia.html"
+    ],
+    "alts": [
+      "מערכת דולפין עוזגום לשטיפה הגיינית, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/instalazia-machzik-nyar-tualet-mikka-spadini.jpg": {
+    "pages": [
+      "instalazia.html"
+    ],
+    "alts": [
+      "מחזיק נייר טואלט כרום ספאדיני מיקקה, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/instalazia-pakak-universali-herman.jpg": {
+    "pages": [
+      "instalazia.html"
+    ],
+    "alts": [
+      "פקק אוניברסלי Herman, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/instalazia-ozgum-dolphin-top-plus.jpg": {
+    "pages": [
+      "blog-mezalef-bide-hatkana.html"
+    ],
+    "alts": [
+      "מערכת דולפין טופ פלוס של עוזגום עם צינור ספירלה 2 מטר, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/instalazia-ozgum-dolphin.jpg": {
+    "pages": [
+      "blog-mezalef-bide-hatkana.html"
+    ],
+    "alts": [
+      "מערכת דולפין של עוזגום עם צינור קלוע, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/manulim-tzilinder-magnum.jpg": {
+    "pages": [
+      "ru-zamki.html",
+      "blog-hachlafat-tzilinder.html",
+      "madrich-manulin.html"
+    ],
+    "alts": [
+      "Цилиндр Magnum в магазине «Ави Сентер», Холон",
+      "Цилиндр Magnum, 5 ключей в комплекте — магазин «Ави Сентер», Холон",
+      "צילינדר Magnum עם 5 מפתחות כלולים, מוצג בחנות אבי סנטר טמבוריה"
+    ]
+  },
+  "/images/manulim-tzilinder-nabob-7pin.jpg": {
+    "pages": [
+      "ru-zamki.html",
+      "madrich-manulin.html"
+    ],
+    "alts": [
+      "Цилиндр NABOB, 7 штифтов — магазин «Ави Сентер», Холон",
+      "צילינדר NABOB 7 Tumbler Pin System, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/manulim-salda-anti-snap.jpg": {
+    "pages": [
+      "ru-zamki.html",
+      "madrich-manulin.html"
+    ],
+    "alts": [
+      "Цилиндры SALDA Anti-Snap — магазин «Ави Сентер», Холон",
+      "צילינדר SALDA Anti-Snap להגנה מפני פריצה, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/manulim-manul-alba.jpg": {
+    "pages": [
+      "ru-zamki.html",
+      "madrich-manulin.html"
+    ],
+    "alts": [
+      "Навесной замок ALBA — магазин «Ави Сентер», Холон",
+      "מנעול תליה ALBA איכותי, מוצג בחנות אבי סנטר טמבוריה"
+    ]
+  },
+  "/images/manulim-manul-tzofen.jpg": {
+    "pages": [
+      "ru-zamki.html",
+      "madrich-manulin.html"
+    ],
+    "alts": [
+      "Кодовый замок Herman без ключа — магазин «Ави Сентер», Холон",
+      "מנעול צופן (קומבינציה) Herman ללא מפתח, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/manulim-onguard-premium.jpg": {
+    "pages": [
+      "ru-zamki.html",
+      "madrich-manulin.html"
+    ],
+    "alts": [
+      "Навесной замок OnGuard Premium — магазин «Ави Сентер», Холон",
+      "מנעול תליה OnGuard Premium Security, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/gina-tzinor-gina.jpg": {
+    "pages": [
+      "ru-sad.html",
+      "madrich-gina.html"
+    ],
+    "alts": [
+      "Садовый шланг — магазин «Ави Сентер», Холон",
+      "צינור גינה, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klali-vavim-s-nirosta.jpg": {
+    "pages": [
+      "ru-sad.html",
+      "madrich-gina.html",
+      "madrich-bragim.html",
+      "ru-krepezh.html",
+      "ru-tovary-dlya-doma.html",
+      "madrich-klali.html"
+    ],
+    "alts": [
+      "S-крючки из нержавейки для кашпо — магазин «Ави Сентер», Холон",
+      "ווי תלייה מנירוסטה בצורת S לתליית עציצים וכלים, כפי שנמכרים באבי סנטר טמבוריה חולון",
+      "ווי תלייה מנירוסטה בצורת S, כפי שנמכרים באבי סנטר טמבוריה חולון",
+      "S-образные крючки из нержавеющей стали — «Ави Сентер», Холон"
+    ]
+  },
+  "/images/gina-chaslazon-adama.jpg": {
+    "pages": [
+      "ru-sad.html",
+      "madrich-gina.html"
+    ],
+    "alts": [
+      "Средство от улиток ADAMA, 500 г — магазин «Ави Сентер», Холон",
+      "חסלזון ADAMA 500 גרם להדברת חלזונות ושבלולים, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/nizila-matlit-microfiber-set.jpg": {
+    "pages": [
+      "madrich-nizila.html",
+      "ru-uborka.html"
+    ],
+    "alts": [
+      "3 מטליות מיקרופייבר Mrs Omega לכל סוגי הרצפות, באבי סנטר טמבוריה חולון",
+      "Набор салфеток из микрофибры — магазин «Ави Сентер», Холон"
+    ]
+  },
+  "/images/nizila-mivreshet-aslah-vileda.jpg": {
+    "pages": [
+      "madrich-nizila.html",
+      "ru-uborka.html"
+    ],
+    "alts": [
+      "מערכת מברשת אסלה Vileda PowerBrush עם מעמד, כפי שנמכרת באבי סנטר טמבוריה חולון",
+      "Ёршик для унитаза Vileda PowerBrush — магазин «Ави Сентер», Холон"
+    ]
+  },
+  "/images/nizila-omeded-mivreshet-aslah-shayish.jpg": {
+    "pages": [
+      "madrich-nizila.html"
+    ],
+    "alts": [
+      "מעמד מברשת אסלה בגימור שיש, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/nizila-matlit-vileda-rainbow.jpg": {
+    "pages": [
+      "madrich-nizila.html"
+    ],
+    "alts": [
+      "מטליות ניקוי Vileda Rainbow, כפי שנמכרות באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/nizila-matateim-mivreshot.jpg": {
+    "pages": [
+      "madrich-nizila.html"
+    ],
+    "alts": [
+      "מטאטאים ומברשות רצפה, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/nizila-rashei-matate.jpg": {
+    "pages": [
+      "madrich-nizila.html"
+    ],
+    "alts": [
+      "ראשי מטאטא בצבעים, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/nizila-matateim-magavim.jpg": {
+    "pages": [
+      "madrich-nizila.html"
+    ],
+    "alts": [
+      "מטאטאים ומגבים לרצפה, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/nizila-dliim-mivreshot-asla.jpg": {
+    "pages": [
+      "madrich-nizila.html"
+    ],
+    "alts": [
+      "דליים בכמה צבעים ומברשות אסלה, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/nizila-vileda-magav-chalonot.jpg": {
+    "pages": [
+      "madrich-nizila.html"
+    ],
+    "alts": [
+      "מגב ידני לחלונות Vileda, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/nizila-tavlit-nikuy-aslah-hepi.jpg": {
+    "pages": [
+      "madrich-nizila.html"
+    ],
+    "alts": [
+      "טבליות ניקוי לאסלה Hepi בניחוח אוקיינוס, כפי שנמכרות באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/nizila-vilon-miklachat-bad.jpg": {
+    "pages": [
+      "madrich-nizila.html",
+      "ru-uborka.html"
+    ],
+    "alts": [
+      "וילון מקלחת בד, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Тканевая шторка для душа — магазин «Ави Сентер», Холон"
+    ]
+  },
+  "/images/nizila-mesanen-kiyor-11cm.jpg": {
+    "pages": [
+      "madrich-nizila.html"
+    ],
+    "alts": [
+      "מסננת נירוסטה לכיור, קוטר חיצוני 11.3 ס&quot;מ, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/nizila-mesanen-kiyor-inox.jpg": {
+    "pages": [
+      "madrich-nizila.html",
+      "ru-uborka.html"
+    ],
+    "alts": [
+      "מסנן כיור מנירוסטה, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Фильтр-сетка для раковины из нержавейки — магазин «Ави Сентер», Холон"
+    ]
+  },
+  "/images/nizila-soda-kavistit-pkicha.jpg": {
+    "pages": [
+      "madrich-nizila.html",
+      "ru-uborka.html"
+    ],
+    "alts": [
+      "סודה קאוסטית לפתיחת סתימות, כפי שנמכרת באבי סנטר טמבוריה חולון",
+      "Каустическая сода для прочистки засоров — магазин «Ави Сентер», Холон"
+    ]
+  },
+  "/images/nizila-mellerud-avnit.jpg": {
+    "pages": [
+      "madrich-nizila.html",
+      "ru-uborka.html"
+    ],
+    "alts": [
+      "Mellerud השיפוצניק MAX, חומר ניקוי חזק לרצפות על בסיס חומצה, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Mellerud — средство для очистки после ремонта — магазин «Ави Сентер», Холон"
+    ]
+  },
+  "/images/nizila-carbona-avnit.jpg": {
+    "pages": [
+      "madrich-nizila.html"
+    ],
+    "alts": [
+      "Carbona לניקוי שטיחים וריפודים, עם מברשת, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/nizila-nakoy-zchuchit-halonga.jpg": {
+    "pages": [
+      "madrich-nizila.html",
+      "ru-uborka.html"
+    ],
+    "alts": [
+      "מנקה זכוכית ומראות בהתזה, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Средство для стёкол и зеркал — магазин «Ави Сентер», Холон"
+    ]
+  },
+  "/images/nizila-poliboy-nikuy-rehitim.jpg": {
+    "pages": [
+      "madrich-nizila.html"
+    ],
+    "alts": [
+      "Poliboy פוליטורה לניקוי ריהוט עץ, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/nizila-mivreshot-yad.jpg": {
+    "pages": [
+      "madrich-nizila.html"
+    ],
+    "alts": [
+      "מברשות ניקוי ידניות, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/nizila-lint-roller.jpg": {
+    "pages": [
+      "madrich-nizila.html"
+    ],
+    "alts": [
+      "רולר להסרת מוך ושערות, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/nizila-yaa-plastik.jpg": {
+    "pages": [
+      "madrich-nizila.html"
+    ],
+    "alts": [
+      "יעה (כף אשפה) מפלסטיק, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/nizila-drain-out-potei-stimot.jpg": {
+    "pages": [
+      "madrich-nizila.html",
+      "blog-stima-bakiyor-kfitz.html"
+    ],
+    "alts": [
+      "פותח סתימות Drain Out, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/nizila-bakbuk-rissus.jpg": {
+    "pages": [
+      "madrich-nizila.html"
+    ],
+    "alts": [
+      "בקבוק ריסוס, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/nizila-durgol-forte.jpg": {
+    "pages": [
+      "madrich-nizila.html"
+    ],
+    "alts": [
+      "durgol FORTE – מסיר אבנית וכתמים מאסלות ומשתנות, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/nizila-durgol-mesir-even.jpg": {
+    "pages": [
+      "madrich-nizila.html"
+    ],
+    "alts": [
+      "durgol מסיר אבן למכשירים ביתיים – קומקום ומכונת קפה, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/nizila-durgol-miklachon.jpg": {
+    "pages": [
+      "madrich-nizila.html"
+    ],
+    "alts": [
+      "דורגול מקלחון – לזכוכית המקלחון, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/nizila-chaluda-out.jpg": {
+    "pages": [
+      "madrich-nizila.html"
+    ],
+    "alts": [
+      "חלודה OUT – ג׳ל להסרת כתמי חלודה, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/nizila-chalonix-brak.jpg": {
+    "pages": [
+      "madrich-nizila.html"
+    ],
+    "alts": [
+      "חלוניX ברק קריסטלי – מנקה שמשות, 1 ליטר, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/nizila-mellerud-ovesh.jpg": {
+    "pages": [
+      "madrich-nizila.html"
+    ],
+    "alts": [
+      "Mellerud משמיד עובש, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/nizila-mellerud-mazgan.jpg": {
+    "pages": [
+      "madrich-nizila.html"
+    ],
+    "alts": [
+      "Mellerud ניקוי וטיהור המזגן, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/nizila-fit-original.jpg": {
+    "pages": [
+      "madrich-nizila.html"
+    ],
+    "alts": [
+      "fit Original – נוזל לניקוי כלים, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/nizila-carbona-ripud-shtichim.jpg": {
+    "pages": [
+      "madrich-nizila.html"
+    ],
+    "alts": [
+      "קרבונה – מסיר כתמים מריפוד ושטיחים, עם מברשת, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/nizila-soda-kaustit-yaad-chem.jpg": {
+    "pages": [
+      "madrich-nizila.html"
+    ],
+    "alts": [
+      "סודה קאוסטית של YAAD CHEM, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/gina-ekdach-hashkaya.jpg": {
+    "pages": [
+      "madrich-gina.html"
+    ],
+    "alts": [
+      "אקדח השקיה עם מחברים מהירים, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klali-ecco-glide-rehitim.jpg": {
+    "pages": [
+      "madrich-bragim.html",
+      "madrich-klali.html"
+    ],
+    "alts": [
+      "מגני רגלי רהיטים ECCO Stick עגולים, כפי שנמכרים באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/bragim-brgei-igun-beton.jpg": {
+    "pages": [
+      "madrich-bragim.html",
+      "ru-krepezh.html"
+    ],
+    "alts": [
+      "ברגי עיגון מתפשטים לבטון, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Анкерные болты для бетона — «Ави Сентер», Холон"
+    ]
+  },
+  "/images/bragim-mivchar-bragei-etz.jpg": {
+    "pages": [
+      "madrich-bragim.html",
+      "ru-krepezh.html"
+    ],
+    "alts": [
+      "ברגים לעץ ולדיבלים במגוון מידות, באבי סנטר טמבוריה חולון",
+      "Шурупы по дереву и под дюбель разных размеров — «Ави Сентер», Холон"
+    ]
+  },
+  "/images/bragim-kufsat-bragim-philips.jpg": {
+    "pages": [
+      "madrich-bragim.html",
+      "ru-krepezh.html"
+    ],
+    "alts": [
+      "ברגי פיליפס שטוחי ראש בקופסה, באבי סנטר טמבוריה חולון",
+      "Шурупы Phillips с плоской головкой в коробке — «Ави Сентер», Холон"
+    ]
+  },
+  "/images/bragim-vavei-boreg-ein.jpg": {
+    "pages": [
+      "madrich-bragim.html",
+      "ru-krepezh.html"
+    ],
+    "alts": [
+      "ווי בורג – עין וקרס, באבי סנטר טמבוריה חולון",
+      "Ввинчиваемые крючки — кольцо и крюк — «Ави Сентер», Холон"
+    ]
+  },
+  "/images/bragim-vavei-l.jpg": {
+    "pages": [
+      "madrich-bragim.html"
+    ],
+    "alts": [
+      "ווי L להברגה, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/bragim-masmerim-titibi.jpg": {
+    "pages": [
+      "madrich-bragim.html"
+    ],
+    "alts": [
+      "מסמרי פלדה מוקשים titibi, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/bragim-ogney-filips-mechaniim.jpg": {
+    "pages": [
+      "madrich-bragim.html"
+    ],
+    "alts": [
+      "עוגני פיליפס מכניים לבטון, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/berez-yadiyot-krom-spring.jpg": {
+    "pages": [
+      "blog-tikun-nezila-beberez.html"
+    ],
+    "alts": [
+      "זוג ידיות ברז פנינה כרום SPRING, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klali-vavim-nidbakim.jpg": {
+    "pages": [
+      "ru-tovary-dlya-doma.html",
+      "madrich-klali.html"
+    ],
+    "alts": [
+      "Клейкие крючки для стены — «Ави Сентер», Холон",
+      "ווים נדבקים לקיר, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klali-vavim-nirosta-nidbakim.jpg": {
+    "pages": [
+      "ru-tovary-dlya-doma.html",
+      "blog-vavim-nidbakim.html",
+      "madrich-klali.html"
+    ],
+    "alts": [
+      "Клейкие крючки из нержавеющей стали — «Ави Сентер», Холон",
+      "ווים נדבקים מנירוסטה, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klali-misparayim.jpg": {
+    "pages": [
+      "ru-tovary-dlya-doma.html",
+      "madrich-klali.html"
+    ],
+    "alts": [
+      "Ножницы для дома и офиса — «Ави Сентер», Холон",
+      "מספריים לבית ולמשרד, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klali-shatichon-ambatia.jpg": {
+    "pages": [
+      "ru-tovary-dlya-doma.html",
+      "madrich-klali.html"
+    ],
+    "alts": [
+      "Противоскользящий коврик для ванной — «Ави Сентер», Холон",
+      "שטיחון אמבטיה מונע החלקה, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klali-yadit-achiza-herman.jpg": {
+    "pages": [
+      "ru-tovary-dlya-doma.html",
+      "madrich-klali.html"
+    ],
+    "alts": [
+      "Ручка-поручень Herman — «Ави Сентер», Холон",
+      "ידית אחיזה Herman, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klali-atvei-kvisa-tzivoniyim.jpg": {
+    "pages": [
+      "ru-tovary-dlya-doma.html",
+      "madrich-klali.html"
+    ],
+    "alts": [
+      "Цветные пластиковые прищепки — «Ави Сентер», Холон",
+      "אטבי כביסה מפלסטיק בצבעים, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klali-potchan-bakbukim-etz.jpg": {
+    "pages": [
+      "ru-tovary-dlya-doma.html",
+      "madrich-klali.html"
+    ],
+    "alts": [
+      "Открывалка с деревянной ручкой — «Ави Сентер», Холон",
+      "פותחן בקבוקים עם ידית עץ, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/instalazia-spadini-la-rocca-masnenet.jpg": {
+    "pages": [
+      "blog-kiyor-mitbach-mitnakez-leat.html"
+    ],
+    "alts": [
+      "מסננת נירוסטה SPADINI לה רוקה לכיור מטבח אמריקאי, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/manulim-onguard-827-laminated.jpg": {
+    "pages": [
+      "blog-eyze-manul-tliya.html",
+      "madrich-manulin.html"
+    ],
+    "alts": [
+      "מנעול תלייה מפלדה בשכבות (למינציה) OnGuard 827 עם הגנת Bump Blok, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "מנעול תלייה מפלדה בשכבות OnGuard 827 עם הגנת Bump Blok, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klali-vavim-nirosta-nidbakim-2.jpg": {
+    "pages": [
+      "madrich-klali.html"
+    ],
+    "alts": [
+      "ווים נדבקים מנירוסטה, בלי קידוח, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klali-klipsim-kviseh.jpg": {
+    "pages": [
+      "madrich-klali.html"
+    ],
+    "alts": [
+      "קליפסי כביסה צבעוניים לתלייה, כפי שנמכרים באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klim-mashpech-plastik.jpg": {
+    "pages": [
+      "madrich-klali.html"
+    ],
+    "alts": [
+      "משפכי פלסטיק בכמה גדלים, כפי שנמכרים באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klali-tzeva-bdim-ideal.jpg": {
+    "pages": [
+      "madrich-klali.html"
+    ],
+    "alts": [
+      "צבע לבדים IDEAL לכביסה במכונה, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klali-chevel-kalua.jpg": {
+    "pages": [
+      "madrich-klali.html"
+    ],
+    "alts": [
+      "חבל קלוע, נמכר לפי מטר, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klali-vavim-nidbakim-2kg.jpg": {
+    "pages": [
+      "madrich-klali.html"
+    ],
+    "alts": [
+      "ווים נדבקים עד 2 ק&quot;ג, בלי קידוח, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klali-ideal-tseva-badim-marine.jpg": {
+    "pages": [
+      "madrich-klali.html"
+    ],
+    "alts": [
+      "IDEAL צבע לבדים הכול-באחד – כחול נייבי, לכותנה, פשתן, משי וויסקוזה, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klali-ideal-tseva-badim-chocolat.jpg": {
+    "pages": [
+      "madrich-klali.html"
+    ],
+    "alts": [
+      "IDEAL צבע לבדים הכול-באחד – חום שוקולד, לכותנה, פשתן, משי וויסקוזה, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klali-chevel-rav-tachliti.jpg": {
+    "pages": [
+      "madrich-klali.html"
+    ],
+    "alts": [
+      "חבל רב-תכליתי לבן-כחול-אדום 1 מטר, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klali-kos-rav-paamit-camptown.jpg": {
+    "pages": [
+      "madrich-klali.html"
+    ],
+    "alts": [
+      "כוס קפה רב-פעמית ידידותית לסביבה CAMPTOWN, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klali-seret-kirtsuf-nikoy-yesodi.jpg": {
+    "pages": [
+      "madrich-klali.html"
+    ],
+    "alts": [
+      "סרט קרצוף לניקוי יסודי של משטחים 1 מטר, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klali-mivreshot-ritspa-shlosha-sugim.jpg": {
+    "pages": [
+      "madrich-klali.html"
+    ],
+    "alts": [
+      "ראשי מברשת רצפה להחלפה 3 סוגים, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klali-sechava-ritspa-milenium.jpg": {
+    "pages": [
+      "madrich-klali.html"
+    ],
+    "alts": [
+      "סחבת רצפה סחיטה מילניום סקוויג'י, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klali-mechonat-tisporet-kemei.jpg": {
+    "pages": [
+      "madrich-klali.html"
+    ],
+    "alts": [
+      "מכונת תספורת מקצועית Kemei עם טעינת USB, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klali-boks-hazrama-gold-sat-a7.jpg": {
+    "pages": [
+      "madrich-klali.html"
+    ],
+    "alts": [
+      "מקלט הזרמה 8K Gold Sat A7, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klali-refidot-leved-agulot-ecco-gdolot.jpg": {
+    "pages": [
+      "madrich-klali.html"
+    ],
+    "alts": [
+      "רפידות לבד עגולות דביקות גדולות להגנת רצפה ECCO, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klali-refidot-gumi-meruba-ecco-stick.jpg": {
+    "pages": [
+      "madrich-klali.html"
+    ],
+    "alts": [
+      "רפידות גומי מרובעות נגד החלקה ECCO Stick, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klali-refidot-leved-agulot-hyderon-16.jpg": {
+    "pages": [
+      "madrich-klali.html"
+    ],
+    "alts": [
+      "רפידות לבד עגולות דביקות Hyderon סט 16, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klali-misparot-gova-metal-krom.jpg": {
+    "pages": [
+      "madrich-klali.html"
+    ],
+    "alts": [
+      "ספרות מספור בית מתכת כרום, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/bayit-agalat-kniyot-nurieli-teluya.jpg": {
+    "pages": [
+      "madrich-agalot.html"
+    ],
+    "alts": [
+      "עגלת קניות נוריאלי ומתקני ייבוש כביסה, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/agalot-nurieli-mitkan-yibush-kt027a.jpg": {
+    "pages": [
+      "madrich-agalot.html"
+    ],
+    "alts": [
+      "מתקן לייבוש כביסה נוריאלי KT-027A, ציפוי אל-חלד, 180×55×105 ס&quot;מ, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/agalot-atvei-kvisa-yarok-katom.jpg": {
+    "pages": [
+      "madrich-agalot.html"
+    ],
+    "alts": [
+      "אטבי כביסה פלסטיק ירוק וכתום, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/bayit-magev-chalonot-teleskopi.jpg": {
+    "pages": [
+      "madrich-agalot.html",
+      "blog-nikuy-chalonot-gvohim.html"
+    ],
+    "alts": [
+      "מגבי חלונות עם מוט טלסקופי, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/bayit-vileda-powerbrush.jpg": {
+    "pages": [
+      "madrich-agalot.html"
+    ],
+    "alts": [
+      "סט מברשת אסלה Vileda PowerBrush, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/bayit-mivreshot-asla.jpg": {
+    "pages": [
+      "madrich-agalot.html"
+    ],
+    "alts": [
+      "מברשות אסלה Plastart, SPADINI ו-Vileda, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/bayit-mivreshet-asla-shayish.jpg": {
+    "pages": [
+      "madrich-agalot.html"
+    ],
+    "alts": [
+      "מברשות אסלה בעיצוב שיש, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/bayit-kolavim-etz.jpg": {
+    "pages": [
+      "madrich-agalot.html"
+    ],
+    "alts": [
+      "קולבי עץ, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/bayit-mitle-vavim-delet.jpg": {
+    "pages": [
+      "madrich-agalot.html"
+    ],
+    "alts": [
+      "מתלה ווים לדלת, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/hadabara-gel-nemalim-topgel.jpg": {
+    "pages": [
+      "madrich-hadabara.html",
+      "ru-vrediteli.html"
+    ],
+    "alts": [
+      "פתיון ג&#39;ל TopGel להדברת נמלת האש הקטנה ונמלים אחרות, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Гель TopGel от муравьёв — магазин «Ави Сентер», Холон"
+    ]
+  },
+  "/images/hadabara-herman-malkodet-devek-achbarim.jpg": {
+    "pages": [
+      "madrich-hadabara.html",
+      "ru-vrediteli.html"
+    ],
+    "alts": [
+      "מלכודת דבק לעכברים HERMAN, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Клеевая ловушка HERMAN для мышей — магазин «Ави Сентер», Холон"
+    ]
+  },
+  "/images/hadabara-karat-malkodet-devek-achbarim.jpg": {
+    "pages": [
+      "madrich-hadabara.html"
+    ],
+    "alts": [
+      "מלכודת דבק לעכברים KARAT, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/hadabara-klips-magen-mivasem-aron-relevi.jpg": {
+    "pages": [
+      "madrich-hadabara.html"
+    ],
+    "alts": [
+      "קליפס מגן עש ומבשם ריח לבנדר לארון בגדים Relevi, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/manulim-herman-64mm.jpg": {
+    "pages": [
+      "madrich-manulin.html"
+    ],
+    "alts": [
+      "מנעול תליה Herman 64 מ&quot;מ, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/manulim-kevel-ofanaim-herman-adom.jpg": {
+    "pages": [
+      "madrich-manulin.html"
+    ],
+    "alts": [
+      "מנעול כבל לאופניים Herman, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/manulim-alba-shackle-arokh-1.jpg": {
+    "pages": [
+      "madrich-manulin.html"
+    ],
+    "alts": [
+      "מנעול תליה ALBA עם רתק ארוך, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/manulim-dynamic-pro-rav-bariach.jpg": {
+    "pages": [
+      "madrich-manulin.html"
+    ],
+    "alts": [
+      "צילינדר רב-בריח DYNAMIC PRO, 3 מפתחות, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/manulim-manul-taliya-rb.jpg": {
+    "pages": [
+      "madrich-manulin.html"
+    ],
+    "alts": [
+      "מנעול תליה פליז רב-בריח RB-100, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/manulim-manul-tzofen-geco.jpg": {
+    "pages": [
+      "madrich-manulin.html"
+    ],
+    "alts": [
+      "מנעול תליה עם צופן, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/manulim-onguard-865-aluminium.jpg": {
+    "pages": [
+      "madrich-manulin.html"
+    ],
+    "alts": [
+      "מנעול תליה אלומיניום OnGuard 865 עם רתק ארוך, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/manulim-padlock-50mm-gold-2.jpg": {
+    "pages": [
+      "madrich-manulin.html"
+    ],
+    "alts": [
+      "מנעול תליה 50 מ&quot;מ בגימור זהב, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/manulim-herman-44mm-mafteach.jpg": {
+    "pages": [
+      "madrich-manulin.html"
+    ],
+    "alts": [
+      "מנעול תלייה ALBA עם מפתחות, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/manulim-alba-n40.jpg": {
+    "pages": [
+      "madrich-manulin.html"
+    ],
+    "alts": [
+      "מנעול תלייה פליז Herman, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/manulim-alba-shackle-mafteach.jpg": {
+    "pages": [
+      "madrich-manulin.html"
+    ],
+    "alts": [
+      "מנעול תליה ALBA עם מפתחות, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/manulim-alba-n50.jpg": {
+    "pages": [
+      "madrich-manulin.html"
+    ],
+    "alts": [
+      "מנעול תליה ALBA N50, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/manulim-herman-15mm.jpg": {
+    "pages": [
+      "madrich-manulin.html"
+    ],
+    "alts": [
+      "מנעול תלייה Herman עם רתק מוקשה, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/manulim-doberman-8034-tzofen.jpg": {
+    "pages": [
+      "madrich-manulin.html"
+    ],
+    "alts": [
+      "מנעול כבל עם צופן Doberman 8034, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/manulim-onguard-832.jpg": {
+    "pages": [
+      "madrich-manulin.html"
+    ],
+    "alts": [
+      "מנעול תליה OnGuard 832 פלדה מרובדת, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/manulim-manul-delet-herman.jpg": {
+    "pages": [
+      "madrich-manulin.html"
+    ],
+    "alts": [
+      "ידית בטחון לדלת Herman בצבע לבן, כפי שנמכרת באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/manulim-kevel-spirala-herman.jpg": {
+    "pages": [
+      "madrich-manulin.html"
+    ],
+    "alts": [
+      "מנעול כבל ספירלי Herman עם מפתח, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/manulim-parsa-herman-245.jpg": {
+    "pages": [
+      "madrich-manulin.html"
+    ],
+    "alts": [
+      "מנעול פרסה ארוך Herman 245 מ&quot;מ, באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/dvakim-adhestick-devek-maga.jpg": {
+    "pages": [
+      "blog-devek-maga.html"
+    ],
+    "alts": [
+      "דבק מגע Adhestick לכל מטרה 50 מ״ל, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/dvakim-hercules-devek-maga-103.jpg": {
+    "pages": [
+      "blog-devek-maga.html"
+    ],
+    "alts": [
+      "דבק מגע סופר 103 של הרקולס, כפי שנמכר באבי סנטר טמבוריה חולון"
+    ]
+  },
+  "/images/klim-set-alen-hunter.jpg": {
+    "pages": [
+      "madrich-klim.html",
+      "ru-instrumenty.html"
+    ],
+    "alts": [
+      "סט מפתחות אלן Hunter, כפי שנמכר באבי סנטר טמבוריה חולון",
+      "Набор шестигранников Hunter в магазине «Ави Сентер», Холон"
+    ]
+  }
 }
