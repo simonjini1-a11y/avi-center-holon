@@ -102,6 +102,8 @@ footer{background:var(--black2);border-top:1px solid var(--g1);padding:28px;text
       gtag('event','whatsapp_click',{event_category:'contact',event_label:document.title,page_path:location.pathname,link_location:(a.closest('.mbar')?'sticky_bar':a.closest('.pq')?'product':a.closest('.acta')?'article_box':a.closest('.dfab')?'desktop_float':a.closest('.nav-ct')?'nav':'page')});
     }else if(href.indexOf('waze.com')!==-1||href.indexOf('maps.app.goo.gl')!==-1||href.indexOf('google.com/maps')!==-1){
       gtag('event','directions_click',{event_category:'contact',event_label:document.title,page_path:location.pathname,link_location:(a.closest('.mbar')?'sticky_bar':a.closest('.pq')?'product':a.closest('.acta')?'article_box':a.closest('.dfab')?'desktop_float':a.closest('.nav-ct')?'nav':'page')});
+    }else if(href.indexOf('g.page')!==-1&&href.indexOf('review')!==-1){
+      gtag('event','review_click',{event_category:'contact',event_label:document.title,page_path:location.pathname,link_location:(a.closest('.mbar')?'sticky_bar':a.closest('.pq')?'product':a.closest('.acta')?'article_box':a.closest('.dfab')?'desktop_float':a.closest('.nav-ct')?'nav':'page')});
     }
   },true);
 </script>
