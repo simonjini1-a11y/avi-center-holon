@@ -157,9 +157,9 @@ details{background:#fff;border:1px solid var(--c-line);border-radius:10px;paddin
 .ic47 a{flex:0 0 auto}
 
 /* v49: one size rule for every content photo (desktop + mobile) */
-main img:not(.pgrid img):not(.dc46 img):not(.ic47 img):not(.ct58 img):not(.photo47 img):not(.blk47 img):not(.help47i>img):not(.help47a img):not(.ch60):not(.h47wa img):not(.meta img):not(.nf46 img):not([width="34"]):not([width="40"]){
+main img:not(.pgrid img):not(.dc46 img):not(.ic47 img):not(.ct58 img):not(.photo47 img):not(.blk47 img):not(.help47i>img):not(.help47a img):not(.ch60):not(.h47wa img):not(.meta img):not(.nf46 img):not([width="34"]):not([width="40"]):not(.relimg){
   width:auto!important;max-width:min(100%,520px)!important;max-height:420px!important;height:auto!important;object-fit:contain;display:block;margin:12px auto!important;border-radius:10px}
-@media(max-width:768px){main img:not(.pgrid img):not(.dc46 img):not(.ic47 img):not(.ct58 img):not(.photo47 img):not(.blk47 img):not(.help47i>img):not(.help47a img):not(.ch60):not(.h47wa img):not(.meta img):not(.nf46 img):not([width="34"]):not([width="40"]){max-height:360px!important}}
+@media(max-width:768px){main img:not(.pgrid img):not(.dc46 img):not(.ic47 img):not(.ct58 img):not(.photo47 img):not(.blk47 img):not(.help47i>img):not(.help47a img):not(.ch60):not(.h47wa img):not(.meta img):not(.nf46 img):not([width="34"]):not([width="40"]):not(.relimg){max-height:360px!important}}
 .pgrid figure img{width:100%!important;max-width:100%!important;aspect-ratio:1/1;height:auto!important;object-fit:cover;max-height:none!important;margin:0!important}
 .sec47 img[alt^="אבי משכפל"]{width:100%!important;max-width:760px!important;max-height:none!important;aspect-ratio:16/9;object-fit:cover;margin:0 0 24px!important}
 
@@ -259,3 +259,5 @@ html body .ch60{display:inline-block;width:56px!important;height:56px!important;
 .f47pair{display:grid;grid-template-columns:1fr 1fr;gap:20px}
 body{padding-bottom:76px}
 }
+
+.relimg{width:56px!important;height:56px!important;max-width:56px!important;max-height:56px!important;object-fit:cover!important;display:block!important;margin:0!important}
