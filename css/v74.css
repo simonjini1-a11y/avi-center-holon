@@ -259,6 +259,7 @@ html body .ch60{display:inline-block;width:56px!important;height:56px!important;
 body{padding-bottom:76px}
 }
 .f47pair{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.f47pair .f47c{min-width:0}
 @media(min-width:769px){.f47pair{gap:20px}}
 
 .relimg{width:56px!important;height:56px!important;max-width:56px!important;max-height:56px!important;object-fit:cover!important;display:block!important;margin:0!important}
