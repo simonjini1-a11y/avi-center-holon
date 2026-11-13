@@ -486,5 +486,15 @@ GA4 (כבר מותקן באתר, `G-ME1HXEDW1G`) קולט `utm_source`/`utm_medi
 
 **לא ניתן לתקן מכאן**: זה דורש גישה לחשבון Google Ads עצמו (לא ל-API שיש לי) — לבדוק בסעיף Conversions שם, את ה-trigger/setup המדויק של הפעולות "phone_click" ו-"directions_click", ולתקן (לקשור נכון ל-GA4 key event בפועל, או למחוק אם זה כפילות מיותרת). **פעולה למשתמש**: לבדוק אם יש בכלל חשבון Google Ads מקושר ל-GA4 הזה (ואם כן — לשתף גישה או לבדוק ישירות בממשק Google Ads → Conversions).
 
+### 10.8. שירותי GBP (Services) — יש API אמיתי, בניגוד למוצרים (13/11)
+
+המשתמש ביקש "להעלות מוצרים ולעדכן שירותים ב-GBP". **מוצרים**: כפי שתועד בסעיף 10.4, אין API ציבורי לקטלוג "Products" של GBP. **שירותים (Services) — לעומת זאת יש API אמיתי ועובד**: שדה `serviceItems` על ה-Location resource (`mybusinessbusinessinformation.googleapis.com/v1/{location}`, `PATCH` עם `updateMask=serviceItems`).
+
+**מה נוסף בפועל, 200 OK ואומת ב-GET חוזר** — שישה שירותים, כולם מבוססי תוכן אמיתי שכבר קיים באתר (לא הומצא כלום):
+- 3 **structuredServiceItem** תחת הקטגוריה הקיימת `key_duplication_service` (נמצאו ה-serviceTypeId הזמינים דרך `categories:batchGet?view=FULL`): `copy_building_key` (שכפול מפתחות למבנים — תואם shikpul.html), `rekey_lock` (החלפת מפתח למנעול — תואם blog-hachlafat-tzilinder.html), `install_hardware` (התקנת מנעולים/בריחים — תואם madrich-manulin.html).
+- 3 **freeFormServiceItem** תחת `plumbing_supply_store` (לקטגוריה הזו אין serviceTypes מובנים), עם טקסט שנלקח **מילה במילה** מה-meta description האמיתי של `tikunim.html`: "תיקון נזילות מים בבית", "החלפת ברזים, מזלפים וצינורות שזירה", "איטום וסיליקון".
+
+**לפעולה עתידית**: אפשר להרחיב עוד (למשל שירותי צבע/ערבוב צבעים אם יש קטגוריה מתאימה ל-`dye_store`, או עוד serviceTypes מ-`tool_store`) — לבדוק שוב `categories:batchGet` לקטגוריות הנוספות (`dye_store`, `tool_store`, `building_materials_store`) בסבב הבא ולהוסיף מה שרלוונטי ואמיתי.
+
 ---
 *קובץ זה נוצר 3/11/2026 מתוך Claude Doc מלא (53 גרסאות עדכון). לעדכן בסוף כל סבב עבודה משמעותי.*
