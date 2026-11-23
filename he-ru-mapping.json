@@ -1,4 +1,24 @@
 {
+  "ru-anti-snap-cilindr.html": [
+    "blog-eyze-manul-anti-snap.html",
+    "verified-complete (23/11): full structural parity with HE -- matching image count (16/16), h2 count (8/8), details/FAQ count (7/7), balanced divs (40/40), valid FAQPage/Article/Breadcrumb JSON-LD, reciprocal hreflang added on HE source, 0 fabricated facts."
+  ],
+  "ru-kakoj-otvertka.html": [
+    "blog-eyze-mavreg-livchor.html",
+    "verified-complete (23/11): full structural parity with HE -- matching image count (17/17), h2 count (20/20), details/FAQ count (5/5), balanced divs (39/39), valid FAQPage/Article/Breadcrumb JSON-LD, reciprocal hreflang added on HE source, 0 fabricated facts."
+  ],
+  "ru-prajmer-pered-pokraskoj.html": [
+    "blog-primer-lifney-tzviya.html",
+    "verified-complete (23/11): full structural parity with HE -- matching image count (15/15), h2 count (9/9), details/FAQ count (6/6), balanced divs (41/41), valid FAQPage/Article/Breadcrumb JSON-LD, reciprocal hreflang added on HE source, 0 fabricated facts."
+  ],
+  "ru-pokraska-metalla.html": [
+    "blog-tzviat-matechet.html",
+    "verified-complete (23/11): full structural parity with HE -- matching image count (15/15), h2 count (7/7), details/FAQ count (6/6), balanced divs (38/38), valid FAQPage/Article/Breadcrumb/HowTo JSON-LD, reciprocal hreflang added on HE source, 0 fabricated facts."
+  ],
+  "ru-kakoj-kran-vybrat.html": [
+    "blog-eyze-berez-livchor.html",
+    "verified-complete (23/11): full structural parity with HE -- matching image count (17/17), h2 count (15/15), details/FAQ count (5/5), balanced divs (43/43), valid FAQPage/Article/Breadcrumb/HowTo JSON-LD, reciprocal hreflang added on HE source, 0 fabricated facts."
+  ],
   "ru-dublikat-multlok.html": [
     "blog-shichpul-mafteach-multilock.html",
     "verified-complete (16/11): full structural parity with HE -- matching image count, FAQ count, and FAQPage schema. Rebuilt via parallel fork batches, cross-checked against live HE source, 0 fabricated facts."
