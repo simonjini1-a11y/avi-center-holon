@@ -1,4 +1,60 @@
 {
+  "ru-hadabara.html": [
+    "blog-hadabara-bayit-madrich.html",
+    "verified-complete (23/11): full structural parity with HE -- matching image count (18/18), h2 count (8/8), details/FAQ count (7/7), balanced divs (41/41), valid FAQPage/Article/Breadcrumb JSON-LD, reciprocal hreflang added on HE source, 0 fabricated facts."
+  ],
+  "ru-poliv-balkona.html": [
+    "blog-hashkaya-mirpeset.html",
+    "verified-complete (23/11): full structural parity with HE -- matching image count (17/17), h2 count (8/8), details/FAQ count (5/5), balanced divs (36/36), valid FAQPage/Article/Breadcrumb JSON-LD, reciprocal hreflang added on HE source, 0 fabricated facts."
+  ],
+  "ru-utepleniye-dverej-okon.html": [
+    "blog-itum-delatot-chalonot.html",
+    "verified-complete (23/11): full structural parity with HE -- matching image count (16/16), h2 count (8/8), details/FAQ count (5/5), balanced divs (39/39), valid FAQPage/Article/Breadcrumb JSON-LD, reciprocal hreflang added on HE source, 0 fabricated facts."
+  ],
+  "ru-skolko-lampochek-led.html": [
+    "blog-kama-norot-led-lecheder.html",
+    "verified-complete (23/11): full structural parity with HE -- matching image count (14/14), h2 count (8/8), details/FAQ count (7/7), balanced divs (41/41), valid FAQPage/Breadcrumb JSON-LD, reciprocal hreflang added on HE source, 0 fabricated facts."
+  ],
+  "ru-slabyj-napor-vody-v-dushe.html": [
+    "blog-lachatz-mayim-chalash-bemikla.html",
+    "verified-complete (23/11): full structural parity with HE -- matching image count (19/19), h2 count (8/8), details/FAQ count (6/6), balanced divs (42/42), valid FAQPage/Article/Breadcrumb/HowTo JSON-LD, reciprocal hreflang added on HE source, 0 fabricated facts."
+  ],
+  "ru-slomalsya-klyuch-v-zamke.html": [
+    "blog-mafteach-nishbar-bamanul.html",
+    "verified-complete (23/11): full structural parity with HE -- matching image count (17/17), h2 count (8/8), details/FAQ count (6/6), balanced divs (36/36), valid FAQPage/Article/Breadcrumb/HowTo JSON-LD, reciprocal hreflang added on HE source, 0 fabricated facts."
+  ],
+  "ru-cement-ili-klej-dlya-plitki.html": [
+    "blog-melet-tit-o-devek-keramika.html",
+    "verified-complete (23/11): full structural parity with HE -- matching image count (15/15), h2 count (9/9), details/FAQ count (5/5), balanced divs (36/36), valid FAQPage/Article/Breadcrumb/HowTo JSON-LD, reciprocal hreflang added on HE source, 0 fabricated facts."
+  ],
+  "ru-ustanovka-mezalfa-bide.html": [
+    "blog-mezalef-bide-hatkana.html",
+    "verified-complete (23/11): full structural parity with HE -- matching image count (18/18), h2 count (7/7), details/FAQ count (5/5), balanced divs (41/41), valid FAQPage/Article/Breadcrumb/HowTo JSON-LD, reciprocal hreflang added on HE source, 0 fabricated facts."
+  ],
+  "ru-zaperlis-na-ulitse.html": [
+    "blog-naalti-bachutz-mah-osim.html",
+    "verified-complete (23/11): full structural parity with HE -- matching image count (16/16), h2 count (8/8), details/FAQ count (7/7), balanced divs (39/39), valid FAQPage/Article/Breadcrumb JSON-LD, reciprocal hreflang added on HE source, 0 fabricated facts."
+  ],
+  "ru-protechka-v-tualete.html": [
+    "blog-nezila-bashrutim-mah-osim.html",
+    "verified-complete (23/11): full structural parity with HE -- matching image count (16/16), h2 count (8/8), details/FAQ count (5/5), balanced divs (41/41), valid FAQPage/Article/Breadcrumb JSON-LD, reciprocal hreflang added on HE source, 0 fabricated facts."
+  ],
+  "ru-myte-vysokih-okon.html": [
+    "blog-nikuy-chalonot-gvohim.html",
+    "verified-complete (23/11): full structural parity with HE -- matching image count (17/17), h2 count (5/5), details/FAQ count (4/4), balanced divs (36/36), valid FAQPage/Article/Breadcrumb/HowTo JSON-LD, reciprocal hreflang added on HE source, 0 fabricated facts."
+  ],
+  "ru-chistka-aeratora-krana.html": [
+    "blog-nikuy-mesanenet-berez.html",
+    "verified-complete (23/11): full structural parity with HE -- matching image count (18/18), h2 count (6/6), details/FAQ count (5/5), balanced divs (35/35), valid Article/Breadcrumb/HowTo JSON-LD, reciprocal hreflang added on HE source, 0 fabricated facts."
+  ],
+  "ru-peregruzka-udlinitelya.html": [
+    "blog-omes-chashmali-rav-sheka.html",
+    "verified-complete (23/11): full structural parity with HE -- matching image count (14/14), h2 count (8/8), details/FAQ count (7/7), balanced divs (40/40), valid FAQPage/Article/Breadcrumb JSON-LD, reciprocal hreflang added on HE source, 0 fabricated facts."
+  ],
+  "ru-plesen-v-vannoy.html": [
+    "blog-ovesh-bamiklachat.html",
+    "verified-complete (23/11): full structural parity with HE -- matching image count (16/16), h2 count (7/7), details/FAQ count (6/6), balanced divs (39/39), valid FAQPage/Article/Breadcrumb/HowTo JSON-LD, reciprocal hreflang added on HE source, 0 fabricated facts."
+  ],
   "ru-anti-snap-cilindr.html": [
     "blog-eyze-manul-anti-snap.html",
     "verified-complete (23/11): full structural parity with HE -- matching image count (16/16), h2 count (8/8), details/FAQ count (7/7), balanced divs (40/40), valid FAQPage/Article/Breadcrumb JSON-LD, reciprocal hreflang added on HE source, 0 fabricated facts."
@@ -130,5 +186,33 @@
   "ru.html": [
     null,
     "no HE counterpart -- RU hub/landing page, by design"
+  ],
+  "ru-izvestkovyj-nalet.html": [
+    "blog-avnit-bli-lifgoa-batzeva.html",
+    "verified-complete (23/11): full structural parity with HE -- matching image count (18/18), h2 count (8/8), details/FAQ count (7/7), balanced divs (39/39), valid FAQPage/Article/Breadcrumb/HowTo JSON-LD, reciprocal hreflang added on HE source, 0 fabricated facts."
+  ],
+  "ru-material-remont-sten.html": [
+    "blog-chomer-letikun-kirot.html",
+    "verified-complete (23/11): full structural parity with HE -- matching image count (15/15), h2 count (9/9), details/FAQ count (7/7), balanced divs (42/42), valid FAQPage/Article/Breadcrumb JSON-LD, reciprocal hreflang added on HE source, 0 fabricated facts."
+  ],
+  "ru-klej-kontaktnyj.html": [
+    "blog-devek-maga.html",
+    "verified-complete (23/11): full structural parity with HE -- matching image count (17/17), h2 count (5/5), details/FAQ count (7/7), balanced divs (41/41), valid FAQPage/Article/Breadcrumb/HowTo/ItemList JSON-LD, reciprocal hreflang added on HE source, 0 fabricated facts."
+  ],
+  "ru-kakuyu-telezhku-kupit.html": [
+    "blog-eyze-agalat-kniyot.html",
+    "verified-complete (23/11): full structural parity with HE -- matching image count (19/19), h2 count (5/5), details/FAQ count (4/4), balanced divs (35/35), valid FAQPage/Article/Breadcrumb/HowTo/ItemList JSON-LD, reciprocal hreflang added on HE source, 0 fabricated facts."
+  ],
+  "ru-klej-po-materialu.html": [
+    "blog-eyze-devek-lechomer.html",
+    "verified-complete (23/11): full structural parity with HE -- matching image count (16/16), h2 count (8/8), details/FAQ count (8/8), balanced divs (43/43), valid FAQPage/Article/Breadcrumb JSON-LD, reciprocal hreflang added on HE source, 0 fabricated facts."
+  ],
+  "ru-kakoj-valik-vybrat.html": [
+    "blog-eyze-roller-livchor.html",
+    "verified-complete (23/11): full structural parity with HE -- matching image count (14/14), h2 count (9/9), details/FAQ count (6/6), balanced divs (41/41), valid FAQPage/Article/Breadcrumb JSON-LD, reciprocal hreflang added on HE source, 0 fabricated facts."
+  ],
+  "ru-kakoj-shlang-dlya-dusha.html": [
+    "blog-eyze-tzinor-miklachat.html",
+    "verified-complete (23/11): full structural parity with HE -- matching image count (21/21), h2 count (7/7), details/FAQ count (5/5), balanced divs (40/40), valid FAQPage/Article/Breadcrumb/HowTo/ItemList JSON-LD, reciprocal hreflang added on HE source, 0 fabricated facts."
   ]
 }
