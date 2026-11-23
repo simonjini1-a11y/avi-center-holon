@@ -1,0 +1,6 @@
+date_started,change_type,page,target_query,baseline_position,baseline_impressions_90d,checkback_date,status,notes
+2026-11-17,content_decision_section,blog-shpachtel-madrich,איזה שפכטל לקנות לתיקון סדקים בבית,6.6,23,2026-12-01,failed,"0% CTR after 6 days despite decent position, ruled authority-ceiling not content gap, documented STRATEGY.md 10.49 -- do not repeat this pattern elsewhere without new evidence"
+2026-11-23,title_meta_h1_keyword,blog-chomer-letikun-kirot,חומר מילוי לקיר,17.5,33,2026-12-15,pending,"added missing exact-match term 'מילוי' to title/h1/og/schema headline, no content changes"
+2026-11-23,title_meta_h1_keyword,blog-eyze-devek-lechomer,סוגי דבקים,40.5,45,2026-12-15,pending,"added missing exact-match term 'סוגי דבקים' to title/h1/og/schema headline, no content changes"
+2026-11-23,internal_links_added,blog-devek-maga,דבק מגע,22.9,61,2026-12-15,pending,"added 2 new contextual inbound links from blog-itum-ambatia and blog-vavim-nidbakim, was at 4 inbound links"
+2026-11-23,internal_links_added,blog-shpachtel-hamadrich-hashalem,שפכטל,n/a,706,2026-12-15,pending,"weakest-position page in shpachtel cluster (11.6), added 2 new inbound links from sibling pages, watch whole cluster not just one query"
