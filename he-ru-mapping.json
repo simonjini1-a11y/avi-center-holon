@@ -258,5 +258,13 @@
   "ru-shpaklevka-gipsokarton.html": [
     "blog-shpachtel-kir-gevs.html",
     "verified-complete (24/11): structural parity confirmed, img/h2/FAQ counts match HE exactly."
+  ],
+  "ru-shpaklevka-gid.html": [
+    "blog-shpachtel-madrich.html",
+    "verified-complete (24/11): structural parity confirmed, img/h2/FAQ counts match HE exactly (19/19, 22/22, 10/10), balanced divs (50/50), valid Article/Breadcrumb/FAQPage JSON-LD, reciprocal hreflang added on HE source, 0 fabricated facts."
+  ],
+  "ru-shpaklevka-vremya-sykhnet.html": [
+    "blog-shpachtel-zman-yibush.html",
+    "verified-complete (24/11): structural parity confirmed, img/h2/FAQ counts match HE exactly (15/15, 7/7, 7/7), balanced divs (41/41), valid Article/Breadcrumb/FAQPage JSON-LD, reciprocal hreflang added on HE source, 0 fabricated facts."
   ]
 }
