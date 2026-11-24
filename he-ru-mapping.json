@@ -266,5 +266,33 @@
   "ru-shpaklevka-vremya-sykhnet.html": [
     "blog-shpachtel-zman-yibush.html",
     "verified-complete (24/11): structural parity confirmed, img/h2/FAQ counts match HE exactly (15/15, 7/7, 7/7), balanced divs (41/41), valid Article/Breadcrumb/FAQPage JSON-LD, reciprocal hreflang added on HE source, 0 fabricated facts."
+  ],
+  "ru-blog.html": [
+    "blog.html",
+    "verified-complete (24/11): index page, full structural parity with HE -- matching image count (15/15), h2 count (7/7), 48/48 article cards (all linked to RU translations where available; all 48 HE blog posts had RU mappings, none missing), balanced divs (43/43), valid CollectionPage/Breadcrumb JSON-LD, reciprocal hreflang added on HE source, 0 fabricated facts."
+  ],
+  "ru-o-nas.html": [
+    "odot.html",
+    "verified-complete (24/11): About page, full structural parity with HE -- matching image count (11/11), h2 count (6/6), balanced divs (22/22), valid AboutPage/Breadcrumb JSON-LD, reciprocal hreflang added on HE source, 0 fabricated facts."
+  ],
+  "ru-voprosy-o-magazine.html": [
+    "sheelot.html",
+    "verified-complete (24/11): FAQ page, full structural parity with HE -- matching image count (9/9), h2 count (3/3), details/FAQ count (19/19), balanced divs (42/42), valid FAQPage/Breadcrumb JSON-LD, reciprocal hreflang added on HE source, 0 fabricated facts."
+  ],
+  "ru-rajony-obsluzhivaniya.html": [
+    "shchunot.html",
+    "verified-complete (24/11): neighborhoods/service-area page, full structural parity with HE -- matching image count (11/11), h2 count (3/3), balanced divs (63/63), valid LocalBusiness/Breadcrumb JSON-LD, reciprocal hreflang added on HE source, 0 fabricated facts."
+  ],
+  "ru-dostupnost.html": [
+    "negishut.html",
+    "verified-complete (24/11): accessibility statement (legal page), full structural parity with HE -- matching image count (9/9), h2 count (6/6), balanced divs (22/22), no JSON-LD on source (none added), reciprocal hreflang added on HE source, precise legal translation with 0 added/removed commitments."
+  ],
+  "ru-politika-konfidencialnosti.html": [
+    "pratiut.html",
+    "verified-complete (24/11): privacy policy (legal page), full structural parity with HE -- matching image count (9/9), h2 count (9/9), balanced divs (23/23), no JSON-LD on source (none added), reciprocal hreflang added on HE source, precise legal translation with 0 added/removed commitments."
+  ],
+  "ru-usloviya-ispolzovaniya.html": [
+    "takanon.html",
+    "verified-complete (24/11): terms of use (legal page), full structural parity with HE -- matching image count (9/9), h2 count (13/13), balanced divs (22/22), no JSON-LD on source (none added), reciprocal hreflang added on HE source, precise legal translation with 0 added/removed commitments."
   ]
 }
