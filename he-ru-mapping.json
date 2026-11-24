@@ -250,5 +250,13 @@
   "ru-zasor-v-rakovine-ili-dushe.html": [
     "blog-stima-bakiyor-kfitz.html",
     "verified-complete (24/11): structural parity confirmed, img/h2/FAQ counts match HE exactly."
+  ],
+  "ru-kleyashchiesya-kryuchki.html": [
+    "blog-vavim-nidbakim.html",
+    "verified-complete (24/11): full structural parity with HE -- matching image count (16/16), h2 count (7/7), details/FAQ count (5/5), balanced divs (37/37), valid Article/Breadcrumb/FAQPage/HowTo JSON-LD, reciprocal hreflang added on HE source, 0 fabricated facts."
+  ],
+  "ru-shpaklevka-gipsokarton.html": [
+    "blog-shpachtel-kir-gevs.html",
+    "verified-complete (24/11): structural parity confirmed, img/h2/FAQ counts match HE exactly."
   ]
 }
