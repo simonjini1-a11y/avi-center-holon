@@ -214,5 +214,57 @@
   "ru-kakoj-shlang-dlya-dusha.html": [
     "blog-eyze-tzinor-miklachat.html",
     "verified-complete (23/11): full structural parity with HE -- matching image count (21/21), h2 count (7/7), details/FAQ count (5/5), balanced divs (40/40), valid FAQPage/Article/Breadcrumb/HowTo/ItemList JSON-LD, reciprocal hreflang added on HE source, 0 fabricated facts."
+  ],
+  "ru-dublikat-klyuchey-gid.html": [
+    "blog-shichpul-mafteach-madrich.html",
+    "verified-complete (24/11): structural parity confirmed, img/h2/FAQ counts match HE exactly."
+  ],
+  "ru-kak-povesit-tyazheloe-zerkalo.html": [
+    "blog-tlia-tmuna-kveda.html",
+    "verified-complete (24/11): structural parity confirmed, img/h2/FAQ counts match HE exactly."
+  ],
+  "ru-klyuch-pochtovy-yashchik.html": [
+    "blog-shichpul-mafteach-teivat-doar.html",
+    "verified-complete (24/11): structural parity confirmed, img/h2/FAQ counts match HE exactly."
+  ],
+  "ru-remont-techi-v-krane.html": [
+    "blog-tikun-nezila-beberez.html",
+    "verified-complete (24/11): structural parity confirmed, img/h2/FAQ counts match HE exactly."
+  ],
+  "ru-remont-utechki-vody.html": [
+    "blog-tikun-nezilat-mayim.html",
+    "verified-complete (24/11): structural parity confirmed, img/h2/FAQ counts match HE exactly."
+  ],
+  "ru-shpaklevka-kakaya-nuzhna.html": [
+    "blog-shpachtel-hamadrich-hashalem.html",
+    "verified-complete (24/11): structural parity confirmed, img/h2/FAQ counts match HE exactly."
+  ],
+  "ru-shpaklevka-naruzhnaya-stena.html": [
+    "blog-shpachtel-kir-chitzoni.html",
+    "verified-complete (24/11): structural parity confirmed, img/h2/FAQ counts match HE exactly."
+  ],
+  "ru-silikon-ili-montazhnyj-klej.html": [
+    "blog-silikon-o-montack.html",
+    "verified-complete (24/11): structural parity confirmed, img/h2/FAQ counts match HE exactly."
+  ],
+  "ru-zasor-v-rakovine-ili-dushe.html": [
+    "blog-stima-bakiyor-kfitz.html",
+    "verified-complete (24/11): structural parity confirmed, img/h2/FAQ counts match HE exactly."
+  ],
+  "ru-kleyashchiesya-kryuchki.html": [
+    "blog-vavim-nidbakim.html",
+    "verified-complete (24/11): full structural parity with HE -- matching image count (16/16), h2 count (7/7), details/FAQ count (5/5), balanced divs (37/37), valid Article/Breadcrumb/FAQPage/HowTo JSON-LD, reciprocal hreflang added on HE source, 0 fabricated facts."
+  ],
+  "ru-shpaklevka-gipsokarton.html": [
+    "blog-shpachtel-kir-gevs.html",
+    "verified-complete (24/11): structural parity confirmed, img/h2/FAQ counts match HE exactly."
+  ],
+  "ru-shpaklevka-gid.html": [
+    "blog-shpachtel-madrich.html",
+    "verified-complete (24/11): structural parity confirmed, img/h2/FAQ counts match HE exactly (19/19, 22/22, 10/10), balanced divs (50/50), valid Article/Breadcrumb/FAQPage JSON-LD, reciprocal hreflang added on HE source, 0 fabricated facts."
+  ],
+  "ru-shpaklevka-vremya-sykhnet.html": [
+    "blog-shpachtel-zman-yibush.html",
+    "verified-complete (24/11): structural parity confirmed, img/h2/FAQ counts match HE exactly (15/15, 7/7, 7/7), balanced divs (41/41), valid Article/Breadcrumb/FAQPage JSON-LD, reciprocal hreflang added on HE source, 0 fabricated facts."
   ]
 }
